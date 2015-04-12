@@ -37,6 +37,14 @@
   color: black;
 }
 
+.jumbotron button {
+  color: white;
+  background-color: steelblue;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: navy;
+}
 
 .learn-more {
   background-color: #f7f7f7;
@@ -52,17 +60,18 @@
   color: #00b0ff;
 }
 
-.neighborhood-guides {
+.local-guides {
   background-color: #efefef;
   border-bottom: 1px solid #dbdbdb;
 }
 
-.neighborhood-guides h2 {
+.local-guides h2 {
   color: #393c3d;
   font-size: 24px;
+  font-family: 'Lobster',cursive;
 }
 
-.neighborhood-guides p {
+.local-guides p {
     font-size: 15px;
     margin-bottom: 13px;
 }
