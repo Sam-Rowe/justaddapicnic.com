@@ -17,6 +17,11 @@ The park has great access for pushchairs and wheelchairs, with pavements through
 
 Parking is pay and display, please visit the Maidstone Council [website]("http://www.maidstone.gov.uk/residents/parks-and-play-areas/cobtree") for details.
 
+#### Close by
+
+The [Museum of Kent Life](https://kentlife.org.uk/) is under a mile away from the park.  
+[The Malta Inn](http://www.beefeater.co.uk/steak-restaurant/Kent/Malta-Inn-Maidstone.html) is under a mile away from the park.
+
 ## Gallery
 
 <div class="container">

@@ -15,9 +15,17 @@ The toilets are at the main entrance to the park and a fair walk from the play e
 
 The park offers a large covered ampitheatre where the local council and other groups put on events.
 
+Maidstone barracks is the closest train station to this park.
+
+#### Close by
+
+There is a retail park a short walk from the park that offers cafes and shopping.
+
+The park is just over a mile from Maidstone town centre where a wide variety of cafes and shops can be found.
+
 ## Gallery
 
- <div class="container">
+<div class="container">
 
       <div class="row">
 
@@ -51,8 +59,10 @@ The park offers a large covered ampitheatre where the local council and other gr
           </div>
         </div>
         
+    
       </div>      
-    </div>
+
+</div>
 
 ### How to find it...
 Whatman Park, Waterside Gate, Maidstone, ME16 0GB

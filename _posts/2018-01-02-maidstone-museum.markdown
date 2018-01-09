@@ -2,7 +2,7 @@
 layout: post
 title:  "Maidstone Museum"
 date:   2018-01-02 09:48:04 +0000
-categories: [indoors, kent, musuem]
+categories: [indoors, kent, museum]
 tag: maidstone
 permalink: maidstone-museum
 excerpt: An eclectic mix of Maidstone based memorabilia from dinosaur fossils to World War 2 medals and uniforms.  Trails to follow, costumes to try on, ancient artifacts and tools and a dinosaur to hunt.
@@ -17,9 +17,15 @@ There is a lovely cafe here that offers a superb range of food and drink.  There
 
 The Museum does not have its own public carpark. There are several pay and display carparks in Maidstone town centre that can be used. The Museum is also within walking distance of Maidstone East Train Station.
 
+#### Close by
+
+This museum is located just off the main shopping precinct in Maidstone, giving a wide vareity of shops and cafes.
+
+If you looing for somewhere a little quieter to eat your lunch the river is a short walk from the museum and offers a welcome change of scenery and fresh air.
+
 ## Gallery
 
- <div class="container">
+<div class="container">
 
       <div class="row">
 
@@ -54,7 +60,7 @@ The Museum does not have its own public carpark. There are several pay and displ
         </div>
         
       </div>      
-    </div>
+</div>
 
 
 
