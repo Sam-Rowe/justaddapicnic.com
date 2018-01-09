@@ -2,7 +2,8 @@
 layout: post
 title:  "Cobtree Manor Park"
 date:   2018-01-03 10:48:04 +0000
-categories: outdoors kent park maidstone
+categories: [outdoors, kent, park]
+tag: maidstone
 permalink: cobtree-park
 excerpt: A fantastic park on the site of the old Maidstone Zoo.  It has a great range of play equipment, a cafe with toilets and lovely walks through the gardens and woodland.
 ---
@@ -71,4 +72,4 @@ Here's a list of things you might want to take with you:
 * Items for den building; there are often lots of logs and branches left in the woodland for your little ones to use as den material.  An old blanket or tarpauline might add to the experience for your children.
 
 ### Share with us
-Once you've visited the museum share your experience with your friends and family on social media using the #justaddapicnic.  Help us keep our website up-to-date by sharing changes with us at suggestions@justaddapicnic.com. 
+Once you've visited the park share your experience with your friends and family on social media using the #justaddapicnic.  Help us keep our website up-to-date by sharing changes with us at suggestions@justaddapicnic.com. 

@@ -2,7 +2,8 @@
 layout: post
 title:  "Whatman Park"
 date:   2018-01-03 10:48:04 +0000
-categories: outdoors kent park maidstone
+categories: [outdoors, kent, park]
+tag: maidstone
 permalink: whatman-park
 excerpt: A large park set on the banks of the River Medway, a short walk from Maidstone town centre.  It offers some lovely open spaces, several play areas and beautiful views of the river and its' wildlife.
 ---
@@ -70,4 +71,4 @@ Here's a list of things you might want to take with you:
 
 
 ### Share with us
-Once you've visited the museum share your experience with your friends and family on social media using the #justaddapicnic.  Help us keep our website up-to-date by sharing changes with us at suggestions@justaddapicnic.com. 
+Once you've visited the park share your experience with your friends and family on social media using the #justaddapicnic.  Help us keep our website up-to-date by sharing changes with us at suggestions@justaddapicnic.com. 

@@ -2,7 +2,8 @@
 layout: post
 title:  "Guildhall Museum"
 date:   2018-01-02 12:48:04 +0000
-categories: indoors kent musuem rochester
+categories: [indoors, kent, musuem]
+tag: rochester
 permalink: guildhall-rochester
 excerpt: An eclectic mix of Rochester based memorabilia. Step into the world of Dickensian Rochester and explore what it was like to live in the city at that time.  Discover the smelly, cramped Hulks that used to lie off the banks of the Medway in Rochester.
 ---
@@ -13,6 +14,9 @@ Rochester Museum offers visitors the opportunity to experience a number of aspec
 The museum is arranged over many levels within Grade 1 and 2 listed buildings and does not have a lift.  Unfortunately access for wheelchairs and pushchairs is very limited.  Please see the [museums' website](http://www.medway.gov.uk/leisurecultureandsport/localhistoryandarchives/museums/guildhallmuseum.aspx) for sull details about accessibility.  There are toilets and baby changing facilities available here.  The museum itself does not have a cafe on site, however, Rochester High Street offers a wide range of wonderful cafes and restuarants where all tastes and diets are catered for.
 
 The museum does not have a public car park, however, there are several public car parks in Rochester that can be used to access the museum.  Rochester train station is a short walk from the museum and there are several bus routes that stop along Corporation Street (Stop P or Stop A) right behind the museum. 
+
+#### Close by
+If you wish to indulge in more history and art [Rochester Cathederal](#) is also free to enter and a joy to explore.  If your little ones require room to run around and burn off some energy there is a small playground on the banks of the River Medway at the foot of the castle on the Esplandde. Follow the High Street towards Rochester Bridge and proceed to walk along the Esplande.
 
 ## Gallery
 

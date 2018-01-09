@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# Welcome to the home of free days out!
+# The home of free days out!
 
 Here at Just Add a Picnic we have taken the time to discover many of the fabulous free days out around Kent.  So whether you are looking for something to do indoors during the cooler, wetter winter weather, or you'd like a new beach to explore in the summer sunshine, you've come to the right place.  
 
