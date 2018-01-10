@@ -13,7 +13,7 @@
 .site-title {
   @include relative-font-size(2.5);
   font-family: $title-font-family;
-  color: $brand-color;
+  color: white;
   font-weight: 300;
   line-height: $base-line-height * $base-font-size * 4;
   letter-spacing: -1px;
@@ -27,7 +27,7 @@
 }
 
 .site-nav {
-  float: left;
+  float: right;
   line-height: $base-line-height * $base-font-size * 2.25;
 
   .nav-trigger {
@@ -43,6 +43,8 @@
     line-height: $base-line-height;
     display: inline;
     border: none;
+    background: none;
+    float: left;
   
 
     // Gaps between nav items, but not on the last one
@@ -207,7 +209,22 @@
   @include relative-font-size(1.5);
 }
 
+.nav-button {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 
+
+.btn-default {
+  background-color: white;
+  border: solid, 1px, black;
+  color: $brand-color;
+   &:not(:last-child) {
+        padding-right: 5px;
+      }
+
+}
+}
 
 /**
  * Posts

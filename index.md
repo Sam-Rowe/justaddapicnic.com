@@ -11,4 +11,4 @@ Here at Just Add a Picnic we have taken the time to discover many of the fabulou
 
 We hope you find your next great day out, and if there is somewhere that you know that we haven't yet discovered please tell us by e-mailing suggestions@justaddapicnic.com.  That way we can share it with everyone else and more people can enjoy an amazing free day out.
 
-Here are some of the locations we have added recently.  Otherwise click on the Indoors and Outdoors menu icons to find somewhere great to have a picnic.
+Here are some of the locations we have added recently.  Otherwise click on the Indoors and Outdoors menu items to find somewhere great to have a picnic.
