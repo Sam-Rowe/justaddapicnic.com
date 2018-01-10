@@ -3,7 +3,7 @@ layout: post
 title:  "Cliffe Park"
 date:   2018-01-04 12:48:04 +0000
 categories: [outdoors, kent, park]
-tag: cliffe
+tags: Cliffe
 permalink: cliffe-park
 excerpt: A great little park in a country village located near some brilliant cycle routes and bird watching opportunities.
 ---

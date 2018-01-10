@@ -3,7 +3,7 @@ layout: post
 title:  Capstone Farm Country Park
 date:   2018-01-08 20:14:04 +0000
 categories: [outdoors, kent, park]
-tag: Chatham
+tags: Chatham
 permalink: 
 excerpt: A great park to visit if you want to hang out in the park and walk around the lake for a hour or two, or spend the whole day exploring the extensive walking and running trails that take you across the Kent countryside.
 ---

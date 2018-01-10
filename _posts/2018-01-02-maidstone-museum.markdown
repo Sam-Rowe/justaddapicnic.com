@@ -3,7 +3,7 @@ layout: post
 title:  "Maidstone Museum"
 date:   2018-01-02 09:48:04 +0000
 categories: [indoors, kent, museum]
-tag: maidstone
+tags: Maidstone
 permalink: maidstone-museum
 excerpt: An eclectic mix of Maidstone based memorabilia from dinosaur fossils to World War 2 medals and uniforms.  Trails to follow, costumes to try on, ancient artifacts and tools and a dinosaur to hunt.
 ---

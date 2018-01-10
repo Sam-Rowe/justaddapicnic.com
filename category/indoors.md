@@ -13,10 +13,14 @@ permalink: indoors
     {% if post.url %}
     	<li>
         	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+       	<p>
+          {% if post.tags.size > 0 %}
+            {{ post.tags }}
+          {% endif %}
+        </p>
     			{{ post.excerpt }}
     	</li>
     {% endif %}
   {% endfor %}
 </ul>
-
 

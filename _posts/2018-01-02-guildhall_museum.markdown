@@ -3,7 +3,7 @@ layout: post
 title:  "Guildhall Museum"
 date:   2018-01-02 12:48:04 +0000
 categories: [indoors, kent, museum]
-tag: rochester
+tags: Rochester
 permalink: guildhall-rochester
 excerpt: An eclectic mix of Rochester based memorabilia. Step into the world of Dickensian Rochester and explore what it was like to live in the city at that time.  Discover the smelly, cramped Hulks that used to lie off the banks of the Medway in Rochester.
 ---

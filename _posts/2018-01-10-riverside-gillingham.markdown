@@ -3,7 +3,7 @@ layout: default
 title:  "Riverside Country Park"
 date:   2018-01-10 09:48:04 +0000
 categories: [outdoors, kent, park]
-tag: gillingham
+tags: Gillingham
 permalink: 
 excerpt: Take a walk along the River Medway to Horrid Hill or Motney Hill and enjoy some beautiful surroundings and wildlife.  Warm up at the Visitors Centre and enjoy the fantastic play equipment in the park.
 ---
