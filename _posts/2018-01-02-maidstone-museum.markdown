@@ -26,40 +26,39 @@ If you looing for somewhere a little quieter to eat your lunch the river is a sh
 ## Gallery
 
 <div class="container">
+<div class="row">
 
-      <div class="row">
+<div class="col-md-4">
+  <div class="card" id="portrait">
+    <img src="/images/kent/indoors/maidstone_museum/Maidstone_Museum1.jpg" class="img-fluid">
+  </div>
 
-        <div class="col-md-4">
-          <div class="card" id="portrait">
-            <img src="/images/kent/indoors/maidstone_museum/Maidstone_Museum1.jpg" class="img-fluid">
-          </div>
+  <div class="card" id="landscape">
+    <img src="/images/kent/indoors/maidstone_museum/Maidstone_Museum5.jpg" class="img-fluid">
+  </div>
+</div>
 
-          <div class="card" id="landscape">
-            <img src="/images/kent/indoors/maidstone_museum/Maidstone_Museum5.jpg" class="img-fluid">
-          </div>
-        </div>
+<div class="col-md-4">
+  <div class="card" id="portrait">
+    <img src="/images/kent/indoors/maidstone_museum/Maidstone_Museum7.jpg" class="img-fluid">
+  </div>
 
-        <div class="col-md-4">
-          <div class="card" id="portrait">
-            <img src="/images/kent/indoors/maidstone_museum/Maidstone_Museum7.jpg" class="img-fluid">
-          </div>
+  <div class="card" id="landscape">
+    <img src="/images/kent/indoors/maidstone_museum/Maidstone_Museum2.jpg" class="img-fluid">
+  </div>
+</div>
 
-          <div class="card" id="landscape">
-            <img src="/images/kent/indoors/maidstone_museum/Maidstone_Museum2.jpg" class="img-fluid">
-          </div>
-        </div>
+<div class="col-md-4">
+  <div class="card" id="portrait">
+    <img src="/images/kent/indoors/maidstone_museum/Maidstone_Museum8.jpg" class="img-fluid">
+  </div>
 
-        <div class="col-md-4">
-          <div class="card" id="portrait">
-            <img src="/images/kent/indoors/maidstone_museum/Maidstone_Museum8.jpg" class="img-fluid">
-          </div>
+  <div class="card" id="landscape">
+    <img src="/images/kent/indoors/maidstone_museum/Maidstone_Museum9.jpg" class="img-fluid">
+  </div>
+</div>
 
-          <div class="card" id="landscape">
-            <img src="/images/kent/indoors/maidstone_museum/Maidstone_Museum9.jpg" class="img-fluid">
-          </div>
-        </div>
-        
-      </div>      
+</div>      
 </div>
 
 
