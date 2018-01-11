@@ -12,7 +12,7 @@ permalink: indoors
   {% for post in site.categories.indoors %}
     {% if post.url %}
     	<li>
-        	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        	<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
        	<p>
           {% if post.tags.size > 0 %}
             {{ post.tags }}

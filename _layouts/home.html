@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
 
-<!--   <h1 class="page-heading">Great Days Out</h1> -->
+
   
   {{ content }}
 
@@ -29,6 +29,14 @@ layout: default
     {% endfor %}
   </ul>
 
-<!--   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
- -->
+<div class="nav-button">
+  <button type="button" class="btn btn-default">
+    <a href="/Indoors/">Indoors</a>
+  </button>
+
+  <button type="button" class="btn btn-default">
+    <a href="/outdoors/">Outdoors</a>
+  </button>
+</div>
+
 </div>

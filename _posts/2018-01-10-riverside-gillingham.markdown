@@ -9,7 +9,8 @@ excerpt: Take a walk along the River Medway to Horrid Hill or Motney Hill and en
 ---
 
 <header class="post-header">
-<div class="jumbotron" style="background-image:url(/images/kent/outdoors/riverside-gillingham/Riverside_4.jpg) ;color:#FFF;height:400px;">
+<!-- <div class="jumbotron" style="background-image:url(/images/kent/outdoors/riverside-gillingham/Riverside_4.jpg) ;color:#FFF;height:400px;">
+ -->
 <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
 <div class="post-categories">
   {% if post %}
@@ -22,7 +23,7 @@ excerpt: Take a walk along the River Medway to Horrid Hill or Motney Hill and en
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
 </div>
-</div>
+<!-- </div> -->
 </header>
 
 ## What's there?
