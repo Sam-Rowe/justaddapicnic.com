@@ -1,0 +1,85 @@
+---
+layout: post
+title:  "The Strand Leisure Park"
+date:   2018-01-16 11:10:04 +0000
+categories: outdoors kent park
+tag: Gillingham
+permalink: 
+excerpt: The Strand Leisure Park is set ont he banks of the River Medway and offers an amazing array of activities, particularly in the warmer months, with 3 play areas to chose from, a splash pool, mini train, crazy golf and lido there is plenty for everyone.
+---
+
+## What's there?
+
+This is a bustling park with plenty to keep everyone entertained.  There are 3 great play areas, all a little different.  One is set in sand, another in bark and the third, largest one is on the main grass area closest to the entrance.  These 3 parks offer a range of play equipment for all ages and abilities.  In the warmer months there is a splash pool that is incredibly popular and a fun way to cool off after a long day at school or playing in the park.  The River offers a beach where you can find shells, throw stones in the sticky mud and maybe discover some hiding wildlife.  The park offers lots of flat paths that are great for pushchairs and bikes. 
+
+There are also lots of activities here that you can pay for, check out [Medway Council's website](http://www.medway.gov.uk/leisurecultureandsport/sportscentres/thestrand.aspx) for more details on charges and availability.
+
+There is a large toilet block and cafe near the entrance to the park.  There are some benches and picnic benches around the park and you can usually find somewhere to sit and eat.  If you chose to go on a hot summer day, expect it to be busy and bring your own blanket.
+
+There is plenty of car parking which is pay and display.  Gillingham train station is approximately 1 mile away. Several buses stop on Pier Road close to the park (176,177,183,190,191).
+
+#### Close by
+
+Hilly Fields Community Park is only half a mile from The Strand.
+
+[Riverside Country Park](#) is 2 miles away and can be reach by car or by foot and cycle following the [Saxon Shore Way](http://www.medway.gov.uk/pdf/walking_the_saxon_shore_way_through_medway.pdf).  It offers more great play equipment and lovely walks around the River Wetlands where you can do some bird watching and nature spotting.
+
+Gillingham town centre is only 1 mile away and offers a variety of shops and food outlets.
+
+## Gallery
+
+<div class="container">
+
+  <div class="row">
+
+    <div class="col-md-4">
+      <div class="card" id="portrait">
+        <img src="/images/kent/outdoors/strand/Strand_1.jpg" class="img-fluid">
+      </div>
+
+      <div class="card" id="landscape">
+        <img src="/images/kent/outdoors/strand/Strand_2.jpg" class="img-fluid">
+      </div>  
+    </div>
+
+    <div class="col-md-4">
+      <div class="card" id="lanscape">
+        <img src="/images/kent/outdoors/strand/Strand_3.jpg" class="img-fluid">
+      </div>
+
+      <div class="card" id="portrait">
+        <img src="/images/kent/outdoors/strand/Strand_5.jpg" class="img-fluid">
+      </div>
+    </div>
+
+    <div class="col-md-4">
+      <div class="card" id="portrait">
+        <img src="/images/kent/outdoors/strand/Strand_6.jpg" class="img-fluid">
+      </div>
+
+      <div class="card" id="landscape">
+        <img src="/images/kent/outdoors/strand/Strand_4.jpg" class="img-fluid">
+      </div>
+    </div>
+
+  </div>      
+</div>
+
+
+### How to find it...
+
+Victory Works, Strand Approach Road, Gillingham, ME7 1TT
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d4978.874184748275!2d0.5597000335593468!3d51.39502297961684!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sThe+Strand!5e0!3m2!1sen!2suk!4v1516101750341" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+### What to take
+
+You can just turn up and enjot this park if you want to.  If you'd like to extend your stay here and make use of some of the facilities on offer you could bring:
+
+* Buckets, spades and sand accessories for the sand pit.
+* Bikes and scooters 
+* Swimming kit; if you intend to use the splash pool on a hot day.
+
+
+### Share with us
+Once you've visited the park share your experience with your friends and family on social media using the #justaddapicnic.  Help us keep our website up-to-date by sharing changes with us at suggestions@justaddapicnic.com. 
