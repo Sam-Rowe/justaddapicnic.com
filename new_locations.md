@@ -20,5 +20,6 @@ Or if you are tech savvy feel free to find our code in {% include icon-github.ht
 * A list of things you would usually take with you, and maybe some other items you think might be useful.
 * Any places that you know that are nearby that guests might be interested in e.g. parks, museums, historical sites etc.
 * A website; if it has one.
+* Some photographs; ideally with no people or unrecognisible people.  We will also need a statement expressig your permission that we can use these images publicly on our website and future marketing material.
 
 
