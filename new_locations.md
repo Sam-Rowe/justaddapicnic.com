@@ -6,11 +6,11 @@ permalink:
 
 ## How you can help...
 
-If you think you know of a great location that we should add to our site, then send us some more information to suggestions@justaddapicnic.com . 
+If you think you know of a great FREE location that we should add to our site, then send us some more information to [{{ site.email }}](mailto:{{ site.email }}"). 
 
-Or if you are tech savvy feel free to find our code in {% include icon-github.html %}[GitHub](https://github.com/) and write a new post for your location.  We will then check the code and merge it into our site.
+Or if you are tech savvy feel free to find our code in {% include icon-github.html %}[GitHub](https://github.com/) and write a new post for your location.  The website currenty uses [Jekyll](https://jekyllrb.com/).  We will then check the code and merge it into our site.
 
-{% include icon-github.html %} Github Repo can be found at: 
+{% include icon-github.html %} Github Repo can be found at: [Justaddapicnic](https://github.com/Sam-Rowe/justaddapicnic.com)
 
 ## What we need to know...
 
