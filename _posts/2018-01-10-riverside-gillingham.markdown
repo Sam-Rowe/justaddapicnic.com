@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Riverside Country Park"
 date:   2018-01-10 09:48:04 +0000
 categories: [outdoors, kent, park]
@@ -7,24 +7,6 @@ tags: Gillingham
 permalink: 
 excerpt: Take a walk along the River Medway to Horrid Hill or Motney Hill and enjoy some beautiful surroundings and wildlife.  Warm up at the Visitors Centre and enjoy the fantastic play equipment in the park.
 ---
-
-<header class="post-header">
-<!-- <div class="jumbotron" style="background-image:url(/images/kent/outdoors/riverside-gillingham/Riverside_4.jpg) ;color:#FFF;height:400px;">
- -->
-<h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <a href="{{site.baseurl}}/{{category|slugize}}">{{category}}</a>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
-<!-- </div> -->
-</header>
 
 ## What's there?
 
