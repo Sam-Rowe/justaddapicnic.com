@@ -96,5 +96,4 @@ Whether you want to explore the rock pools, relax on the sand or "dig to China" 
 * We always bring 2 hats for the children, one wet and one dry.
 * Lots of sun cream and water.
 
-### Share with us
-Once you've visited the beach share your experience with your friends and family on social media using the #justaddapicnic.  Help us keep our website up-to-date by sharing changes with us at suggestions@justaddapicnic.com. 
+

@@ -79,5 +79,4 @@ Jeskyns Community Woodland, Henhurst Road, Cobham DA12 3AN.
 * There are some lovely open spaces perfect for ball games, cricket and frisbee. 
 * Kites could easily be flown here. (Although you might want to tie your children down)
 
-### Share with us
-Once you've visited the park share your experience with your friends and family on social media using the #justaddapicnic.  Help us keep our website up-to-date by sharing changes with us at suggestions@justaddapicnic.com. 
+

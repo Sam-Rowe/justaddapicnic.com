@@ -80,6 +80,3 @@ This park such great play equipment you could play here all day and just bring y
 * Fishing nets and buckets.  There are a few places along the Great Stour where you can safely dip your nets into the water and see what you can find.
 * Bikes; there are several trails and paths around the Great Stour that intersect with this park. Get active and enjoy them.
 
-
-### Share with us
-Once you've visited the park share your experience with your friends and family on social media using the #justaddapicnic.  Help us keep our website up-to-date by sharing changes with us at [{{ site.email }}](mailto:{{ site.email }}"). 

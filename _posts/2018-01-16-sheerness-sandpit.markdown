@@ -95,5 +95,3 @@ Always bring lots of suncream and water.
 * Things to play in the water with e.g. buckets, watering cans, plastic cups etc.
 
 
-### Share with us
-Once you've visited the sandpit share your experience with your friends and family on social media using the #justaddapicnic.  Help us keep our website up-to-date by sharing changes with us at suggestions@justaddapicnic.com. 

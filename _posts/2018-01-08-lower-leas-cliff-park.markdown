@@ -87,6 +87,3 @@ There are purpose built BBQ stands here for you to have your BBQ at the beach, r
 There are several sand based play areas; so spades, buckets and seives would all be very useful.
 
 There is usually plenty of seating in and around the play areas, but this does become crowded at busy times.  Bringing your own picnic blanket gives you the flexibility to find a quieter spot in the gardens or on the beach to enjoy your lunch.
-
-### Share with us
-Once you've visited the park share your experience with your friends and family on social media using the #justaddapicnic.  Help us keep our website up-to-date by sharing changes with us at suggestions@justaddapicnic.com. 

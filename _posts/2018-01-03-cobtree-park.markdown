@@ -76,5 +76,3 @@ Here's a list of things you might want to take with you:
 * A picnic blanket; there is a lot of seating around the cafe area, but is get very busy at peak times.  It can be nice to find a shady spot in the gardens away from the park to eat your lunch.
 * Items for den building; there are often lots of logs and branches left in the woodland for your little ones to use as den material.  An old blanket or tarpauline might add to the experience for your children.
 
-### Share with us
-Once you've visited the park share your experience with your friends and family on social media using the #justaddapicnic.  Help us keep our website up-to-date by sharing changes with us at suggestions@justaddapicnic.com. 
