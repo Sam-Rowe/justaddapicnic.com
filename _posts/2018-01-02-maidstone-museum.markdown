@@ -79,5 +79,4 @@ Here's a list of things you might want to take with you:
 * A camera
 * Your latest school project description; there's bound to be something here that's relevant.
 
-### Share with us
-Once you've visited the museum share your experience with your friends and family on social media using the #justaddapicnic.  Help us keep our website up-to-date by sharing changes with us at suggestions@justaddapicnic.com. 
+

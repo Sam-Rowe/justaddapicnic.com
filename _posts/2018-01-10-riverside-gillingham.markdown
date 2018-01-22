@@ -82,6 +82,3 @@ There's lots to do here from cycling along the paths, to finding shells and crab
 * A football or cricket set, during quieter times the overflow car park is under used or closed and it offers a great space for ball games.
 
 
-
-### Share with us
-Once you've visited the park share your experience with your friends and family on social media using the #justaddapicnic.  Help us keep our website up-to-date by sharing changes with us at suggestions@justaddapicnic.com. 

@@ -74,5 +74,4 @@ If you just intend to enjoy the park then just take your picnic and a blanket to
 * A kite
 
 
-### Share with us
-Once you've visited the park share your experience with your friends and family on social media using the #justaddapicnic.  Help us keep our website up-to-date by sharing changes with us at suggestions@justaddapicnic.com. 
+

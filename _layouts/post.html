@@ -26,6 +26,11 @@ layout: default
     {{ content }}
   </div>
 
+  <div class="post-footer">
+    <h3>Share with us</h3>
+    <p>Once you've visited {{ page.title | escape }} share your experience with your friends and family on social media using the #justaddapicnic.  Help us keep our website up-to-date by sharing changes with us at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.</p>
+  </div>  
+
   {% if site.disqus.shortname %}
     {% include disqus_comments.html %}
   {% endif %}

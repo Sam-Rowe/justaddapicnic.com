@@ -74,5 +74,4 @@ Here's some things you could take with you:
 * Buckets; to collect your finds (please leave any wildlife where you found it so that it can carry on with its' life).
 * Wet wipes; exploring hands tend to get pretty muddy.  The toilets do offer clean running water, but are back at the carpark.
 
-### Share with us
-Once you've visited the beach share your experience with your friends and family on social media using the #justaddapicnic.  Help us keep our website up-to-date by sharing changes with us at suggestions@justaddapicnic.com. 
+
