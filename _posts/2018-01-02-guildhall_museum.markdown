@@ -31,31 +31,31 @@ Along the High Street you will also find the [Rochester Visitors Center](https:/
 
 <div class="col-md-4">
   <div class="card" id="portrait">
-    <img src="/images/kent/indoors/guildhall_rochester/guildhall5.jpg" class="img-fluid">
+    <img src="/images/kent/indoors/guildhall_rochester/guildhall5.jpg" alt="prison hulk reconstruction" class="img-fluid">
   </div>
 
   <div class="card" id="landscape">
-    <img src="/images/kent/indoors/guildhall_rochester/guildhall1.jpg" class="img-fluid">
+    <img src="/images/kent/indoors/guildhall_rochester/guildhall1.jpg" alt="Rochester castle model, showing the seige." class="img-fluid">
   </div>
 </div>
 
 <div class="col-md-4">
   <div class="card" id="portrait">
-    <img src="/images/kent/indoors/guildhall_rochester/guildhall2.jpg" class="img-fluid">
+    <img src="/images/kent/indoors/guildhall_rochester/guildhall2.jpg" alt="The beautiful decorated ceiling in the main museum building" class="img-fluid">
   </div>
 
   <div class="card" id="landscape">
-    <img src="/images/kent/indoors/guildhall_rochester/guildhall3.jpg" class="img-fluid">
+    <img src="/images/kent/indoors/guildhall_rochester/guildhall3.jpg" alt="Models of boats that used to frequent the Medway River near Rochester" class="img-fluid">
   </div>
 </div>
 
 <div class="col-md-4">
   <div class="card" id="portrait">
-    <img src="/images/kent/indoors/guildhall_rochester/guildhall4.jpg" class="img-fluid">
+    <img src="/images/kent/indoors/guildhall_rochester/guildhall4.jpg" alt="a reconstruction of a small ships wheelhouse that children can use to pretend to drive the boat" class="img-fluid">
   </div>
 
   <div class="card" id="landscape">
-    <img src="/images/kent/indoors/guildhall_rochester/guildhall6.jpg" class="img-fluid">
+    <img src="/images/kent/indoors/guildhall_rochester/guildhall6.jpg" alt="Some Victorian dolls fromt he toy collection in the second building." class="img-fluid">
   </div>
 </div>
 

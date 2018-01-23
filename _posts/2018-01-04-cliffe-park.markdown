@@ -27,31 +27,31 @@ Cliffe Pools [RSPB reserve](http://ww2.rspb.org.uk/reserves-and-events/find-a-re
 
         <div class="col-md-4">
           <div class="card" id="landscape">
-            <img src="/images/kent/outdoors/cliffe_park/CliffePark_3.jpg" class="img-fluid">
+            <img src="/images/kent/outdoors/cliffe_park/CliffePark_3.jpg" alt="A springy lion to play on" class="img-fluid">
           </div>
 
           <div class="card" id="portrait">
-            <img src="/images/kent/outdoors/cliffe_park/CliffePark_5.jpg" class="img-fluid">
+            <img src="/images/kent/outdoors/cliffe_park/CliffePark_5.jpg" alt="A large suspended swing and picnic bench in the background" class="img-fluid">
           </div>
         </div>
 
         <div class="col-md-4">
           <div class="card" id="landscape">
-            <img src="/images/kent/outdoors/cliffe_park/CliffePark_8.jpg" class="img-fluid">
+            <img src="/images/kent/outdoors/cliffe_park/CliffePark_8.jpg" alt="The zipwire" class="img-fluid">
           </div>
 
           <div class="card" id="portrait">
-            <img src="/images/kent/outdoors/cliffe_park/CliffePark_6.jpg" class="img-fluid">
+            <img src="/images/kent/outdoors/cliffe_park/CliffePark_6.jpg" alt="Large climbing frame and view to the swings" class="img-fluid">
           </div>
         </div>
 
         <div class="col-md-4">
           <div class="card" id="landscape">
-            <img src="/images/kent/outdoors/cliffe_park/CliffePark_2.jpg" class="img-fluid">
+            <img src="/images/kent/outdoors/cliffe_park/CliffePark_2.jpg" alt="smaller childrens climbing frame" class="img-fluid">
           </div>
 
           <div class="card" id="portrait">
-            <img src="/images/kent/outdoors/cliffe_park/CliffePark_4.jpg" class="img-fluid">
+            <img src="/images/kent/outdoors/cliffe_park/CliffePark_4.jpg" alt="Older children's climbing frame with high monkey bars and bar slide" class="img-fluid">
           </div>
         </div>
         

@@ -11,15 +11,16 @@ excerpt: A fantastic park on the site of the old Maidstone Zoo.  It has a great 
 ## What's there?
 Cobtree Manor Park is located on the site of the old Maidstone Zoo, which closed down over 80 years ago. The old Elephant House remains, and now an extensive and exciting range of play equipment has been installed for our own little monkeys. The park offers beautifully landscaped gardens, which are a delight to walk around, and a newly built cafe and toilet facilities. The woods offer a wonderful walk and oppotunities for den building and fairy spotting.  If you're lucky you might just spot a fairy door on a tree trunk. This is a lovely stop on the way home for restless children after a day of shopping in Maidstone or Chatham.
 
-Dogs, with responsible owners, are welcome.  There is also an extensive Bridleway here that intelocks with other bridleways in the area, with the large carpark this could be a good place to start from.
+Dogs, with responsible owners, are welcome.  There is also an extensive bridleway here that interlocks with other bridleways in the area, with the large carpark this could be a good place to start from.
 
 The park has great access for pushchairs and wheelchairs, with pavements throughout the park allowing access to all of the areas.
 
-Parking is pay and display, please visit the Maidstone Council [website]("http://www.maidstone.gov.uk/residents/parks-and-play-areas/cobtree") for details.
+Parking is pay and display, please visit the Maidstone Council [website](http://www.maidstone.gov.uk/residents/parks-and-play-areas/cobtree) for details.
 
 #### Close by
 
-The [Museum of Kent Life](https://kentlife.org.uk/) is under a mile away from the park.  
+The [Museum of Kent Life](https://kentlife.org.uk/) is under a mile away from the park. 
+
 [The Malta Inn](http://www.beefeater.co.uk/steak-restaurant/Kent/Malta-Inn-Maidstone.html) is under a mile away from the park.
 
 ## Gallery
@@ -30,31 +31,31 @@ The [Museum of Kent Life](https://kentlife.org.uk/) is under a mile away from th
 
         <div class="col-md-4">
           <div class="card" id="portrait">
-            <img src="./images/kent/outdoors/cobtree_park/Cobtree_2.jpg" class="img-fluid">
+            <img src="./images/kent/outdoors/cobtree_park/Cobtree_2.jpg" alt="children playing on springy seesaws" class="img-fluid">
           </div>
 
           <div class="card" id="landscape">
-            <img src="http://www.maidstone.gov.uk/__data/assets/image/0018/60183/Zipwire.jpg" class="img-fluid">
+            <img src="http://www.maidstone.gov.uk/__data/assets/image/0018/60183/Zipwire.jpg" alt="Picnic bench and zipwire in the distance" class="img-fluid">
           </div>
         </div>
 
         <div class="col-md-4">
           <div class="card" id="portrait">
-            <img src="./images/kent/outdoors/cobtree_park/Cobtree_3.jpg" class="img-fluid">
+            <img src="./images/kent/outdoors/cobtree_park/Cobtree_3.jpg" alt="slides inside the play fort" class="img-fluid">
           </div>
 
           <div class="card" id="landscape">
-            <img src="http://www.maidstone.gov.uk/__data/assets/image/0015/60171/Maidstone-Zoo-Play-Area-7.jpg" class="img-fluid">
+            <img src="http://www.maidstone.gov.uk/__data/assets/image/0015/60171/Maidstone-Zoo-Play-Area-7.jpg" alt="A wide angle view inside the play fort" class="img-fluid">
           </div>
         </div>
 
         <div class="col-md-4">
           <div class="card" id="portrait">
-            <img src="http://www.maidstone.gov.uk/__data/assets/image/0004/60169/Maidstone-Zoo-Play-Area-5.jpg" class="img-fluid">
+            <img src="http://www.maidstone.gov.uk/__data/assets/image/0004/60169/Maidstone-Zoo-Play-Area-5.jpg" alt="climbing equipment inside the fort" class="img-fluid">
           </div>
 
           <div class="card" id="landscape">
-            <img src="http://www.maidstone.gov.uk/__data/assets/image/0018/60165/Maidstone-Zoo-Play-Area-1.jpg" class="img-fluid">
+            <img src="http://www.maidstone.gov.uk/__data/assets/image/0018/60165/Maidstone-Zoo-Play-Area-1.jpg" alt="The entrance to the Maidstone Zoo play fort" class="img-fluid">
           </div>
         </div>
         

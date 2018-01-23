@@ -2,7 +2,7 @@
 layout: post
 title:  "Sheerness Sandpit and splash pool"
 date:   2018-01-16 10:20:04 +0000
-categories: outdoors kent sandpit park
+categories: [outdoors, kent, sandpit, park]
 tag: Sheerness
 permalink: 
 excerpt: A fantastic sandpit park where you can spend several hours enjoying the lovely weather.  When you get bored of the sand there is a great splash pool and the beach is close by too.
@@ -38,7 +38,7 @@ Sheerness High Street and other local retailers offer an array of places to purc
 
     <div class="col-md-4">
       <div class="card" id="landscape">
-        <img src="/images/kent/outdoors/sheerness_sandpit/sheerness_1.jpg" class="img-fluid">
+        <img src="/images/kent/outdoors/sheerness_sandpit/sheerness_1.jpg" alt="Wooden train climbing frame at the splash pool" class="img-fluid">
       </div>
 
 <!--       <div class="card" id="landscape">
@@ -48,7 +48,7 @@ Sheerness High Street and other local retailers offer an array of places to purc
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="/images/kent/outdoors/sheerness_sandpit/sheerness_2.jpg" class="img-fluid">
+        <img src="/images/kent/outdoors/sheerness_sandpit/sheerness_2.jpg" alt="Pirate ship climbing frame in the main sand pit" class="img-fluid">
       </div>
 
 <!--       <div class="card" id="portrait">
@@ -58,7 +58,7 @@ Sheerness High Street and other local retailers offer an array of places to purc
 
     <div class="col-md-4">
       <div class="card" id="landscape">
-        <img src="/images/kent/outdoors/sheerness_sandpit/sheerness_3.jpg" class="img-fluid">
+        <img src="/images/kent/outdoors/sheerness_sandpit/sheerness_3.jpg"  alt="A view along the promanade by Sheerness beach" class="img-fluid">
       </div>
 
 <!--       <div class="card" id="landscape">

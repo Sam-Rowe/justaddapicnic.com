@@ -30,7 +30,7 @@ Darland Banks, a chalk nature reserve and Luton Rec are within a 20 minute walk;
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/gillingham_park/GillinghamPark_2.jpg" class="img-fluid">
+        <img src="/images/kent/outdoors/gillingham_park/GillinghamPark_2.jpg" alt=" Children's play equipment, floor trampolines, climbing frames and swings" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
@@ -40,7 +40,7 @@ Darland Banks, a chalk nature reserve and Luton Rec are within a 20 minute walk;
 
     <div class="col-md-4">
       <div class="card" id="landscape">
-        <img src="/images/kent/outdoors/gillingham_park/GillinghamPark_7.jpg" class="img-fluid">
+        <img src="/images/kent/outdoors/gillingham_park/GillinghamPark_7.jpg" alt="view across the green space at the park" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
@@ -50,7 +50,7 @@ Darland Banks, a chalk nature reserve and Luton Rec are within a 20 minute walk;
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/gillingham_park/GillinghamPark_4.jpg" class="img-fluid">
+        <img src="/images/kent/outdoors/gillingham_park/GillinghamPark_4.jpg" alt="Smaller children's climbing frame and slides" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">

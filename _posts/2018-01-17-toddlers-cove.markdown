@@ -2,7 +2,7 @@
 layout: post
 title:  "Toddler's Cove"
 date:   2018-01-17 10:48:04 +0000
-categories: outdoors kent park
+categories: [outdoors, kent, park]
 tag: Canterbury
 permalink: 
 excerpt: An fantastic park set alongside the Great Stour between Canterbury East and Canterbury West train stations.  It offers a wide range of fabulous play equipment, space to play football, opportunities to dip your fishing nets in the water and large leafy trees to lounge under in the sunshine.
@@ -35,21 +35,21 @@ Dane John Gardens; a large manicured gardens with small childrens play area is n
 
     <div class="col-md-6">
       <div class="card" id="landscape">
-        <img src="/images/kent/outdoors/toddlers_cove/toddlers_cove1.jpg" class="img-fluid">
+        <img src="/images/kent/outdoors/toddlers_cove/toddlers_cove1.jpg" alt="view of the play equipment and wardens building with toilets" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="/images/kent/outdoors/toddlers_cove/toddlers_cove2.jpg" class="img-fluid">
+        <img src="/images/kent/outdoors/toddlers_cove/toddlers_cove2.jpg" alt="Sunken ship climbing frame and slide" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-6">
       <div class="card" id="lanscape">
-        <img src="/images/kent/outdoors/toddlers_cove/toddlers_cove3.jpg" class="img-fluid">
+        <img src="/images/kent/outdoors/toddlers_cove/toddlers_cove3.jpg" alt="Front view of the large wooden fort" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="/images/kent/outdoors/toddlers_cove/toddlers_cove4.jpg" class="img-fluid">
+        <img src="/images/kent/outdoors/toddlers_cove/toddlers_cove4.jpg" alt="rear view of the large wooden fort" class="img-fluid">
       </div>
     </div>
 

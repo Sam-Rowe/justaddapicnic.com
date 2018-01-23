@@ -2,7 +2,7 @@
 layout: post
 title:  "Minnis Bay"
 date:   2018-01-16 11:48:04 +0000
-categories: outdoors kent beach
+categories: [outdoors, kent, beach]
 tag: Birchington-on-Sea
 permalink: 
 excerpt: A fantastic all-round beach. It offers sandy and stony beaches with a large tidal swimming pool and great rock pools to explore at low tide.  There is a playground and large playing field behind the beach.
@@ -43,7 +43,7 @@ Margate is 5 miles away if you feel the need for a busier seaside town.
 
     <div class="col-md-4">
       <div class="card" id="landscape">
-        <img src="/images/kent/outdoors/minnis_bay/MinnisBay_1.jpg" class="img-fluid">
+        <img src="/images/kent/outdoors/minnis_bay/MinnisBay_1.jpg" alt="A view towards the east end of the beach" class="img-fluid">
       </div>
 <!-- 
       <div class="card" id="landscape">
@@ -53,7 +53,7 @@ Margate is 5 miles away if you feel the need for a busier seaside town.
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="/images/kent/outdoors/minnis_bay/MinnisBay_2.jpg" class="img-fluid">
+        <img src="/images/kent/outdoors/minnis_bay/MinnisBay_2.jpg" alt="A view towards the west end of the beach" class="img-fluid">
       </div>
 <!-- 
       <div class="card" id="portrait">
@@ -63,7 +63,7 @@ Margate is 5 miles away if you feel the need for a busier seaside town.
 
     <div class="col-md-4">
       <div class="card" id="landscape">
-        <img src="/images/kent/outdoors/minnis_bay/MinnisBay_6.jpg" class="img-fluid">
+        <img src="/images/kent/outdoors/minnis_bay/MinnisBay_6.jpg" alt="The tidal swimming pool and beach huts" class="img-fluid">
       </div>
 
 <!--       <div class="card" id="landscape">
