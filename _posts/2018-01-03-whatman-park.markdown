@@ -2,7 +2,7 @@
 layout: post
 title:  "Whatman Park"
 date:   2018-01-03 10:48:04 +0000
-categories: [outdoors, kent, park]
+categories: [outdoors, kent, park, sandpit]
 tags: Maidstone
 permalink: whatman-park
 excerpt: A large park set on the banks of the River Medway, a short walk from Maidstone town centre.  It offers some lovely open spaces, several play areas and beautiful views of the river and its' wildlife.
@@ -31,31 +31,31 @@ The park is just over a mile from Maidstone town centre where a wide variety of 
 
         <div class="col-md-4">
           <div class="card" id="portrait">
-            <img src="/images/kent/outdoors/whatman_park/Whatman1.jpg" class="img-fluid">
+            <img src="/images/kent/outdoors/whatman_park/Whatman1.jpg" alt="Childrens play area with hill slides, large climbing frame and zipwires" class="img-fluid">
           </div>
 
           <div class="card" id="landscape">
-            <img src="/images/kent/outdoors/whatman_park/Whatman3.jpg" class="img-fluid">
+            <img src="/images/kent/outdoors/whatman_park/Whatman3.jpg" alt="Smaller childrens play area with pirate theme, swings and sandpit" class="img-fluid">
           </div>
         </div>
 
         <div class="col-md-4">
           <div class="card" id="portrait">
-            <img src="/images/kent/outdoors/whatman_park//Whatman4.jpg" class="img-fluid">
+            <img src="/images/kent/outdoors/whatman_park//Whatman4.jpg" alt="beautiful tree by the rivers edge" class="img-fluid">
           </div>
 
           <div class="card" id="landscape">
-            <img src="/images/kent/outdoors/whatman_park/Whatman5.jpg" class="img-fluid">
+            <img src="/images/kent/outdoors/whatman_park/Whatman5.jpg" alt="Picture of the pirate themed play area" class="img-fluid">
           </div>
         </div>
 
         <div class="col-md-4">
           <div class="card" id="portrait">
-            <img src="/images/kent/outdoors/whatman_park/Whatman7.jpg" class="img-fluid">
+            <img src="/images/kent/outdoors/whatman_park/Whatman7.jpg" alt="Partially covered ampitheatre and grassy lawn" class="img-fluid">
           </div>
 
           <div class="card" id="landscape">
-            <img src="/images/kent/outdoors/whatman_park/IMG_1216.jpg" class="img-fluid">
+            <img src="/images/kent/outdoors/whatman_park/IMG_1216.jpg" alt="Wooden treetop and woodlan walkway" class="img-fluid">
           </div>
         </div>
         

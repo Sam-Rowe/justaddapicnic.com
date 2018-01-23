@@ -30,31 +30,31 @@ If you looing for somewhere a little quieter to eat your lunch the river is a sh
 
 <div class="col-md-4">
   <div class="card" id="portrait">
-    <img src="/images/kent/indoors/maidstone_museum/Maidstone_Museum1.jpg" class="img-fluid">
+    <img src="/images/kent/indoors/maidstone_museum/Maidstone_Museum1.jpg" alt="A Solomon Island Canoe from the 19th century" class="img-fluid">
   </div>
 
   <div class="card" id="landscape">
-    <img src="/images/kent/indoors/maidstone_museum/Maidstone_Museum5.jpg" class="img-fluid">
+    <img src="/images/kent/indoors/maidstone_museum/Maidstone_Museum5.jpg" alt="A display of clothing through time, showing how fashions have changed." class="img-fluid">
   </div>
 </div>
 
 <div class="col-md-4">
   <div class="card" id="portrait">
-    <img src="/images/kent/indoors/maidstone_museum/Maidstone_Museum7.jpg" class="img-fluid">
+    <img src="/images/kent/indoors/maidstone_museum/Maidstone_Museum7.jpg" alt="The Maidstone Mummy" class="img-fluid">
   </div>
 
   <div class="card" id="landscape">
-    <img src="/images/kent/indoors/maidstone_museum/Maidstone_Museum2.jpg" class="img-fluid">
+    <img src="/images/kent/indoors/maidstone_museum/Maidstone_Museum2.jpg" alt="Discover the human body and how the skeleton works" class="img-fluid">
   </div>
 </div>
 
 <div class="col-md-4">
   <div class="card" id="portrait">
-    <img src="/images/kent/indoors/maidstone_museum/Maidstone_Museum8.jpg" class="img-fluid">
+    <img src="/images/kent/indoors/maidstone_museum/Maidstone_Museum8.jpg" alt="A cannon" class="img-fluid">
   </div>
 
   <div class="card" id="landscape">
-    <img src="/images/kent/indoors/maidstone_museum/Maidstone_Museum9.jpg" class="img-fluid">
+    <img src="/images/kent/indoors/maidstone_museum/Maidstone_Museum9.jpg" alt="the outside of the museum" class="img-fluid">
   </div>
 </div>
 

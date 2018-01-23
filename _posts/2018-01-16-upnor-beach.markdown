@@ -2,7 +2,7 @@
 layout: post
 title:  "Upnor Beach"
 date:   2018-01-16 09:48:04 +0000
-categories: outdoors kent beach
+categories: [outdoors, kent, beach]
 tag: Upnor
 permalink: 
 excerpt: A pebbly beach along the Medway River that offers a nice walk and lots of wildlife finding opportunities.  Enjoy a picnic on a sunny afternoon and watch the boats go up and down the River.
@@ -28,21 +28,21 @@ The [Arethusa Venture Centre](http://arethusa.org.uk/) is right on the Riverside
 
     <div class="col-md-6">
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/upnor_beach/upnor_1.jpg" class="img-fluid">
+        <img src="/images/kent/outdoors/upnor_beach/upnor_1.jpg" alt="Ooohh Look a Jellyfish!" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="/images/kent/outdoors/upnor_beach/upnor_2.jpg" class="img-fluid">
+        <img src="/images/kent/outdoors/upnor_beach/upnor_2.jpg" alt="view fo the boats anchored in the River Medway" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-6">
       <div class="card" id="lanscape">
-        <img src="/images/kent/outdoors/upnor_beach/Upnor_3.jpg" class="img-fluid">
+        <img src="/images/kent/outdoors/upnor_beach/Upnor_3.jpg" alt="We found a tiny Crab!" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/upnor_beach/Upnor_4.jpg" class="img-fluid">
+        <img src="/images/kent/outdoors/upnor_beach/Upnor_4.jpg" alt=" An old gun bunker that has slipped onto the beach" class="img-fluid">
       </div>
     </div>
 

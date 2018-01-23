@@ -32,31 +32,31 @@ Gravesend Town centre is approximately 10 miles away.
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/jeskyns/Jeskyns2.jpg" class="img-fluid">
+        <img src="/images/kent/outdoors/jeskyns/Jeskyns2.jpg" alt="View of the paths around the park" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="/images/kent/outdoors/jeskyns/Jeskyns4.jpg" class="img-fluid">
+        <img src="/images/kent/outdoors/jeskyns/Jeskyns4.jpg" alt="people walking along the grassy paths" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="/images/kent/outdoors/jeskyns/Jeskyns7.jpg" class="img-fluid">
+        <img src="/images/kent/outdoors/jeskyns/Jeskyns7.jpg" alt="A view of the large grassy banks and wide grassy footpaths" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/jeskyns/Jeskyns6.jpg" class="img-fluid">
+        <img src="/images/kent/outdoors/jeskyns/Jeskyns6.jpg" alt="Large wooden tree fort and benched" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/jeskyns/Jeskyns12.jpg" class="img-fluid">
+        <img src="/images/kent/outdoors/jeskyns/Jeskyns12.jpg" alt="Wooden teepee frames for den building" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="/images/kent/outdoors/jeskyns/Jeskyns11.jpg" class="img-fluid">
+        <img src="/images/kent/outdoors/jeskyns/Jeskyns11.jpg" alt="Childrens play area with tunnels and tree trunks and objects to climb on" class="img-fluid">
       </div>
     </div>
 
