@@ -1,0 +1,16 @@
+machine:
+  ruby:
+    version:
+      2.4.0
+test:
+  pre:
+    - bundle install: # note ':' here.
+        timeout: 180
+  override:
+    - bundle exec jekyll build
+
+deployment:
+  prod:
+    branch: master
+    commands:
+      - "aws s3 sync ./_site/ s3://justaddapicnic.com/ --delete --acl public-read"
