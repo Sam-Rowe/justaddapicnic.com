@@ -9,7 +9,8 @@ permalink: outdoors
 
 
 <ul class="post-list">
-  {% for post in site.categories.outdoors %}
+  {% assign sorted_pages = site.categories.outdoors | sort:"tags" %}
+  {% for post in sorted_pages %}
     {% if post.url %}
         <li>
         	<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>

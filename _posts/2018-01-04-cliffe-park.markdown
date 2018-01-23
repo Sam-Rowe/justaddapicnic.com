@@ -61,7 +61,7 @@ Cliffe Pools [RSPB reserve](http://ww2.rspb.org.uk/reserves-and-events/find-a-re
 
 ### How to find it...
 
-Church Street, Cliffe, Nr Rochester, Kent
+Church Street, Cliffe, Nr Rochester, Kent, ME3 7QN.
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1XseQTRrf4IUh4iDgrOcAB5f1s3qJefP0" width="350" height="350"></iframe>
 

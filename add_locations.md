@@ -1,6 +1,6 @@
 ---
 layout: page
-title: New Locations
+title: Add Locations
 permalink: 
 ---
 

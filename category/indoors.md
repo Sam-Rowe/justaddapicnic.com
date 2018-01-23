@@ -9,8 +9,10 @@ permalink: indoors
 
 
 <ul class="post-list">
-  {% for post in site.categories.indoors %}
+  {% assign sorted_pages = site.categories.indoors | sort:"tags" %}
+  {% for post in sorted_pages %}
     {% if post.url %}
+
     	<li>
         	<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
        	<p>
