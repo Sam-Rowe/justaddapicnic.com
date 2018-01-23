@@ -12,7 +12,7 @@ excerpt: A great little park in a country village located near some brilliant cy
 
 A lovely park in the heart of the village, it has a good range of play equipment for all ages.  We love using this park as a stop over when visiting the [RSPB reserve](http://ww2.rspb.org.uk/reserves-and-events/find-a-reserve/reserves-a-z/reserves-by-name/c/cliffepools/) on Cliffe Marshes.  It is within easy riding distance to Cliffe Pools if you chose to cycle within the village and accompanying countryside.  The park also sits next the recreation ground where there is a small number of skate ramps and a large playing field where children can practice riding their bike, playing football or cricket.
 
-There is only on street parking here, however, there is parking by St Helen's Church, a short walk from the park.  The public toilets at the bus stop by the church are often open, the church and doctors surgery also have toilets that we have used on occassion with permission.
+There is only on street parking here, however, there is parking by St Helen's Church, a short walk from the park.  There are no public toilets at the park, but you can use the [Medway Council website](http://www.medway.gov.uk/information/findmynearest.aspx?stype=36) to find your closest facilities.
 
 #### Close by
 [St Helen's church](http://cliffechurch.org/index.html) was built around 1000 years ago and has some beautiful features and an active role in the community.
