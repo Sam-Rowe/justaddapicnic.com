@@ -28,6 +28,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
+google_analytics: UA-XXXXXXXX-X # Sed during build to replace this with contents of environment variable 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
