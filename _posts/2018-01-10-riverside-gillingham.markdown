@@ -22,7 +22,7 @@ There is plenty of free parking and the 131 and 190 buses stop near the country 
 
 Riverside Country Park is part of the [Saxon Shore Way](http://www.medway.gov.uk/pdf/walking_the_saxon_shore_way_through_medway.pdf) which offers extensive walks around the Kent coast line.  You could follow the paths and walk, run or cycle to The Strand Park.
 
-[The Strand Park](#) is a great play park a short drive (2 miles) from Riverside Country Park, or you could even cycle, run or walk there along the Saxon Shore Way. It offers several different play areas, cafe and toilets, a lido (charges apply) and splash pool (free) in the summer.
+[The Strand Park](/outdoors/kent/park/sandpit/2018/01/16/strand.html) is a great play park a short drive (2 miles) from Riverside Country Park, or you could even cycle, run or walk there along the Saxon Shore Way. It offers several different play areas, cafe and toilets, a lido (charges apply) and splash pool (free) in the summer.
 
 ## Gallery
 

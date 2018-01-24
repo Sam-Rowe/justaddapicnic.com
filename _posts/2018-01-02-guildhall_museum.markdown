@@ -4,7 +4,7 @@ title:  "The Guildhall Museum"
 date:   2018-01-02 12:48:04 +0000
 categories: [indoors, kent, museum]
 tags: Rochester
-permalink: guildhall-rochester
+permalink: 
 excerpt: A window into the key historical events in Rochester and the Medway River; from the siege of Rochester Castle to the Battle of the Medway. Step into the world of Dickensian Rochester and explore what it was like to live in the city at that time.  Discover the smelly, cramped Hulks that used to lie off the banks of the Medway in Rochester.
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Indoors
-permalink: indoors
+permalink: 
 ---
 
 
