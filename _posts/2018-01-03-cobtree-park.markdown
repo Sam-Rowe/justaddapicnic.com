@@ -4,7 +4,7 @@ title:  "Cobtree Manor Park"
 date:   2018-01-03 10:48:04 +0000
 categories: [outdoors, kent, park]
 tags: Maidstone
-permalink: cobtree-park
+permalink: 
 excerpt: A fantastic park on the site of the old Maidstone Zoo.  It has a great range of play equipment, a cafe with toilets and lovely walks through the gardens and woodland.
 ---
 

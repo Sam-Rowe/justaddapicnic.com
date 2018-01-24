@@ -16,7 +16,7 @@ So pack up your picnic and find your next great day out.
   </button>
 
   <button type="button" class="btn btn-default">
-    <a href="/outdoors/">Outdoors</a>
+    <a href="/Outdoors/">Outdoors</a>
   </button>
 </div>
 
@@ -38,7 +38,7 @@ We need the help of everyone to build a website like this and really make it flo
 
 * e-mail us at [{{ site.email }}](mailto:{{ site.email }}") if you find something on our site that's not quite right, from spelling mistakes to out of date information, or even a better photograph you have taken and are willing to share.
 
-* Read the [New Locations](/new_locations/) page and e-mail us the information we need to share one of your favourite places to visit.  Remember it must be FREE to visit (we don't include parking charges in this).
+* Read the [Add Locations](/add_locations/) page and e-mail us the information we need to share one of your favourite places to visit.  Remember it must be FREE to visit (we don't include parking charges in this).
 
 * If you're a fellow coder check out our website from {% include icon-github.html %} [GitHub](https://github.com/Sam-Rowe/justaddapicnic.com) and build your own location page, we will then check and review it, and hopefully it will be included in the website.
 

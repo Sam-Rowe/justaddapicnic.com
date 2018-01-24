@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Indoors
+title: Kent
 permalink: 
 ---
 
 
-## Take a peek at some great indoor locations...
+## Take a peek at some great Kent locations...
 
 
 <ul class="post-list">
-  {% assign sorted_pages = site.categories.indoors | sort:"tags" %}
+  {% assign sorted_pages = site.categories.kent | sort:"tags" %}
   {% for post in sorted_pages %}
     {% if post.url %}
 
@@ -25,4 +25,3 @@ permalink:
     {% endif %}
   {% endfor %}
 </ul>
-

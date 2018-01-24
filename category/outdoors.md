@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Outdoors
-permalink: outdoors
+permalink:
 ---
 
 

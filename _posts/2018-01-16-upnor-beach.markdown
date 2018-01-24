@@ -38,11 +38,11 @@ The [Arethusa Venture Centre](http://arethusa.org.uk/) is right on the Riverside
 
     <div class="col-md-6">
       <div class="card" id="lanscape">
-        <img src="/images/kent/outdoors/upnor_beach/Upnor_3.jpg" alt="We found a tiny Crab!" class="img-fluid">
+        <img src="/images/kent/outdoors/upnor_beach/upnor_3.jpg" alt="We found a tiny Crab!" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/upnor_beach/Upnor_4.jpg" alt=" An old gun bunker that has slipped onto the beach" class="img-fluid">
+        <img src="/images/kent/outdoors/upnor_beach/upnor_4.jpg" alt=" An old gun bunker that has slipped onto the beach" class="img-fluid">
       </div>
     </div>
 
