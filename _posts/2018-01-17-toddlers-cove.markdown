@@ -35,21 +35,21 @@ Dane John Gardens; a large manicured gardens with small childrens play area is n
 
     <div class="col-md-6">
       <div class="card" id="landscape">
-        <img src="/images/kent/outdoors/toddlers_cove/toddlers_cove1.jpg" alt="view of the play equipment and wardens building with toilets" class="img-fluid">
+        <img src="/images/kent/outdoors/toddlers_cove/toddlers_cove1.JPG" alt="view of the play equipment and wardens building with toilets" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="/images/kent/outdoors/toddlers_cove/toddlers_cove2.jpg" alt="Sunken ship climbing frame and slide" class="img-fluid">
+        <img src="/images/kent/outdoors/toddlers_cove/toddlers_cove2.JPG" alt="Sunken ship climbing frame and slide" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-6">
       <div class="card" id="lanscape">
-        <img src="/images/kent/outdoors/toddlers_cove/toddlers_cove3.jpg" alt="Front view of the large wooden fort" class="img-fluid">
+        <img src="/images/kent/outdoors/toddlers_cove/toddlers_cove3.JPG" alt="Front view of the large wooden fort" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="/images/kent/outdoors/toddlers_cove/toddlers_cove4.jpg" alt="rear view of the large wooden fort" class="img-fluid">
+        <img src="/images/kent/outdoors/toddlers_cove/toddlers_cove4.JPG" alt="rear view of the large wooden fort" class="img-fluid">
       </div>
     </div>
 

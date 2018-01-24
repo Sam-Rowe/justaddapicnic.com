@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sheerness Sandpit and splash pool"
+title:  "Sheerness Sandpit and Splash Pool"
 date:   2018-01-16 10:20:04 +0000
 categories: [outdoors, kent, sandpit, park]
 tags: Sheerness
@@ -38,7 +38,7 @@ Sheerness High Street and other local retailers offer an array of places to purc
 
     <div class="col-md-4">
       <div class="card" id="landscape">
-        <img src="/images/kent/outdoors/sheerness_sandpit/sheerness_1.jpg" alt="Wooden train climbing frame at the splash pool" class="img-fluid">
+        <img src="/images/kent/outdoors/sheerness_sandpit/sheerness_1.JPG" alt="Wooden train climbing frame at the splash pool" class="img-fluid">
       </div>
 
 <!--       <div class="card" id="landscape">
@@ -48,7 +48,7 @@ Sheerness High Street and other local retailers offer an array of places to purc
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="/images/kent/outdoors/sheerness_sandpit/sheerness_2.jpg" alt="Pirate ship climbing frame in the main sand pit" class="img-fluid">
+        <img src="/images/kent/outdoors/sheerness_sandpit/sheerness_2.JPG" alt="Pirate ship climbing frame in the main sand pit" class="img-fluid">
       </div>
 
 <!--       <div class="card" id="portrait">
