@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Just Add a Picnic - Kent
+title: Just Add a Picnic
 email: suggestions@justaddapicnic.com
 description: >- # this means to ignore newlines until "baseurl:"
   Fantastic days out where you just need to add a picnic.
@@ -21,7 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: JustAddAPicnic
 github_username: https://github.com/Sam-Rowe/justaddapicnic.com
-
+disqus_shortname: 
 # Build settings
 markdown: kramdown
 theme: minima
