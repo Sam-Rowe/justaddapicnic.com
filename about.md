@@ -12,11 +12,11 @@ So pack up your picnic and find your next great day out.
 
 <div class="nav-button">
   <button type="button" class="btn btn-default">
-    <a href="/category/Indoors/">Indoors</a>
+    <a href="/category/indoors/">Indoors</a>
   </button>
 
   <button type="button" class="btn btn-default">
-    <a href="/category/Outdoors/">Outdoors</a>
+    <a href="/category/outdoors/">Outdoors</a>
   </button>
 </div>
 
