@@ -6,6 +6,10 @@ categories: [outdoors, kent, park]
 tags: Cliffe
 permalink: 
 excerpt: A great little park in a country village located near some brilliant cycle routes and bird watching opportunities.
+images:
+ - url: /images/kent/outdoors/cliffe_park/CliffePark_2.jpg
+   alt: Children's play area
+   title: Cliffe Park
 ---
 
 ## What's there?

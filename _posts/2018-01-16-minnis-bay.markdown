@@ -6,6 +6,10 @@ categories: [outdoors, kent, beach]
 tag: Birchington-on-Sea
 permalink: 
 excerpt: A fantastic all-round beach. It offers sandy and stony beaches with a large tidal swimming pool and great rock pools to explore at low tide.  There is a playground and large playing field behind the beach.
+images:
+ - url: /images/kent/outdoors/minnis_bay/MinnisBay_1.jpg
+   alt: View to the east end of Minnis Bay
+   title: Minnis Bay
 ---
 
 ## What's there?

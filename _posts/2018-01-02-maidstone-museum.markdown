@@ -6,6 +6,10 @@ categories: [indoors, kent, museum]
 tags: Maidstone
 permalink: 
 excerpt: An eclectic mix of Maidstone based memorabilia from dinosaur fossils to World War 2 medals and uniforms.  Trails to follow, costumes to try on, ancient artifacts and tools and a dinosaur to hunt.
+images:
+ - url: /images/kent/indoors/maidstone_museum/Maidstone_Museum4.jpg
+   alt: T-Rex from Maidstone Museum
+   title: Maidstone Museum
 ---
 
 ## What's there?

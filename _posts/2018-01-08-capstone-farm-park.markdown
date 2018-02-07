@@ -6,6 +6,10 @@ categories: [outdoors, kent, park]
 tags: Chatham
 permalink: 
 excerpt: A great park to visit if you want to hang out in the park and walk around the lake for a hour or two, or spend the whole day exploring the extensive walking and running trails that take you across the Kent countryside.
+images:
+ - url: /images/kent/outdoors/capstone_farm/Capstone5.jpg
+   alt: Children's play area
+   title: Capstone Farm Park
 ---
 
 ## What's there?

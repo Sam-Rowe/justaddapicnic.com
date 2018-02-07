@@ -6,6 +6,10 @@ categories: [outdoors, kent, sandpit, park]
 tags: Sheerness
 permalink: 
 excerpt: A fantastic sandpit park where you can spend several hours enjoying the lovely weather.  When you get bored of the sand there is a great splash pool and the beach is close by too.
+images:
+ - url: /images/kent/outdoors/sheerness_sandpit/sheerness_2.JPG
+   alt: The sandpit and climbing frames.
+   title: Sheerness Sandpit
 ---
 
 ## What's there?

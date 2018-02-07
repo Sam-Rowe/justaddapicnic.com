@@ -6,6 +6,11 @@ categories: [outdoors, kent, park]
 tags: Gillingham
 permalink: 
 excerpt: A lovely flat park with lots of footpaths perfect for learning how to ride your bike or use your new rollerskates.  It has a large open green for ball games and kite flying and lots of great play equipment.
+
+images:
+ - url: /images/kent/outdoors/gillingham_park/GillinghamPark_2.jpg
+   alt: Children's play area
+   title: Gillingham Park
 ---
 
 ## What's there?

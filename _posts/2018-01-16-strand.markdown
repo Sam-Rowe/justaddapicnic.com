@@ -6,6 +6,10 @@ categories: [outdoors, kent, park, sandpit]
 tag: Gillingham
 permalink: 
 excerpt: The Strand Leisure Park is set ont he banks of the River Medway and offers an amazing array of activities, particularly in the warmer months, with 3 play areas to chose from, a splash pool, mini train, crazy golf and lido there is plenty for everyone.
+images:
+ - url: /images/kent/outdoors/strand/Strand_2.jpg
+   alt: Childrens Playground
+   title: The Strand Leisure Park
 ---
 
 ## What's there?

@@ -6,6 +6,11 @@ categories: [outdoors, kent, park]
 tag: Canterbury
 permalink: 
 excerpt: An fantastic park set alongside the Great Stour between Canterbury East and Canterbury West train stations.  It offers a wide range of fabulous play equipment, space to play football, opportunities to dip your fishing nets in the water and large leafy trees to lounge under in the sunshine.
+
+images:
+ - url: /images/kent/outdoors/toddlers_cove/toddlers_cove1.JPG
+   alt: view of the play equipment and wardens building with toilets
+   title: Toddler's Cove
 ---
 
 ## What's there?
