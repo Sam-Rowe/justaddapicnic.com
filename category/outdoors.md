@@ -19,7 +19,7 @@ permalink:
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
-        <p>
+        <p style="text-transform: uppercase;">
           {% if post.tags.size > 0 %}
             {{ post.tags }}
           {% endif %}
