@@ -6,10 +6,11 @@ categories: [outdoors, kent, park, sandpit]
 tag: Folkestone
 permalink: 
 excerpt: A beautifully landscped park with excellent play equipment to keep the children entertained for hours.  Close to Folkestones' stony beach and a pleasant stroll to the redeveloped harbour. 
+images:
+ - url: /images/kent/outdoors/folkestone_park/Folkestone_1.jpg
+   alt: Children's play area
+   title: Lower Leas Cliff Coastal Park
 ---
-
-<!-- image: ![Lower Leas Cliff Park](/images/kent/outdoors/folkestone_park/Folkestone_1.jpg) -->
-
 
 ## What's there?
 

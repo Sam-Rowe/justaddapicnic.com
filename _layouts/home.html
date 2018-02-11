@@ -4,43 +4,125 @@ layout: default
 
 <div class="home">
 
-<form action="/search.html" method="get">
+<!-- <form action="/search.html" method="get">
     <label for="search_box"></label>
     <input type="text" id="search_box" name="query">
     <input type="submit" value="search">
-</form>
+</form> -->
 
-  
+<br>
+
+<h1 style="text-align: center;">The home of free days out</h1>
+
+<h2>Half Term Fun</h2>
+  <p>Here are some great places we are hoping to visit this February Half Term. Maybe we'll see you there.</p>
+
+  <div class="container">
+
+          <div class="row">
+            
+            <div class="col-md-4">
+              <div class="card mb-4 box-shadow">
+                <img class="card-img-top" data-src="" alt="Thumbnail [100%x225]" style="height: 225px; width: 100%; display: block;" src="http://www.nhm.ac.uk/content/nhmwww/en/home/jcr:content/par/herosection_4666492/par2/row2cellsequals/par/ctabutton.img.full.high.jpg/1516016853623.jpg" data-holder-rendered="true">
+                <div class="card-body">
+                  <p class="card-text">The Natural History Museum, in London, is a favourite with our children, they love the interactive displays and the chance to get up close with whales, dinosaurs and the human body.</p>
+                  <div class="d-flex justify-content-between align-items-center">
+                    <div class="btn-group">
+                      <button type="button" class="btn btn-sm btn-outline-secondary">
+                        <a href="http://www.nhm.ac.uk/" target="_blank">Website</a>
+                      </button>
+                    </div>
+                    <small class="text-muted">Our page coming soon...</small>
+                  </div>
+                </div>
+              </div>
+            </div> 
+
+            <div class="col-md-4">
+              <div class="card mb-4 box-shadow">
+                <img class="card-img-top" data-src="" alt="Thumbnail [100%x225]" style="height: 225px; width: 100%; display: block;" src="https://www.kent.gov.uk/__data/assets/image/0004/42259/shorne_img_main_2.jpg" data-holder-rendered="true">
+                <div class="card-body">
+                  <p class="card-text">A fantastic place to get muddy this Half Term.  With long woodland walks, lots of puddles, fantastic play equipment and even lots of logs for den building.  What's not to love?</p>
+                  <div class="d-flex justify-content-between align-items-center">
+                    <div class="btn-group">
+                      <button type="button" class="btn btn-sm btn-outline-secondary">
+                        <a href="https://www.kent.gov.uk/leisure-and-community/kent-country-parks/shorne-woods-country-park" target="_blank">  Website</a>
+                      </button>
+                      
+                    </div>
+                    <small class="text-muted">Our page coming soon...</small>
+                  </div>
+                </div>
+              </div>
+            </div> 
+
+            <div class="col-md-4">
+              <div class="card mb-4 box-shadow">
+                <img class="card-img-top" data-src="" alt="Thumbnail [100%x225]" style="height: 225px; width: 100%; display: block;" src="/images/kent/indoors/greenwich_maritime_museum/greenwich_mm1.jpg" data-holder-rendered="true">
+                <div class="card-body">
+                  <p class="card-text">The Greenwich Martime Museum has the perfect balance of fun and history.  Lots of fantastic children's activities and right next to Greenwich park when you need space to run around.</p>
+                  <div class="d-flex justify-content-between align-items-center">
+                    <div class="btn-group">
+                      <button type="button" class="btn btn-sm btn-outline-secondary">
+                        <a href="https://www.rmg.co.uk/national-maritime-museum" target="_blank">Website</a>
+                      </button>
+              
+                    </div>
+                    <small class="text-muted">Our page coming soon...</small>
+                  </div>
+                </div>
+              </div>
+            </div> 
+
+
+          </div>
+  </div>
+
+
+
   {{ content }}
 
   <ul class="post-list">
     {% for post in site.posts limit:5 %}
-      <li>
+      <li class="post-list-layout">
         <!-- {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
- -->
+ -->    <div class="container">
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
-        <p>
+        <p style="text-transform: uppercase;">
           {% if post.tags.size > 0 %}
             {{ post.tags }}
           {% endif %}
         </p>
-        <p>
-          {{ post.excerpt }}
-        </p>
+        <div class="row index-post-list">
+          <div class="col-md-8">
+              <p>
+                {{ post.excerpt }}
+              </p>
+          </div>  
+          <div class="col-md-4">
+            {% assign image = post.images[0] %}
+            {% include image.html image=image %}
+          <button type="button" class="post-name">
+              <a href="{{ post.url | relative_url }}">Let's Go ></a>
+          </button>
+          </div>
+        </div>
+
+        </div>  
       </li>
     {% endfor %}
   </ul>
 
 <div class="nav-button">
   <button type="button" class="btn btn-default">
-    <a href="/category/indoors/">Indoors</a>
+    <a href="/category/indoors.html">Indoors</a>
   </button>
 
   <button type="button" class="btn btn-default">
-    <a href="/category/outdoors/">Outdoors</a>
+    <a href="/category/outdoors.html">Outdoors</a>
   </button>
 </div>
 

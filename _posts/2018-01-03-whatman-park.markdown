@@ -6,6 +6,10 @@ categories: [outdoors, kent, park, sandpit]
 tags: Maidstone
 permalink: 
 excerpt: A large park set on the banks of the River Medway, a short walk from Maidstone town centre.  It offers some lovely open spaces, several play areas and beautiful views of the river and its' wildlife.
+images:
+ - url: /images/kent/outdoors/whatman_park/Whatman1.jpg
+   alt: Children's play area
+   title: Whatman Park
 ---
 
 ## What's there?

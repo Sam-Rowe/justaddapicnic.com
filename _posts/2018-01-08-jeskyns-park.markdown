@@ -6,6 +6,10 @@ categories: [outdoors, kent, park]
 tags: Gravesend
 permalink: 
 excerpt: This is a newly established woodland is right next to the A2 near Gravesend.  It offers lots of gravel footpaths that give lovely views of the surrounding countryside.  There are several trails and play areas around the park, and a cafe and toilets close to the car park.
+images:
+ - url: /images/kent/outdoors/jeskyns/Jeskyns11.jpg
+   alt: Children's play area
+   title: Jeskyns Community Woodland
 ---
 
 ## What's there?

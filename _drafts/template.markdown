@@ -6,6 +6,10 @@ categories: CATRGORY TYPES HERE
 tag: LOCATION NEAREST TOWN
 permalink: RENAME PERMALINK
 excerpt:A BRIEF DESCRIPTION OF THE LOCATION
+images:
+ - url: 
+   alt: 
+   title: 
 ---
 
 ## What's there?

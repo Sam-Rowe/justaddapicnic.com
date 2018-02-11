@@ -6,6 +6,10 @@ categories: [outdoors, kent, beach]
 tag: Upnor
 permalink: 
 excerpt: A pebbly beach along the Medway River that offers a nice walk and lots of wildlife finding opportunities.  Enjoy a picnic on a sunny afternoon and watch the boats go up and down the River.
+images:
+ - url: /images/kent/outdoors/upnor_beach/upnor_2.jpg
+   alt: View from Upnor Beach along the River Medway
+   title: Upnor Beach
 ---
 
 ## What's there?
