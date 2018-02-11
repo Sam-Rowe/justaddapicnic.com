@@ -6,6 +6,10 @@ categories: [outdoors, kent, park]
 tags: Maidstone
 permalink: 
 excerpt: A fantastic park on the site of the old Maidstone Zoo.  It has a great range of play equipment, a cafe with toilets and lovely walks through the gardens and woodland.
+images:
+ - url: http://www.maidstone.gov.uk/__data/assets/image/0018/60165/Maidstone-Zoo-Play-Area-1.jpg
+   alt: Front aspect of the play fort
+   title: Cobtree Manor Park
 ---
 
 ## What's there?

@@ -6,6 +6,10 @@ categories: [outdoors, kent, park]
 tags: Gillingham
 permalink: 
 excerpt: Take a walk along the River Medway to Horrid Hill or Motney Hill and enjoy some beautiful surroundings and wildlife.  Warm up at the Visitors Centre and enjoy the fantastic play equipment in the park.
+images:
+ - url: /images/kent/outdoors/riverside-gillingham/Riverside_9.jpg
+   alt: View of the green banks before you get to the river.
+   title: Riverside Country Park
 ---
 
 ## What's there?
