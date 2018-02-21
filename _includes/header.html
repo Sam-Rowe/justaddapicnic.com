@@ -37,12 +37,13 @@
             <a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
           </h1>  
         </div>
-
-      <form action="/search.html" method="get" style="margin: auto; width: 50%;">
+      <div class="search-box">
+        <form action="/search.html" method="get" style="margin: auto; width: 50%;">
           <label for="search_box"></label>
-          <input type="text" id="search_box" name="query">
+          <input type="text" id="search_box" name="query" placeholder="location, keyword or town">
           <input type="submit" value="search">
-      </form>
+        </form>
+      </div>
   </div>
 </div>
 
