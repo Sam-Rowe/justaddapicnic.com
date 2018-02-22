@@ -62,5 +62,3 @@ images:
 ### What to take
 
 
-### Share with us
-Once you've visited the _________ share your experience with your friends and family on social media using the #justaddapicnic.  Help us keep our website up-to-date by sharing changes with us at suggestions@justaddapicnic.com. 

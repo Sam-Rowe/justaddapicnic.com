@@ -25,10 +25,13 @@
 .title {
       
       display: block;
-      padding: 85px;
+      padding: 2em;
       width: 80%;
       text-align: center;
 
+      @include media-query($on-palm) {
+      padding: 10px;
+      }
 
 .site-title {
 
@@ -49,8 +52,8 @@
   }
 
   @include media-query($on-palm) {
-      @include relative-font-size(2);
-      font-weight: 100;
+      @include relative-font-size(1);
+      font-weight: 50;
       line-height: $base-line-height * $base-font-size;
 
   }
@@ -145,6 +148,14 @@
   float: right;
 }
 
+.search-box {
+  
+  margin: auto; 
+  width: 50%;
+  display: inline;
+
+
+}
 
 /**
  * Site footer
@@ -294,6 +305,20 @@
 
 }
 
+.card-title {
+    background-color: $brand-color;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 0;
+    border-radius: 5px;
+
+    &:hover {
+      color: white;
+      text-decoration:  underline;
+    }
+}
+
 /**
  * Posts
  */
@@ -356,6 +381,6 @@
         float: right;
         max-height: 200px;
         max-width: 200px;
-        margin-top: -60px;
+        margin: 0.5em;
     }
 

@@ -1,0 +1,91 @@
+---
+layout: post
+title:  "Mote Park"
+date:   2018-02-11 12:48:04 +0000
+categories: [outdoors, kent, park]
+tag: Maidstone
+permalink: 
+excerpt: This is an extensive park with over 450 acres to explore set close to the centre of Madistone. It has a great children's play area, a 30 acre lake for pleasure use, a cafe and toilets. 
+images:
+ - url: /images/kent/outdoors/mote_park/Mote_Park1.jpg
+   alt: A view of the lake at Mote Park.
+   title: Mote Park
+---
+
+## What's there?
+Mote Park is an amazing park with plenty to keep everyone entertained.  Popular with families, dog walkers and people looking for a bit of peace and quiet in a busy town.  The park offers lots of walks taking in the beautiful 30 acre lake and the mansion.  There is a large childrens play area with a fabulous range of play equipment for all ages, there is also a smaller play area located near the School Lane entrance to the park.  A skate park close to the main car park and a BMX track keep older children entertained.  The lake provides a space for boating, fishing and model boats to be enjoyed.  A model railway also operates here on a Sunday during the summer months, run by [model railway enthusiasts](http://www.motepark.co.uk/attractions/model-railway/).
+
+Many of the paths around the park are tarmacked and offer easy access to the attractions the park has to offer.  They also offer a fantastic opportunity for cycle rides, scooters and roller blades.
+
+When looking for somewhere to eat your picnic there are lots of picnic benches around the main play area.  Benches also line the broadwalk around the lake up to the boat house. The park has large open green spaces throughout that will make wonderful picnic spots with your trusty picnic blanket.
+
+The park has a large toilet block near the main car park and play area, accommodating all needs.  The cafe provides a range of hot drinks and warm food, with a specialiy ice cream bar in the summer months.
+
+Maidstone West train station is 1.5 miles away.  The 85 bus stops close to the park.  Parking is pay and display.
+
+#### Close by
+[Maidstone Leisure Centre](https://www.maidstoneleisure.com/) is on the same site as this wonderful park, a short walk from the main car park and play grounds.
+
+[Mote Park watersports Centre](https://moteparkwatersports.com/) operate within the park and offer a wide range of water based activites for the whole family to enjoy.
+
+[Seqway Events](https://segwayevents.co.uk/locations/kent-mote-park) operate in the park, and give you a different way to explore the park.
+
+Maidstone town centre and all the wonderful shopping opportunities it offers is just over a mile away.
+
+
+## Gallery
+
+<div class="container">
+
+  <div class="row">
+
+    <div class="col-md-4">
+      <div class="card" id="portrait">
+        <img src="/images/kent/outdoors/mote_park/mote-park2.jpg" class="img-fluid">
+      </div>
+
+      <div class="card" id="landscape">
+        <img src="/images/kent/outdoors/mote_park/mote-park1.jpg" class="img-fluid">
+      </div>  
+    </div>
+
+    <div class="col-md-4">
+      <div class="card" id="lanscape">
+        <img src="/images/kent/outdoors/mote_park/mote-park4.jpg" class="img-fluid">
+      </div>
+
+      <div class="card" id="portrait">
+        <img src="/images/kent/outdoors/mote_park/mote-park7.jpg" class="img-fluid">
+      </div>
+    </div>
+
+    <div class="col-md-4">
+      <div class="card" id="portrait">
+        <img src="/images/kent/outdoors/mote_park/mote-park3.jpg" class="img-fluid">
+      </div>
+
+      <div class="card" id="landscape">
+        <img src="/images/kent/outdoors/mote_park/mote-park8.jpg" class="img-fluid">
+      </div>
+    </div>
+
+  </div>      
+</div>
+
+
+### How to find it...
+Mote Park, Mote Avenue, Maidstone, ME15 7SX.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2496.3596275228438!2d0.5375415514290638!3d51.26769898592141!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3c76c0816f9f8d3d!2sMote+Park+Car+Park!5e0!3m2!1sen!2suk!4v1518379368300" width="350" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+### What to take
+This is an amazing park with plenty to do and see without bringing anything other than your picnic.  
+
+If you would like to, you could bring:
+* Picnic Blanket
+* Bikes, scooter, roller blades
+* Remote control boats
+* Remote control cars and monster trucks (a favourite with our children.)
+
+
+
