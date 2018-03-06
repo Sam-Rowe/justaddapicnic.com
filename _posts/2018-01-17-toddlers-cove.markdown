@@ -19,7 +19,7 @@ There is a lot to play on at this park, our photos below do not do it justice.  
 
 Toddler's cove has its own small toilet block and wardens office on site.  There is no cafe here, but at weekends and warmer months a hot food and drinks van is often in attendance.  Have a look at the website [Toddler's Cove Website](http://www.westgateparks.co.uk/where-are-westgate-parks/toddlers-cove/toddlers-cove-play-area/) as the wardens sometimes run activites and events in the park.
 
-There is quite a lot of seating around the park, during the warmer more popular months it would be advisable to bring your picnic blanket or chairs so that you are comfortable.
+There is quite a lot of seating around the park, during the warmer, more popular months, it would be advisable to bring your picnic blanket or chairs so that you are comfortable.
 
 Parking here is pay and display, but it is reasonably priced.  If you are driving we would advise that you follow a navigation app or device to get to this park as you have to take a rather interesting residential route.  The park is a 10-20 minute walk from either Canterbury East or West train stations.  Several buses stop on St Dunstans Street that are within walking distance of the park.
 
