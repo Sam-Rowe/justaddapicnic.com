@@ -32,11 +32,16 @@ google_analytics: UA-XXXXXXXX-X # Sed during build to replace this with contents
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - circle.yml
 #   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+url: "https://justaddapicnic.com/" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
