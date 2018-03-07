@@ -25,6 +25,10 @@ $content-width:    1000px !default;
 $on-palm:          600px !default;
 $on-laptop:        1000px !default;
 
+//break points for screen sizes and changes to layout
+
+$break-palm:		900px;
+
 // Use media queries like this:
 // @include media-query($on-palm) {
 //   .wrapper {
