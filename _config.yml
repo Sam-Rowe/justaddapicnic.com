@@ -42,6 +42,6 @@ exclude:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-url: "https://justaddapicnic.com/" # the base hostname & protocol for your site
+url: "https://justaddapicnic.com" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
