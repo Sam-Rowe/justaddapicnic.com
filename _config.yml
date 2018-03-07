@@ -36,11 +36,11 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - circle.yml
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
 url: "https://justaddapicnic.com" # the base hostname & protocol for your site
 plugins:
