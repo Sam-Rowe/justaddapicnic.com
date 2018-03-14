@@ -79,4 +79,6 @@ No.1 Warehouse, West India Quay, Canary Wharf, London E14 4AL
 ### What to take
 You don't really need to take anything to this wonderful museum, just a passion for all things maritime and nautical.  Don't forget your picnic.
 
+### Latest News
 
+<a class="twitter-timeline" data-width="1000" data-height="500" href="https://twitter.com/MuseumofLondon?ref_src=twsrc%5Etfw">Tweets by MuseumofLondon</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
