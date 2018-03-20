@@ -16,7 +16,7 @@ images:
 
 Set in an old sugar warehouse this immersive museum takes you right into life on the docks when the ports were heaving with goods from around the world.  There are displays on a number of elements that have been important during the history of the East and West India Docks; spices, whaling, slavery, World War 2 and its subsequent redevelopemnt into the docklands we now know.
 
-The museum is very family orientated offering interactive and child friendly displays throughout.  It also has a childrens gallery called Mudlarks that offers the opportunity for your little ones (under 8's) to let off some steam in a maritime environment.  Mudlark's opperates a booking policy, due to its popularity. Make sure you book [online](https://www.museumoflondon.org.uk/museum-london-docklands/event-detail?id=2808) or at the reception desk when you arrive to avoid disappointment.  The museum regularly organises events for families, check out their [twitter feed](https://twitter.com/MuseumofLondon) or [our twitter feed](https://twitter.com/JustAddAPicnic) for the next planned events.
+The museum is very family orientated offering interactive and child friendly displays throughout.  It also has a childrens gallery called Mudlarks that offers the opportunity for your little ones (under 8's) to let off some steam in a maritime environment.  Mudlark's opperates a booking policy, due to its popularity. Make sure you book [online](https://www.museumoflondon.org.uk/museum-london-docklands/event-detail?id=2808) or at the reception desk when you arrive to avoid disappointment.  The museum regularly organises events for families, check out their [twitter feed](https://twitter.com/MuseumofLondon) below or [our twitter feed](https://twitter.com/JustAddAPicnic) for the next planned events.
 
 The museum has fantastic access throughout for wheelchairs and pushchairs. There are several toilets within the museum, a cafe and gift shop.  There is a lunch hall that is availble to picnickers during weekends and school holidays.
 
@@ -39,21 +39,21 @@ Greenwich Maritime Museum and Greenwich Park are only a few tube stops (on the D
 
     <div class="col-md-6">
       <div class="card" id="portrait">
-        <img src="/images/london/indoors/museum_docklands/docklands2.jpg" class="img-fluid">
+        <img src="/images/london/indoors/museum_docklands/docklands2.jpg" alt="A long row boat outside the Willberforce Theatre" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="/images/london/indoors/museum_docklands/docklands3.jpg" class="img-fluid">
+        <img src="/images/london/indoors/museum_docklands/docklands3.jpg" alt="Gallery containing dock worker equipment from 1800s" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-6">
       <div class="card" id="lanscape">
-        <img src="/images/london/indoors/museum_docklands/docklands4.jpg" class="img-fluid">
+        <img src="/images/london/indoors/museum_docklands/docklands4.jpg" alt="Cross section model of a tea-clipper" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="/images/london/indoors/museum_docklands/docklands5.jpg" class="img-fluid">
+        <img src="/images/london/indoors/museum_docklands/docklands5.jpg" alt="Selection of harpoons and tools used in whaling" class="img-fluid">
       </div>
     </div>
 
