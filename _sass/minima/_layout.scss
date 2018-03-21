@@ -1,18 +1,6 @@
 /**
  * Site header
  */
-.jumbotron {
-      background-image:url(/images/riverside1.jpg) ;
-      color:#FFF; 
-      height: 500px; 
-      width: 100%; 
-      background-repeat: no-repeat; 
-      background-attachment: fixed; 
-      background-position: center top;
-      background-color: $background-color;
-}
-
-
 .site-header {
   border-top: 5px solid $grey-color-dark;
   /*border-bottom: 1px solid $grey-color-light;*/
@@ -20,13 +8,43 @@
 
   // Positioning context for the mobile navigation icon
   position: relative;
+  max-width: 100%;
+ 
+ .img {
+      height: auto;
+      display: block;
+      overflow: hidden;
+      }
+
+  .jumbotron {
+        /*background-image:url(/images/riverside1.jpg) ;
+        background-repeat: no-repeat; 
+        background-attachment: fixed; 
+        background-position: center top;
+        background-color: $background-color;
+        background-size: cover;*/
+
+          background-image: url(/images/riverside1.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 35rem;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+}
+
+
+
 }
 
 .title {
       
       display: block;
       padding: 2em;
-      width: 80%;
+      width: 100%;
       text-align: center;
 
       @include media-query($on-palm) {
@@ -39,10 +57,22 @@
       @include relative-font-size(4);
       font-family: $title-font-family;
 
-      color: $grey-color-dark;
+      color: #FFF;
       font-weight: 300;
       line-height: $base-line-height * $base-font-size * 4;
       letter-spacing: -1px;
+
+      @include media-query($on-palm) {
+      @include relative-font-size(3);
+      font-weight: 50;
+      line-height: $base-line-height * $base-font-size;
+      }
+
+      @include media-query($on-phone) {
+      @include relative-font-size(2.25);
+      font-weight: 50;
+      line-height: $base-line-height * $base-font-size;
+      }
 
   }
 
@@ -52,12 +82,18 @@
   }
 
   @include media-query($on-palm) {
-      @include relative-font-size(1);
+      @include relative-font-size(3);
       font-weight: 50;
       line-height: $base-line-height * $base-font-size;
 
   }
 
+  @include media-query($on-phone) {
+      @include relative-font-size(2.25);
+      font-weight: 50;
+      line-height: $base-line-height * $base-font-size;
+
+  }
 }
 }
 
@@ -288,17 +324,19 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  margin-top: $spacing-unit;
 
 
 .btn-default {
     top: 9px;
     right: $spacing-unit / 2;
     color: $grey-color-light;
-    background-color: $background-color;
+    background-color: $grey-color-light;
     border: 1px solid $grey-color-light;
     border-radius: 5px;
     text-align: center;
     margin-right: $spacing-unit;
+
 
     }
 
