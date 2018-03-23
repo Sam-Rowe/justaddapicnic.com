@@ -77,3 +77,7 @@ Rochester Cathedral, Rochester, ME1 1SX
 
 ### What to take
 You don't really need to bring much with you to this stunning venue.  So that you can enjoy your picnic outside of the Cathedral we would recommend bringing a picnic blanket.
+
+### Latest News
+
+<a class="twitter-timeline" data-width="1000" data-height="500" href="https://twitter.com/RochesterCathed?ref_src=twsrc%5Etfw">Tweets by RochesterCathed</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

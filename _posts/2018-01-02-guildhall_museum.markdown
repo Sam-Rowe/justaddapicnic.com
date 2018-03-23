@@ -86,3 +86,6 @@ Here's a list of things you might want to take with you:
 * Your latest school project description; there's bound to be something here that's relevant.
 
 
+### Latest News
+
+<a class="twitter-timeline" data-width="1000" data-height="500" href="https://twitter.com/Guildhallmuseum?ref_src=twsrc%5Etfw">Tweets by Guildhallmuseum</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

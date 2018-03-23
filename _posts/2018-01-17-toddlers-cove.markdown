@@ -29,6 +29,8 @@ Canterbury city centre with all of its charm and shopping possibilities is only 
 
 Canterbury city centre has a lot to offer culturally too, check out [Visit Canterbury website](http://www.canterbury.co.uk/) and explore some history, culture or religion.
 
+[Beaney House of Art and Knowledge](https://www.justaddapicnic.com/indoors/kent/museum/2018/03/20/beaney-house.html) is a 10 minute walk away, in Canterbury City Centre.
+
 Dane John Gardens; a large manicured gardens with small childrens play area is not far from this park.  It can be a nice stop off for restless children after a shopping trip.
 
 
