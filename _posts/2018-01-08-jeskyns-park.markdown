@@ -26,6 +26,8 @@ Dogs with Responsible owners are welcome.
 
 [Owletts](https://www.nationaltrust.org.uk/owletts); a National Trust property is less than a mile away.
 
+[Shorne Woods Country Park](https://www.justaddapicnic.com/outdoors/kent/park/2018/04/03/shorne-woods.html) is a few miles from the country park and can be reached using the Darnley Trail.
+
 Gravesend Town centre is approximately 10 miles away.
 
 ## Gallery
