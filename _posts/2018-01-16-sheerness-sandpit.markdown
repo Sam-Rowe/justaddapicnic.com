@@ -32,7 +32,7 @@ Sheerness Beach is just behind the sandpit and splash pool.  It has a large conc
 
 Sheerness High Street and other local retailers offer an array of places to purchase food, beach accessories and more.
 
-[Barton's Point Coastal Park](http://www.bartonspointcoastalpark.co.uk/) is only 2 miles from this park and offers more great sand play areas, a large crabbing pool and more.
+[Barton's Point Coastal Park](/outdoors/kent/park/2018/04/12/barton-point.html) is only 2 miles from this park and offers more great sand play areas, a large crabbing pool and more.
 
 ## Gallery
 

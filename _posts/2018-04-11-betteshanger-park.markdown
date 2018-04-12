@@ -2,7 +2,7 @@
 layout: post
 title:  "Betteshanger Park"
 date:   2018-04-11 10:18:04 +0000
-categories: [kent, outdoors, park]
+categories: [outdoors, kent, park]
 tag: Deal
 permalink: 
 excerpt: This country park offers some fantastic cycle paths and trails around the beautiful countryside.  There is a cafe, toilets, large childrens play area and when the new building is completed there will also be indoor learning spaces and a Mining Museum too.
