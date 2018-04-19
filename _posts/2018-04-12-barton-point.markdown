@@ -90,14 +90,11 @@ Marine Parade, Sheerness, ME12 2BE
 <div class="container">
   <div class="row">
     <div class="col-md-6">
-      <div class="card">
+        <a href="https://twitter.com/JustAddAPicnic?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @JustAddAPicnic</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         <a class="twitter-timeline" data-width="500" data-height="500" href="https://twitter.com/BartonsPoint?ref_src=twsrc%5Etfw">Tweets by BartonsPoint</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-      </div>
     </div>
     <div class="col-md-6">
-      <div class="card">
       <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fbartonspoint.park&tabs=timeline&width=500&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-      </div>
     </div>
   </div>
 </div>

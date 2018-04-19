@@ -3,7 +3,7 @@
 // Define defaults for each variable.
 
 $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !default;
-$title-font-family: "Abril Fatface", cursive;
+$title-font-family: 'Ubuntu', sans-serif;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
@@ -21,13 +21,15 @@ $grey-color-dark:  darken($grey-color, 25%) !default;
 
 // Width of the content area
 $content-width:    1000px !default;
-$on-phone:		   435px !default;
-$on-palm:          640px !default;
+$on-phone:		   518px !default;
+$on-palm:          653px !default;
 $on-laptop:        1000px !default;
 
 //break points for screen sizes and changes to layout
 
-$break-palm:		900px;
+$break-palm:		768px;
+$break-large:		1200px;
+$break-phone:		740px;
 
 // Use media queries like this:
 // @include media-query($on-palm) {

@@ -16,39 +16,19 @@
       overflow: hidden;
       }
 
-  .jumbotron {
-        /*background-image:url(/images/riverside1.jpg) ;
-        background-repeat: no-repeat; 
-        background-attachment: fixed; 
-        background-position: center top;
-        background-color: $background-color;
-        background-size: cover;*/
-
-          background-image: url(/images/riverside1.jpg);
-  background-position: center;
-  background-size: cover;
-  height: 35rem;
-  background-repeat: no-repeat;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-
-}
-
-
 
 }
 
 .title {
       
       display: block;
-      padding: 2em;
-      width: 100%;
-      text-align: center;
+      padding: 0.5em;
+      width: 50%;
+      text-align: left;
 
-      @include media-query($on-palm) {
+      @media screen and (max-width: $break-large) {
       padding: 10px;
+      width: 100%;
       }
 
 .site-title {
@@ -57,19 +37,20 @@
       @include relative-font-size(4);
       font-family: $title-font-family;
 
-      color: #FFF;
+      color: $brand-color;
       font-weight: 300;
       line-height: $base-line-height * $base-font-size * 4;
       letter-spacing: -1px;
 
+
       @include media-query($on-palm) {
-      @include relative-font-size(3);
+      @include relative-font-size(2.5);
       font-weight: 50;
       line-height: $base-line-height * $base-font-size;
       }
 
       @include media-query($on-phone) {
-      @include relative-font-size(2.25);
+      @include relative-font-size(2);
       font-weight: 50;
       line-height: $base-line-height * $base-font-size;
       }
@@ -116,6 +97,7 @@
     border: none;
     background: none;
     text-transform: uppercase;
+
   
 
     // Gaps between nav items, but not on the last one
@@ -178,19 +160,57 @@
   }
 }
 
+.jumbotron {
+              background-image: url(/images/motepark1.jpg);
+              background-position: center;
+              background-size: cover;
+              height: 45rem;
+              background-repeat: no-repeat;
+              display: flex;
+              justify-content: center;
+              align-items: center;
+              text-align: center;
+              object-fit: cover;
+
+              @media screen and (max-height: $break-phone) {
+              height: 36rem;
+              }
+
+
+        .heading-text {
+          /*font-family: $title-font-family;*/
+          font-size: $base-font-size * 2.5;
+          color: #FFF; 
+          text-shadow: 2px 2px black;
+          padding: 1.5em;
+
+            @include media-query($on-phone) {
+            @include relative-font-size(1.75);
+            padding: 1em;
+            }
+        }
+}
+
 .logo {
-  height: 200px;
-  
-  float: right;
+  max-height: 5rem;
+  float: left;
+
+  @include media-query($on-palm) {
+  max-height: 2.5rem;
+
+  }
+
+  @include media-query($on-phone) {
+  max-height: 2rem;
+  }
 }
 
 .search-box {
   
   margin: auto; 
-  width: 50%;
+  width: auto;
   display: inline;
-
-
+  
 }
 
 /**
@@ -320,11 +340,13 @@
   @include relative-font-size(1.5);
 }
 
+
 .nav-button {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   margin-top: $spacing-unit;
+  
 
 
 .btn-default {
@@ -336,6 +358,9 @@
     border-radius: 5px;
     text-align: center;
     margin-right: $spacing-unit;
+    font-weight: $base-font-weight * 1.5;
+    text-transform: uppercase;
+    margin-bottom: $spacing-unit * 0.5;
 
 
     }
@@ -363,6 +388,19 @@
  */
 .post-header {
   margin-bottom: $spacing-unit;
+
+    >img {
+              background-position: center;
+              background-size: cover;
+              width: 100%;
+              height: 10rem;
+              background-repeat: no-repeat;
+              display: flex;
+              justify-content: center;
+              align-items: center;
+              object-fit: cover;
+              
+             }
 }
 
 .post-title {
