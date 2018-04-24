@@ -1,12 +1,13 @@
- ---
+---
 layout: post
 title:  "Natural History Museum"
-date:   2018-04-08 12:48:04 +0000
+date:   2018-04-08 10:18:04 +0000
 categories: [indoors, kensington, museum]
 tag: Kensington, London
 permalink: 
 excerpt: The London Natural History Museum is a treasure trove of inspirational scientific knowledge and artifacts.  Covering topics from the creation of the Earth to the reign of the dinsoaurs to present day flora and fauna.
-images:
+
+images: 
  - url: /images/london/indoors/NHM/NHM1.jpg
    alt: The entrance of the Natural History Museum
    title: The Natural History Museum, London.
@@ -83,6 +84,3 @@ You don't really need to take much more than your curiosity to the wonderful pla
 ### Latest News 
 
 <a class="twitter-timeline" href="https://twitter.com/NHM_London?ref_src=twsrc%5Etfw">Tweets by NHM_London</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
