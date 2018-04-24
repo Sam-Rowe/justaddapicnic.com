@@ -33,9 +33,7 @@ permalink:
           <div class="col-md-4">
             {% assign image = post.images[0] %}
             {% include image.html image=image %}
-          <button type="button" class="post-name">
-              <a href="{{ post.url | relative_url }}">Let's Go ></a>
-          </button>
+            <a href="{{ post.url | relative_url }}" class="btn post-name">Let's Go ></a>
           </div>
         </div>
 
