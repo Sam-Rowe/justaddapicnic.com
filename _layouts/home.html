@@ -24,15 +24,11 @@ layout: default
         </form>
       </div>
 
-
+       <!--  </button> -->
       <div class="nav-button">
-        <button type="button" class="btn btn-default">
-          <a href="/category/indoors.html">Indoors</a>
-        </button>
+          <a href="/category/indoors.html" class="btn btn-default">Indoors</a>
+          <a href="/category/outdoors.html" class="btn btn-default">Outdoors</a>
 
-        <button type="button" class="btn btn-default">
-          <a href="/category/outdoors.html">Outdoors</a>
-        </button>
       </div>
   </div>
 </div>
@@ -57,14 +53,10 @@ layout: default
                   <p class="card-text">Leybourne Lakes Country Park is a wonderful place for a long walk around some fresh water lakes filled with life.  There is play equipment, toilets and a seasonal cafe. Can you find these beautiful Snowdrops? Its pretty cold out there, so we won't tell if you eat your picnic in the car like we did.</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">
-                        <a href="/outdoors/kent/park/2018/02/10/leybourne-lakes.html" >Our Website</a>
-                      </button>
+                        <a href="/outdoors/kent/park/2018/02/10/leybourne-lakes.html" class="btn btn-sm btn-outline-secondary">Our Website</a>
                     </div>
                     <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">
-                        <a href="https://www.tmbc.gov.uk/services/leisure-and-culture/parks-and-open-spaces/parks-and-open-spaces-outdoor-facilities/leybourne-lakes-country-park" target="_blank">Leybourne Lakes</a>
-                      </button>
+                        <a href="https://www.tmbc.gov.uk/services/leisure-and-culture/parks-and-open-spaces/parks-and-open-spaces-outdoor-facilities/leybourne-lakes-country-park" class="btn btn-sm btn-outline-secondary" target="_blank">Leybourne Lakes</a>
                     </div>
                   </div>
                 </div>
@@ -79,10 +71,7 @@ layout: default
                   <p class="card-text">You need a great local park to help burn off some energy, that isn't going to keep them out all day in the cold.  Try Hilly Fields Community Park, it has some novel climbing equipment and plenty to encourage the little ones to tire themselves out quickly.</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">
-                        <a href="/outdoors/kent/park/2018/02/21/hilly-fields.html">Our Website</a>
-                      </button>
-                      
+                        <a href="/outdoors/kent/park/2018/02/21/hilly-fields.html" class="btn btn-sm btn-outline-secondary">Our Website</a>
                     </div>
                   </div>
                 </div>
@@ -97,16 +86,10 @@ layout: default
                   <p class="card-text">The Museum of London, Docklands offers a wonderful glimpse into the world of the East and West India Docks when they were at their busiest bringing a fascinating array of produce from around the world. Always something going on at the weekends and school holidays.</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">
-                        <a href="/indoors/london/museum/2018/02/20/museum-london-docklands.html">Our Website</a>
-                      </button>
-              
+                        <a href="/indoors/london/museum/2018/02/20/museum-london-docklands.html" class="btn btn-sm btn-outline-secondary">Our Website</a>
                     </div>
                     <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">
-                        <a href="https://www.museumoflondon.org.uk//museum-london-docklands" target="_blank">MoL Docklands</a>
-                      </button>
-              
+                        <a href="https://www.museumoflondon.org.uk//museum-london-docklands" class="btn btn-sm btn-outline-secondary" target="_blank">MoL Docklands</a>
                     </div>
                   </div>
                 </div>
@@ -141,9 +124,7 @@ layout: default
           <div class="col-md-4">
             {% assign image = post.images[0] %}
             {% include image.html image=image %}
-          <button type="button" class="post-name">
-              <a href="{{ post.url | relative_url }}">Let's Go ></a>
-          </button>
+              <a href="{{ post.url | relative_url }}" class="btn post-name">Let's Go ></a>
           </div>
         </div>
 

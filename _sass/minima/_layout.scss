@@ -310,15 +310,14 @@
 
 .post-name {
   background: $brand-color;
+  color: white;
   text-transform: uppercase;
   font-size: $small-font-size;
   border-radius: 10px;
   float: right;
   margin: 10px, 0, 10px, 0;
 
-      >a {
-      color: white;
-
+          &,
           &:visited {
               color: white;
           }
@@ -326,9 +325,10 @@
           &:hover {
               top: 2px;
               
-          }
-      }
+          }      
 }
+
+
 
 .post-meta {
   font-size: $small-font-size;
@@ -352,7 +352,7 @@
 .btn-default {
     top: 9px;
     right: $spacing-unit / 2;
-    color: $grey-color-light;
+    color: $brand-color;
     background-color: $grey-color-light;
     border: 1px solid $grey-color-light;
     border-radius: 5px;
