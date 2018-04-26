@@ -2,25 +2,28 @@
 layout: default
 ---
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+      {% if post %}
+            {% assign image = post.images[0] %}
+      {% else %}
+            {% assign image = page.images[0] %}
+      {% endif %}
+      {% include heading-img.html image=image %} 
+    
 
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <a href="{{site.baseurl}}/category/{{category|slugize}}.html">{{category}}</a>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
+    <div class="post-categories">
+      {% if post %}
+        {% assign categories = post.categories %}
+      {% else %}
+        {% assign categories = page.categories %}
+      {% endif %}
+      {% for category in categories %}
+      <a href="{{site.baseurl}}/category/{{category|slugize}}.html">{{category}}</a>
+      {% unless forloop.last %}&nbsp;{% endunless %}
+      {% endfor %}
+    </div>
   </header>
-
-<!-- the url link for the category names isn't working at the moment.  not sure why i cant get it to link back to the "search" -->
-
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}

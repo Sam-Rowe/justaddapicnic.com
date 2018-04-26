@@ -1,28 +1,51 @@
----
+<!---
 layout: default
----
+-->
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
 
 <div class="home">
+  <div class="jumbotron">
+    <div class="container">
 
-<!-- <form action="/search.html" method="get">
-    <label for="search_box"></label>
-    <input type="text" id="search_box" name="query">
-    <input type="submit" value="search">
-</form> -->
+      <h3 class="heading-text">Find your next FREE day out</h3>
+
+      <div class="search-box">
+        <form action="/search.html" method="get">
+          <label for="search_box"></label>
+          <input type="text" id="search_box" name="query" placeholder="location, keyword or town">
+          <input type="submit" value="search">
+        </form>
+      </div>
+
+       <!--  </button> -->
+      <div class="nav-button">
+          <a href="/category/indoors.html" class="btn btn-default">Indoors</a>
+          <a href="/category/outdoors.html" class="btn btn-default">Outdoors</a>
+
+      </div>
+  </div>
+</div>
 
 <br>
-
-<h1 style="text-align: center;">The home of free days out</h1>
-
-<h2>Spring Watch</h2>
-  <p>Here are some great places to visit this Spring.</p>
-
-  <div class="container">
+ <main class="page-content" aria-label="Content">
+  <div class="wrapper">
+     
+      <h1 style="text-align: center;">Spring Watch</h1>
+        <h4>Here are some great places to visit this Spring.</h4>
+<!-- block of 3 featured locations -->
+        <div class="container">
 
           <div class="row">
             
             <div class="col-lg-4 col-md-6">
-              <a href="http://www.justaddapicnic.com/outdoors/kent/park/2018/02/10/leybourne-lakes.html"><h4 class="card-title">Beautiful Snowdrops</h4></a>
+              <a href="/outdoors/kent/park/2018/02/10/leybourne-lakes.html"><h4 class="card-title">Beautiful Snowdrops</h4></a>
               <div class="card mb-4 box-shadow">
                 
                 <img class="card-img-top" data-src="" alt="Snowdrops found at Leybourne Lakes" style="height: 225px; width: 100%; display: block;" src="/images/kent/outdoors/leybourne_lakes/leybourne5.jpg" data-holder-rendered="true">
@@ -30,14 +53,10 @@ layout: default
                   <p class="card-text">Leybourne Lakes Country Park is a wonderful place for a long walk around some fresh water lakes filled with life.  There is play equipment, toilets and a seasonal cafe. Can you find these beautiful Snowdrops? Its pretty cold out there, so we won't tell if you eat your picnic in the car like we did.</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">
-                        <a href="http://www.justaddapicnic.com/outdoors/kent/park/2018/02/10/leybourne-lakes.html" >Our Website</a>
-                      </button>
+                        <a href="/outdoors/kent/park/2018/02/10/leybourne-lakes.html" class="btn btn-sm btn-outline-secondary">Our Website</a>
                     </div>
                     <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">
-                        <a href="https://www.tmbc.gov.uk/services/leisure-and-culture/parks-and-open-spaces/parks-and-open-spaces-outdoor-facilities/leybourne-lakes-country-park" target="_blank">Leybourne Lakes</a>
-                      </button>
+                        <a href="https://www.tmbc.gov.uk/services/leisure-and-culture/parks-and-open-spaces/parks-and-open-spaces-outdoor-facilities/leybourne-lakes-country-park" class="btn btn-sm btn-outline-secondary" target="_blank">Leybourne Lakes</a>
                     </div>
                   </div>
                 </div>
@@ -45,17 +64,14 @@ layout: default
             </div> 
 
             <div class="col-lg-4 col-md-6">
-              <a href="http://www.justaddapicnic.com/outdoors/kent/park/2018/02/21/hilly-fields.html"><h4 class="card-title">Quick Trip Out</h4></a>
+              <a href="/outdoors/kent/park/2018/02/21/hilly-fields.html"><h4 class="card-title">Quick Trip Out</h4></a>
               <div class="card mb-4 box-shadow">
                 <img class="card-img-top" data-src="" alt="Hilly Fields Community park play equipment" style="height: 225px; width: 100%; display: block;" src="/images/kent/outdoors/hilly_fields/hillyfields4.jpg" data-holder-rendered="true">
                 <div class="card-body">
                   <p class="card-text">You need a great local park to help burn off some energy, that isn't going to keep them out all day in the cold.  Try Hilly Fields Community Park, it has some novel climbing equipment and plenty to encourage the little ones to tire themselves out quickly.</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">
-                        <a href="http://www.justaddapicnic.com/outdoors/kent/park/2018/02/21/hilly-fields.html">Our Website</a>
-                      </button>
-                      
+                        <a href="/outdoors/kent/park/2018/02/21/hilly-fields.html" class="btn btn-sm btn-outline-secondary">Our Website</a>
                     </div>
                   </div>
                 </div>
@@ -63,23 +79,17 @@ layout: default
             </div> 
 
             <div class="col-lg-4 col-md-6">
-              <a href="http://www.justaddapicnic.com/indoors/london/museum/2018/02/20/museum-london-docklands.html"><h4 class="card-title">Somewhere Indoors</h4></a>
+              <a href="/indoors/london/museum/2018/02/20/museum-london-docklands.html"><h4 class="card-title">Somewhere Indoors</h4></a>
               <div class="card mb-4 box-shadow">
                 <img class="card-img-top" data-src="" alt="The enterance to the Museum of London Docklands" style="height: 225px; width: 100%; display: block;" src="/images/london/indoors/museum_docklands/docklands1.jpg" data-holder-rendered="true">
                 <div class="card-body">
                   <p class="card-text">The Museum of London, Docklands offers a wonderful glimpse into the world of the East and West India Docks when they were at their busiest bringing a fascinating array of produce from around the world. Always something going on at the weekends and school holidays.</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">
-                        <a href="http://www.justaddapicnic.com/indoors/london/museum/2018/02/20/museum-london-docklands.html">Our Website</a>
-                      </button>
-              
+                        <a href="/indoors/london/museum/2018/02/20/museum-london-docklands.html" class="btn btn-sm btn-outline-secondary">Our Website</a>
                     </div>
                     <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">
-                        <a href="https://www.museumoflondon.org.uk//museum-london-docklands" target="_blank">MoL Docklands</a>
-                      </button>
-              
+                        <a href="https://www.museumoflondon.org.uk//museum-london-docklands" class="btn btn-sm btn-outline-secondary" target="_blank">MoL Docklands</a>
                     </div>
                   </div>
                 </div>
@@ -90,11 +100,7 @@ layout: default
           </div>
   </div>
 
-
-
-  {{ content }}
-
-  <h2>Our Latest Locations</h2>
+  <h1 style="text-align: center;">Our Latest Locations</h1>
   <ul class="post-list">
     {% for post in site.posts limit:5 %}
       <li class="post-list-layout">
@@ -118,9 +124,7 @@ layout: default
           <div class="col-md-4">
             {% assign image = post.images[0] %}
             {% include image.html image=image %}
-          <button type="button" class="post-name">
-              <a href="{{ post.url | relative_url }}">Let's Go ></a>
-          </button>
+              <a href="{{ post.url | relative_url }}" class="btn post-name">Let's Go ></a>
           </div>
         </div>
 
@@ -128,10 +132,25 @@ layout: default
       </li>
     {% endfor %}
   </ul>
+<div class="container">
+  <div class="row">
+    <div class="col-md-6">
+     {{ content }}
+    </div>
 
-<!--Twitter feed-->
-<a href="https://twitter.com/JustAddAPicnic?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @JustAddAPicnic</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <div class="col-md-6">
+    <!--Twitter feed-->
+        <a href="https://twitter.com/JustAddAPicnic?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @JustAddAPicnic</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<a class="twitter-timeline" data-width="1000" data-height="500" data-theme="light" href="https://twitter.com/JustAddAPicnic?ref_src=twsrc%5Etfw">Tweets by JustAddAPicnic</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+        <a class="twitter-timeline" data-width="500" data-height="500" data-theme="light" href="https://twitter.com/JustAddAPicnic?ref_src=twsrc%5Etfw">Tweets by JustAddAPicnic</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+   </div>
+  </div>
+ </div>
 </div>
+
+</main>
+    {% include footer.html %}
+
+  </body>
+
+</html>

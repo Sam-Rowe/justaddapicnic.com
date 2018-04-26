@@ -4,6 +4,9 @@ title: Add Locations
 permalink: 
 ---
 
+<div class="jumbotron" style="max-height: 15em; background-image: url('/images/kent/outdoors/leybourne_lakes/leybourne5.jpg');">
+</div>
+
 ## How you can help...
 
 If you think you know of a great FREE location that we should add to our site, then send us some more information to [{{ site.email }}](mailto:{{ site.email }}"). 

@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
+<div class="jumbotron" style="max-height: 15em; background-image: url('/images/kent/outdoors/leybourne_lakes/leybourne5.jpg');">
+</div>
+
 ## What is this website for?
 
 Just Add a Picnic is for anyone who would like to get out and enjoy some time with family or friends and not have to pay a fortune for it.  There are so many fantastic free days out right on our door steps that get overlooked or are best kept secrets.  Just Add a Picnic wants to share all these amazing places and help everyone spend less on having fun.  
