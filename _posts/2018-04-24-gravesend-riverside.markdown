@@ -14,7 +14,7 @@ images:
 ---
 
 ## What's there?
-There is a lot to see and do here at the Riverside Leisure Area.  As you walk towards the park from the pay and dsplay car park you will find a large flat playing field, perfect for ball games, and the skate park. To the left of the park entrance you will find New Tavern Fort and gardens which also emcompasses the oldest building in Gravesend; [Milton Chantry](/indoors/kent/museum/2018/04/23/milton-chantry.html), which can be enjoyed for free.  
+There is a lot to see and do here at the Riverside Leisure Area.  As you walk towards the park from the pay and display car park you will find a large flat playing field, perfect for ball games, and the skate park. To the left of the park entrance you will find New Tavern Fort and gardens which also encompasses the oldest building in Gravesend; [Milton Chantry](/indoors/kent/museum/2018/04/23/milton-chantry.html), which can be enjoyed for free.  
 
 The main park has a large fishing lake with fountain, and the first of the children's play areas can be found close to the lake.  This park is aimed at older children with complex climbing structures and a spinning swing.  Next to the Promenade Cafe there is another play park aimed at much younger children with a lovely climbing frame with slides and some swings. There are several large patches of grass along the river embankment, perfect for picnics.  To the western end of the river promenade you will find a large outdoor gym, multi-use games area and low climbing wall.  There is also a shady, wild area with another pool and bridge to be enjoyed away from the main park.
 
