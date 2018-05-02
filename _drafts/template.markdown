@@ -63,4 +63,16 @@ images:
 
 ### What to take
 
+### Latest News
 
+<div class="container">
+  <div class="row">
+    <div class="col-md-6">
+      <!-- Twitter plugin code -->
+    </div>
+  
+    <div class="col-md-6">
+      <!-- Facebook plugin code -->
+    </div>
+  </div>
+</div>
