@@ -36,7 +36,7 @@ images:
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="" alt=" class="img-fluid">
+        <img src="" alt="" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
