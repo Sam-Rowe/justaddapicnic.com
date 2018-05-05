@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Lower Leas Cliff Park
+title:  Lower Leas Coastal Park
 date:   2018-01-08 11:48:04 +0000
 categories: [outdoors, kent, park, sandpit]
 tag: Folkestone
@@ -9,12 +9,12 @@ excerpt: A beautifully landscped park with excellent play equipment to keep the 
 images:
  - url: /images/kent/outdoors/folkestone_park/Folkestone_1.jpg
    alt: Children's play area
-   title: Lower Leas Cliff Coastal Park
+   title: Lower Leas Coastal Park
 ---
 
 ## What's there?
 
-The Lower Leas Cliff park offers a beautiful oasis on the edge of the stony Folkestone beach.  The landscaped gardens are riddled with paved walk ways that weave you through the gardens to an extensive array of play equipment.  On the way you'll pass bridges, palm trees, secret caves in the cliffs and paths leading you down to the beach.
+The Lower Leas Coastal park offers a beautiful oasis on the edge of the stony Folkestone beach.  The landscaped gardens are riddled with paved walk ways that weave you through the gardens to an extensive array of play equipment.  On the way you'll pass bridges, palm trees, secret caves in the cliffs and paths leading you down to the beach.
 
 The play equipment here is brilliant and offers plenty to do for all ages.  There are several smaller areas offering climbing, a pirate ship, sand diggers and a boat.  These are all centered around the large fort that also accommodates zip wires and several slides.
 
@@ -88,3 +88,14 @@ There are purpose built BBQ stands here for you to have your BBQ at the beach, r
 There are several sand based play areas; so spades, buckets and seives would all be very useful.
 
 There is usually plenty of seating in and around the play areas, but this does become crowded at busy times.  Bringing your own picnic blanket gives you the flexibility to find a quieter spot in the gardens or on the beach to enjoy your lunch.
+
+### Latest News
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-6">
+      <!-- Facebook plugin code -->
+      <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FLower-Leas-Coastal-Park-Folkestone-177166597041%2F%3Fhc_ref%3DARTviQkfw3mS815PDAyEvUzvgRI_LPOaiXXlMT4j31OysHHdnTfCQ0u4yzpf9MUAtB4%26fref%3Dnf&tabs=timeline&width=500&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+    </div>
+  </div>
+</div>
