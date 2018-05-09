@@ -42,7 +42,7 @@
       this.field('title', { boost: 10 }); //gives weight to items with the key word in the title
       this.field('tag');
       this.field('category');
-      this.field('content');
+      this.field('content')
     });
 
     for (var key in window.store) { // Add the data to lunr

@@ -27,7 +27,7 @@ Strood Train Station is adjacent to the play area, there is also bus stops close
 #### Close by
 Strood Town Centre is only a 5 minute walk from the park.
 
-Rochester City Centre is about 10 minute walk from the park where you can find the [Guildhall Museum](/indoors/kent/museum/2018/01/02/guildhall_museum.html), [Rochester Cathederal](/indoors/kent/cathedral/2018/02/21/rochester-cathedral.html) and the [Espanade Park]().
+Rochester City Centre is about 10 minute walk from the park where you can find the [Guildhall Museum](/indoors/kent/museum/2018/01/02/guildhall_museum.html), [Rochester Cathederal](/indoors/kent/cathedral/2018/02/21/rochester-cathedral.html) and the [Espanade Park](/outdoors/kent/park/2018/05/08/rochester-esplanade.html).
 
 [Broomhill Park](/outdoors/kent/park/2018/05/08/broomhill.html) is 1.5 miles away.
 
