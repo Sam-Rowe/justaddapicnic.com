@@ -7,7 +7,7 @@ tag: Rainham
 permalink: 
 excerpt: A fantastic park close to Rainham Train Station and Rainham Town Centre.  It offers wide open space for ball games and a basketball hoop, there is an enclosed children's play area and a collection of exercise equipment aimed at adults.
 images:
- - url: /images/kent/outdoors/rainham_rec/rainham2.jpg
+ - url: https://cdn.justaddapicnic.com/kent/outdoors/rainham_rec/rainham2.jpg
    alt: Children's play equipment at Rainham Recreation Ground
    title: Rainham Recreation Ground
 ---
@@ -32,21 +32,21 @@ Rainham Shopping Precinct is a 10 minute walk from the park (0.4 miles) and offe
 
     <div class="col-md-6">
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/rainham_rec/rainham3.jpg" alt="Playing field for football etc" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/rainham_rec/rainham3.jpg" alt="Playing field for football etc" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="/images/kent/outdoors/rainham_rec/rainham1.jpg" alt="Adult exercise equipment" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/rainham_rec/rainham1.jpg" alt="Adult exercise equipment" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-6">
       <div class="card" id="lanscape">
-        <img src="/images/kent/outdoors/rainham_rec/rainham2.jpg" alt="Children's Play area" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/rainham_rec/rainham2.jpg" alt="Children's Play area" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/rainham_rec/rainham4.jpg" alt="Large swimg in play area" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/rainham_rec/rainham4.jpg" alt="Large swimg in play area" class="img-fluid">
       </div>
     </div>
 

@@ -7,7 +7,7 @@ tags: Chatham
 permalink: 
 excerpt: A great park to visit if you want to hang out in the park and walk around the lake for a hour or two, or spend the whole day exploring the extensive walking and running trails that take you across the Kent countryside.
 images:
- - url: /images/kent/outdoors/capstone_farm/Capstone5.jpg
+ - url: https://cdn.justaddapicnic.com/kent/outdoors/capstone_farm/Capstone5.jpg
    alt: Children's play area
    title: Capstone Farm Park
 ---
@@ -40,31 +40,31 @@ Luton Rec and Darland Bank are close to this park, however, there is no foot pat
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/capstone_farm/Capstone3.jpg" alt="Little boy walking along a woodland path" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/capstone_farm/Capstone3.jpg" alt="Little boy walking along a woodland path" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="/images/kent/outdoors/capstone_farm/Capstone2.jpg" alt="View of the younger childrens play area" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/capstone_farm/Capstone2.jpg" alt="View of the younger childrens play area" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="/images/kent/outdoors/capstone_farm/Capstone4.jpg" alt="view of the cafe by the fishing lake" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/capstone_farm/Capstone4.jpg" alt="view of the cafe by the fishing lake" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/capstone_farm/Capstone8.jpg" alt="Bridge across the lake with a Heron sitting on the guard rail looking for fish" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/capstone_farm/Capstone8.jpg" alt="Bridge across the lake with a Heron sitting on the guard rail looking for fish" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/capstone_farm/Capstone7.jpg" alt="View of the lake from the disabled parking spaces" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/capstone_farm/Capstone7.jpg" alt="View of the lake from the disabled parking spaces" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="/images/kent/outdoors/capstone_farm/Capstone5.jpg" alt="View across the fishing lake" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/capstone_farm/Capstone5.jpg" alt="View across the fishing lake" class="img-fluid">
       </div>
     </div>
 

@@ -8,7 +8,7 @@ permalink:
 excerpt: This is a stunning mix of ancient and new woodland that offers a haven to wildlife, and wildlife watchers.  There are no toilets or cafe here, however there is a village pub on the edge of the woodland.
 
 images: 
- - url: /images/kent/outdoors/hucking_estate/hucking8.jpg
+ - url: https://cdn.justaddapicnic.com/kent/outdoors/hucking_estate/hucking8.jpg
    alt: Bluebell woodland and paths
    title: The Hucking Estate
 ---
@@ -34,31 +34,31 @@ The closest train station is Hollingbourne, approximately 35 minute walk away (1
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/hucking_estate/hucking3.jpg" alt="Ancient wooland at Hucking" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/hucking_estate/hucking3.jpg" alt="Ancient wooland at Hucking" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="/images/kent/outdoors/hucking_estate/hucking6.jpg" alt="Carved log into animal shapes and bug hotel" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/hucking_estate/hucking6.jpg" alt="Carved log into animal shapes and bug hotel" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="/images/kent/outdoors/hucking_estate/hucking5.jpg" alt="Beautiful bluebells in the woodland" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/hucking_estate/hucking5.jpg" alt="Beautiful bluebells in the woodland" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/hucking_estate/hucking4.jpg" alt="Bluebells" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/hucking_estate/hucking4.jpg" alt="Bluebells" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/hucking_estate/hucking7.jpg" alt="Grassy paths through the woods" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/hucking_estate/hucking7.jpg" alt="Grassy paths through the woods" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="/images/kent/outdoors/hucking_estate/hucking2.jpg" alt="Grassy paths through the woodland and meadows" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/hucking_estate/hucking2.jpg" alt="Grassy paths through the woodland and meadows" class="img-fluid">
       </div>
     </div>
 

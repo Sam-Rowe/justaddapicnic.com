@@ -8,7 +8,7 @@ permalink:
 excerpt: This is a little park between the Medway River and Strood Train Station. Some fab play equipment for young children, an outdoor gym and lovely views of Rochester.
 
 images: 
- - url: /images/kent/outdoors/canal_road_strood/canal2.jpg
+ - url: https://cdn.justaddapicnic.com/kent/outdoors/canal_road_strood/canal2.jpg
    alt: Climbing equipment and assault course.
    title: Canal Road Play area
 ---
@@ -39,19 +39,19 @@ Rochester City Centre is about 10 minute walk from the park where you can find t
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/canal_road_strood/canal1.jpg" alt="The promenade, Rochester Train Bridge and outdoor gym" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/canal_road_strood/canal1.jpg" alt="The promenade, Rochester Train Bridge and outdoor gym" class="img-fluid">
       </div> 
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="/images/kent/outdoors/canal_road_strood/canal2.jpg" alt="Assualt course, pyramidal climbing frame and other play equipment" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/canal_road_strood/canal2.jpg" alt="Assualt course, pyramidal climbing frame and other play equipment" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/canal_road_strood/canal3.jpg" alt="Bouncy animal rides, climbing frame and balance boards to play on." class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/canal_road_strood/canal3.jpg" alt="Bouncy animal rides, climbing frame and balance boards to play on." class="img-fluid">
       </div>
     </div>
 
