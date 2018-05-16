@@ -7,7 +7,7 @@ tag: Rochester
 permalink: 
 excerpt: A beautiful Medieval Cathedral in the heart of Rochester.  This building is a feast for the eyes and soul. It offers a cafe, gift shop and toilets.  There are family activities available and the Bridge Trust currently have an exhibition in the crypt recounting the history of Rochester Bridge.
 images:
- - url: /images/kent/indoors/rochester_cathedral/rochester6.jpg
+ - url: https://cdn.justaddapicnic.com/kent/indoors/rochester_cathedral/rochester6.jpg
    alt: The internal enterance to Rochester Cathedral
    title: Rochester Cathedral
 ---
@@ -38,21 +38,21 @@ Along the High Street you will also find the [Rochester Visitors Center](https:/
 
     <div class="col-md-6">
       <div class="card" id="portrait">
-        <img src="/images/kent/indoors/rochester_cathedral/rochester2.jpg" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/indoors/rochester_cathedral/rochester2.jpg" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="/images/kent/indoors/rochester_cathedral/rochester1.jpg" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/indoors/rochester_cathedral/rochester1.jpg" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-6">
       <div class="card" id="lanscape">
-        <img src="/images/kent/indoors/rochester_cathedral/rochester4.jpg" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/indoors/rochester_cathedral/rochester4.jpg" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="/images/kent/indoors/rochester_cathedral/rochester5.jpg" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/indoors/rochester_cathedral/rochester5.jpg" class="img-fluid">
       </div>
     </div>
 

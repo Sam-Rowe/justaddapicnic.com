@@ -7,7 +7,7 @@ tag: Gillingham
 permalink: 
 excerpt: The Strand Leisure Park is set ont he banks of the River Medway and offers an amazing array of activities, particularly in the warmer months, with 3 play areas to chose from, a splash pool, mini train, crazy golf and lido there is plenty for everyone.
 images:
- - url: /images/kent/outdoors/strand/Strand_2.jpg
+ - url: https://cdn.justaddapicnic.com/kent/outdoors/strand/Strand_2.jpg
    alt: Childrens Playground
    title: The Strand Leisure Park
 ---
@@ -38,31 +38,31 @@ Gillingham town centre is only 1 mile away and offers a variety of shops and foo
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/strand/Strand_1.jpg" alt="Assualt course climbing equipment" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/strand/Strand_1.jpg" alt="Assualt course climbing equipment" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="/images/kent/outdoors/strand/Strand_2.jpg" alt="Climbing frame in the bark play park" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/strand/Strand_2.jpg" alt="Climbing frame in the bark play park" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="/images/kent/outdoors/strand/Strand_3.jpg" alt="small climbing frame in the main play ground" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/strand/Strand_3.jpg" alt="small climbing frame in the main play ground" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/strand/Strand_5.jpg" alt="view aross the River beach" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/strand/Strand_5.jpg" alt="view aross the River beach" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/strand/Strand_6.jpg" alt="Sand pit play area" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/strand/Strand_6.jpg" alt="Sand pit play area" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="/images/kent/outdoors/strand/Strand_4.jpg" alt="swings and climbing frame" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/strand/Strand_4.jpg" alt="swings and climbing frame" class="img-fluid">
       </div>
     </div>
 

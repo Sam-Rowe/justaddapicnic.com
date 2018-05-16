@@ -7,7 +7,7 @@ tags: Sheerness
 permalink: 
 excerpt: A fantastic sandpit park where you can spend several hours enjoying the lovely weather.  When you get bored of the sand there is a great splash pool and the beach is close by too.
 images:
- - url: /images/kent/outdoors/sheerness_sandpit/sheerness_2.JPG
+ - url: https://cdn.justaddapicnic.com/kent/outdoors/sheerness_sandpit/sheerness_2.JPG
    alt: The sandpit and climbing frames.
    title: Sheerness Sandpit
 ---
@@ -42,7 +42,7 @@ Sheerness High Street and other local retailers offer an array of places to purc
 
     <div class="col-md-4">
       <div class="card" id="landscape">
-        <img src="/images/kent/outdoors/sheerness_sandpit/sheerness_1.JPG" alt="Wooden train climbing frame at the splash pool" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/sheerness_sandpit/sheerness_1.JPG" alt="Wooden train climbing frame at the splash pool" class="img-fluid">
       </div>
 
 <!--       <div class="card" id="landscape">
@@ -52,7 +52,7 @@ Sheerness High Street and other local retailers offer an array of places to purc
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="/images/kent/outdoors/sheerness_sandpit/sheerness_2.JPG" alt="Pirate ship climbing frame in the main sand pit" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/sheerness_sandpit/sheerness_2.JPG" alt="Pirate ship climbing frame in the main sand pit" class="img-fluid">
       </div>
 
 <!--       <div class="card" id="portrait">
@@ -62,7 +62,7 @@ Sheerness High Street and other local retailers offer an array of places to purc
 
     <div class="col-md-4">
       <div class="card" id="landscape">
-        <img src="/images/kent/outdoors/sheerness_sandpit/sheerness_3.jpg"  alt="A view along the promanade by Sheerness beach" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/sheerness_sandpit/sheerness_3.jpg"  alt="A view along the promanade by Sheerness beach" class="img-fluid">
       </div>
 
 <!--       <div class="card" id="landscape">
