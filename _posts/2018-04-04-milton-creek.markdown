@@ -7,7 +7,7 @@ tag: Sittingbourne
 permalink: 
 excerpt: With a giant tunnel slide, climbing frame in a sand pit and lots of beautiful walks around the park.  Milton Creek is a great destintion for the whole family.
 images:
- - url: /images/kent/outdoors/milton_creek/milton6.jpg
+ - url: https://cdn.justaddapicnic.com/kent/outdoors/milton_creek/milton6.jpg
    alt: Climbing frame and bouncy insects at Milton Creek Country Park
    title: Milton Creek Country Park
 ---
@@ -53,21 +53,21 @@ Bayford Meadows [Go Karting](https://www.bayfordmeadows.co.uk/) Track is under 2
 
     <div class="col-md-6">
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/milton_creek/milton5.jpg" alt="A long metal tunnel slide." class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/milton_creek/milton5.jpg" alt="A long metal tunnel slide." class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="/images/kent/outdoors/milton_creek/milton3.jpg" alt=" View of the childrens play park" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/milton_creek/milton3.jpg" alt=" View of the childrens play park" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-6">
       <div class="card" id="lanscape">
-        <img src="/images/kent/outdoors/milton_creek/milton6.jpg" alt="Rope climbing frame and bouncy characters to play on." class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/milton_creek/milton6.jpg" alt="Rope climbing frame and bouncy characters to play on." class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/milton_creek/milton1.jpg" alt="Sign posts and animal crayon rubbing plates." class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/milton_creek/milton1.jpg" alt="Sign posts and animal crayon rubbing plates." class="img-fluid">
       </div>
     </div>
 

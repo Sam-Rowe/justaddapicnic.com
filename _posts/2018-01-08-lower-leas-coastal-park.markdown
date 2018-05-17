@@ -7,7 +7,7 @@ tag: Folkestone
 permalink: 
 excerpt: A beautifully landscped park with excellent play equipment to keep the children entertained for hours.  Close to Folkestones' stony beach and a pleasant stroll to the redeveloped harbour. 
 images:
- - url: /images/kent/outdoors/folkestone_park/Folkestone_1.jpg
+ - url: https://cdn.justaddapicnic.com/kent/outdoors/folkestone_park/Folkestone_1.jpg
    alt: Children's play area
    title: Lower Leas Coastal Park
 ---
@@ -36,31 +36,31 @@ Within a 20-30 minute walk from the park, along the sea front, you will find the
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/folkestone_park/Folkestone_6.jpg" alt="view down to the pebble beach from the park" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/folkestone_park/Folkestone_6.jpg" alt="view down to the pebble beach from the park" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="/images/kent/outdoors/folkestone_park/Folkestone_1.jpg" alt="Sunken pirate ship paly equipment in a large sand pit" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/folkestone_park/Folkestone_1.jpg" alt="Sunken pirate ship paly equipment in a large sand pit" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="landscape">
-        <img src="/images/kent/outdoors/folkestone_park/Folkestone_12.jpg" alt="Large tree fort with lots fo places to climb and explore" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/folkestone_park/Folkestone_12.jpg" alt="Large tree fort with lots fo places to climb and explore" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/folkestone_park/Folkestone_11.jpg" alt="view across the pebble beach" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/folkestone_park/Folkestone_11.jpg" alt="view across the pebble beach" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/folkestone_park/Folkestone_7.jpg" alt="Ampitheatre and banked grassy seating" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/folkestone_park/Folkestone_7.jpg" alt="Ampitheatre and banked grassy seating" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="/images/kent/outdoors/folkestone_park/Folkestone_10.jpg" alt="large spidersweb climbing frame" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/folkestone_park/Folkestone_10.jpg" alt="large spidersweb climbing frame" class="img-fluid">
       </div>
     </div>
 

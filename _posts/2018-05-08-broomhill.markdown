@@ -8,7 +8,7 @@ permalink:
 excerpt: This hidden gem, a short walk from the lively Strood town centre, is a shady haven for all.  With lovely open green fields, shady wooded walks and some brilliant children's play areas you are sure to have a wonderful time here. 
 
 images: 
- - url: /images/kent/outdoors/broomhill/broomhill1.jpg
+ - url: https://cdn.justaddapicnic.com/kent/outdoors/broomhill/broomhill1.jpg
    alt: View across to the Medway River from Broomhill Park
    title: Broomhill Park
 ---
@@ -37,31 +37,31 @@ Strood Town centre and train station are about 1 mile away.
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/broomhill/broomhill2.jpg" alt="Children's play park in the wooded area." class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/broomhill/broomhill2.jpg" alt="Children's play park in the wooded area." class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="/images/kent/outdoors/broomhill/broomhill3.jpg" alt="Chilrdren's play park in the wooded area." class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/broomhill/broomhill3.jpg" alt="Chilrdren's play park in the wooded area." class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="/images/kent/outdoors/broomhill/broomhill4.jpg" alt="Children's play area." class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/broomhill/broomhill4.jpg" alt="Children's play area." class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/broomhill/broomhill6.jpg" alt="Children's play area equipment; bouncy bugs and swings." class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/broomhill/broomhill6.jpg" alt="Children's play area equipment; bouncy bugs and swings." class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/broomhill/broomhill7.jpg" alt="Multi-games court on the level grassy field" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/broomhill/broomhill7.jpg" alt="Multi-games court on the level grassy field" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="/images/kent/outdoors/broomhill/broomhill5.jpg" alt="Beautiful grassy banks, perfect for picnics." class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/broomhill/broomhill5.jpg" alt="Beautiful grassy banks, perfect for picnics." class="img-fluid">
       </div>
     </div>
 

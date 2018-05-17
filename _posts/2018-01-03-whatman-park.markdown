@@ -7,7 +7,7 @@ tags: Maidstone
 permalink: 
 excerpt: A large park set on the banks of the River Medway, a short walk from Maidstone town centre.  It offers some lovely open spaces, several play areas and beautiful views of the river and its' wildlife.
 images:
- - url: /images/kent/outdoors/whatman_park/Whatman1.jpg
+ - url: https://cdn.justaddapicnic.com/kent/outdoors/whatman_park/Whatman1.jpg
    alt: Children's play area
    title: Whatman Park
 ---
@@ -35,31 +35,31 @@ The park is just over a mile from Maidstone town centre where a wide variety of 
 
         <div class="col-md-4">
           <div class="card" id="portrait">
-            <img src="/images/kent/outdoors/whatman_park/Whatman1.jpg" alt="Childrens play area with hill slides, large climbing frame and zipwires" class="img-fluid">
+            <img src="https://cdn.justaddapicnic.com/kent/outdoors/whatman_park/Whatman1.jpg" alt="Childrens play area with hill slides, large climbing frame and zipwires" class="img-fluid">
           </div>
 
           <div class="card" id="landscape">
-            <img src="/images/kent/outdoors/whatman_park/Whatman3.jpg" alt="Smaller childrens play area with pirate theme, swings and sandpit" class="img-fluid">
+            <img src="https://cdn.justaddapicnic.com/kent/outdoors/whatman_park/Whatman3.jpg" alt="Smaller childrens play area with pirate theme, swings and sandpit" class="img-fluid">
           </div>
         </div>
 
         <div class="col-md-4">
           <div class="card" id="portrait">
-            <img src="/images/kent/outdoors/whatman_park//Whatman4.jpg" alt="beautiful tree by the rivers edge" class="img-fluid">
+            <img src="https://cdn.justaddapicnic.com/kent/outdoors/whatman_park//Whatman4.jpg" alt="beautiful tree by the rivers edge" class="img-fluid">
           </div>
 
           <div class="card" id="landscape">
-            <img src="/images/kent/outdoors/whatman_park/Whatman5.jpg" alt="Picture of the pirate themed play area" class="img-fluid">
+            <img src="https://cdn.justaddapicnic.com/kent/outdoors/whatman_park/Whatman5.jpg" alt="Picture of the pirate themed play area" class="img-fluid">
           </div>
         </div>
 
         <div class="col-md-4">
           <div class="card" id="portrait">
-            <img src="/images/kent/outdoors/whatman_park/Whatman7.jpg" alt="Partially covered ampitheatre and grassy lawn" class="img-fluid">
+            <img src="https://cdn.justaddapicnic.com/kent/outdoors/whatman_park/Whatman7.jpg" alt="Partially covered ampitheatre and grassy lawn" class="img-fluid">
           </div>
 
           <div class="card" id="landscape">
-            <img src="/images/kent/outdoors/whatman_park/IMG_1216.jpg" alt="Wooden treetop and woodlan walkway" class="img-fluid">
+            <img src="https://cdn.justaddapicnic.com/kent/outdoors/whatman_park/IMG_1216.jpg" alt="Wooden treetop and woodlan walkway" class="img-fluid">
           </div>
         </div>
         
