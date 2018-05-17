@@ -7,7 +7,7 @@ tags: Gravesend
 permalink: 
 excerpt: This is a newly established woodland is right next to the A2 near Gravesend.  It offers lots of gravel footpaths that give lovely views of the surrounding countryside.  There are several trails and play areas around the park, and a cafe and toilets close to the car park.
 images:
- - url: https://cdn.justaddapicnic.com/kent/outdoors/jeskyns/Jeskyns11.jpg
+ - url: https://cdn.justaddapicnic.com/kent/outdoors/jeskyns/Jeskyns11.JPG
    alt: Children's play area
    title: Jeskyns Community Woodland
 ---
@@ -58,11 +58,11 @@ Gravesend Town centre is approximately 10 miles away.
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/jeskyns/Jeskyns12.jpg" alt="Wooden teepee frames for den building" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/jeskyns/Jeskyns12.JPG" alt="Wooden teepee frames for den building" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/jeskyns/Jeskyns11.jpg" alt="Childrens play area with tunnels and tree trunks and objects to climb on" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/jeskyns/Jeskyns11.JPG" alt="Childrens play area with tunnels and tree trunks and objects to climb on" class="img-fluid">
       </div>
     </div>
 
