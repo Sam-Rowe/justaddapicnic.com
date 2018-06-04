@@ -51,7 +51,7 @@ Bayford Meadows [Go Karting](https://www.bayfordmeadows.co.uk/) Track is under 2
 
   <div class="row">
 
-    <div class="col-md-6">
+    <div class="col-md-4">
       <div class="card" id="portrait">
         <img src="https://cdn.justaddapicnic.com/kent/outdoors/milton_creek/milton5.jpg" alt="A long metal tunnel slide." class="img-fluid">
       </div>
@@ -61,13 +61,23 @@ Bayford Meadows [Go Karting](https://www.bayfordmeadows.co.uk/) Track is under 2
       </div>  
     </div>
 
-    <div class="col-md-6">
+    <div class="col-md-4">
       <div class="card" id="lanscape">
         <img src="https://cdn.justaddapicnic.com/kent/outdoors/milton_creek/milton6.jpg" alt="Rope climbing frame and bouncy characters to play on." class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
         <img src="https://cdn.justaddapicnic.com/kent/outdoors/milton_creek/milton1.jpg" alt="Sign posts and animal crayon rubbing plates." class="img-fluid">
+      </div>
+    </div>
+
+    <div class="col-md-4">
+      <div class="card" id="lanscape">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/milton_creek/milton7.jpg" alt="View of the sandpit from the wooden platform up on the hill." class="img-fluid">
+      </div>
+
+      <div class="card" id="portrait">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/milton_creek/milton4.jpg" alt="View towards the Church across the open grass space." class="img-fluid">
       </div>
     </div>
 

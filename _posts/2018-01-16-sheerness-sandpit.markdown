@@ -30,7 +30,7 @@ There are a couple of kiosks close to the sandpit and splash pool that sell ice 
 
 #### Close by
 
-[Sheerness Beach]() is just behind the sandpit and splash pool.  It has a large concrete defense wall that runs a good distance between the port and [Barton's Point](/outdoors/kent/park/2018/04/12/barton-point.html) which is great for bikes, scooters and pushchairs if you fancy stretching your legs.  Check out the [tide times](https://www.tidetimes.org.uk/sheerness-tide-times) if you fancy looking in the rock pools.
+[Sheerness Beach](/outdoors/kent/beach/2018/06/03/sheerness-beach.html) is just behind the sandpit and splash pool.  It has a large concrete defense wall that runs a good distance between the port and [Barton's Point](/outdoors/kent/park/2018/04/12/barton-point.html) which is great for bikes, scooters and pushchairs if you fancy stretching your legs.  Check out the [tide times](https://www.tidetimes.org.uk/sheerness-tide-times) if you fancy looking in the rock pools.
 
 Sheerness High Street and other local retailers offer an array of places to purchase food, beach accessories and more.
 
