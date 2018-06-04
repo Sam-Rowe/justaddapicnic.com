@@ -7,7 +7,7 @@ tags: Sheerness
 permalink: 
 excerpt: A fantastic sandpit park where you can spend several hours enjoying the lovely weather.  When you get bored of the sand there is a great splash pool and the beach is close by too.
 images:
- - url: https://cdn.justaddapicnic.com/kent/outdoors/sheerness_sandpit/sheerness_2.JPG
+ - url: https://cdn.justaddapicnic.com/kent/outdoors/sheerness_sandpit/sheerness1.jpg
    alt: The sandpit and climbing frames.
    title: Sheerness Sandpit
 ---
@@ -16,7 +16,9 @@ images:
 
 We love this sandpit and return to it several times during every summer.  The sandpit offers lots of great climbing and play equipment for all ages, and of course the sand, which is fine and easy to build with if you find the damper stuff a little deeper down.  The wall that emcompasses the sandpit does offer a small amount of shade, but we would recommend you take your beach umbrella or beach shelter so you have somewhere comfortable to sit.  There are a few picnic benches outside of the sandpit on the surrounding grass, but these fill up quickly.  Picnic blankets are a must here.
 
-Over the road runnning up to the carpark there is a fantastic little splash pool that also has some lovely water themed play equipment.  This is a great place too cool off when the weather is really hot and an easy way to get rid of that excess sand before you get back into the car.
+Over the road, runnning up to the carpark, there is a fantastic little splash pool that also has some lovely water themed play equipment.  This is a great place too cool off when the weather is really hot and an easy way to get rid of that excess sand before you get back into the car.
+
+On the grass by the splash pool you will find a half-pipe for skate boards and scooters, and a few other pieces of equipment for older children to enjoy.
 
 The sea wall runs behind the sandpit and splash pool and a ramp or steps will see up on to the top of Sheerness beach where more fun awaits.
 
@@ -28,7 +30,7 @@ There are a couple of kiosks close to the sandpit and splash pool that sell ice 
 
 #### Close by
 
-Sheerness Beach is just behind the sandpit and splash pool.  It has a large concrete defense wall that runs a good distance between the port and Barton's Point which is great for bikes, scooters and pushchairs if you fancy stretching your legs.  Check out the [tide times](https://www.tidetimes.org.uk/sheerness-tide-times) if you fancy looking in the rock pools.
+[Sheerness Beach](/outdoors/kent/beach/2018/06/03/sheerness-beach.html) is just behind the sandpit and splash pool.  It has a large concrete defense wall that runs a good distance between the port and [Barton's Point](/outdoors/kent/park/2018/04/12/barton-point.html) which is great for bikes, scooters and pushchairs if you fancy stretching your legs.  Check out the [tide times](https://www.tidetimes.org.uk/sheerness-tide-times) if you fancy looking in the rock pools.
 
 Sheerness High Street and other local retailers offer an array of places to purchase food, beach accessories and more.
 
@@ -41,33 +43,33 @@ Sheerness High Street and other local retailers offer an array of places to purc
   <div class="row">
 
     <div class="col-md-4">
-      <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/sheerness_sandpit/sheerness_1.JPG" alt="Wooden train climbing frame at the splash pool" class="img-fluid">
+      <div class="card" id="portrait">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/sheerness_sandpit/sheerness5.jpg" alt="Wooden train climbing frame at the splash pool" class="img-fluid">
       </div>
 
-<!--       <div class="card" id="landscape">
-        <img src="" class="img-fluid">
-      </div> -->  
+      <div class="card" id="landscape">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/sheerness_sandpit/sheerness4.jpg" alt="Train climbing frame and slide with the pool in the fore-ground." class="img-fluid">
+      </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/sheerness_sandpit/sheerness_2.JPG" alt="Pirate ship climbing frame in the main sand pit" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/sheerness_sandpit/sheerness1.jpg" alt="Wide view of the hole sandpit and all of the fantastic play equipment." class="img-fluid">
       </div>
 
-<!--       <div class="card" id="portrait">
-        <img src="" class="img-fluid">
-      </div> -->
+      <div class="card" id="portrait">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/sheerness_sandpit/sheerness2.jpg" alt="Pirate ship climbing frame in the main sand pit" class="img-fluid">
+      </div>
     </div>
 
     <div class="col-md-4">
-      <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/sheerness_sandpit/sheerness_3.jpg"  alt="A view along the promanade by Sheerness beach" class="img-fluid">
+      <div class="card" id="portrait">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/sheerness_sandpit/sheerness6.jpg"  alt="Skate half-pipe next to the splash pool" class="img-fluid">
       </div>
 
-<!--       <div class="card" id="landscape">
-        <img src="" class="img-fluid">
-      </div> -->
+      <div class="card" id="landscape">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/sheerness_sandpit/sheerness3.jpg" alt="Toddler climbing frame and swings int he background climbing frame"  class="img-fluid">
+      </div>
     </div>
 
   </div>      
