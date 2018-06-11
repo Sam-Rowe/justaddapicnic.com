@@ -97,7 +97,7 @@ Whether you want to explore the rock pools, relax on the sand or "dig to China" 
     <a href="https://amzn.to/2sMcb8G" target="_blank" title="recommended beach chair"> Chairs </a>
   </li>
   <li>
-    <a href="https://amzn.to/2sOLFvs"> Beach umbrella</a> or <a href="https://amzn.to/2sYabJT">Beach shade</a>
+    <a href="https://amzn.to/2sOLFvs" target="_blank"> Beach umbrella</a> or <a href="https://amzn.to/2sYabJT" target="_blank">Beach shade</a>
   </li>
   <li>
    <a href="https://amzn.to/2sNRYj8" target="_blank">Windbreak</a> and <a href="https://amzn.to/2MjeatF" target="_blank">rubber mallet</a> 
