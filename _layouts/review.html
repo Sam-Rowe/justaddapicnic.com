@@ -3,24 +3,17 @@ layout: page
 ---
 
 <div>
+	<ul class="photo-gallery">
+	{% for image in page.images %}
+		<li>	
+			<a href="{{ image.link }}" target="_blank"><img src="{{ image.url }}" alt="{{ image.alt }}"></a>
+		</li>
+	{% endfor %}
+	</ul>
 	<div class="blog-post spacing">
 		{{ content }}
 	</div>
-<!-- 	<div class="gallery">
-	  {% if review %}
-            {% assign image = review.images[0] %}
-      {% else %}
-            {% assign image = page.images[0] %}
-      {% endif %}
-      {% include heading-img.html image=image %} 
-  	</div> -->
+
 </div>
 
 
-<ul class="photo-gallery">
-	{% for image in page.images %}
-	<li>	
-		<img src="{{ image.url }}" alt="{{ image.alt }}">
-	</li>
-	{% endfor %}
-</ul>
