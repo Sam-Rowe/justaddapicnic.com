@@ -461,3 +461,15 @@
         margin: 0.5em;
     }
 
+.photo-gallery {
+  li {
+    list-style: none;
+    padding: 0;
+    display: inline-block;
+    width: 30%;
+
+    img {
+    width: 100%;
+    }
+  }
+}
