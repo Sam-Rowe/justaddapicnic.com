@@ -24,7 +24,7 @@ images:
 
 These shoes are perfect for the beach.  They protect little (and big) feet from prickly shells and spikey barnacles whilst exploring rock pools and enjoying your favourite shingle beach.  They do a great job of letting the water in but keeping the sharp bits out.  We find that these designs, without mesh, do a better job at keeping the scratchy bits of shell out and also help to protect the childrens' feet from getting sun burnt as well.  Our children also like wearing them when we have the paddling pool out so that they can run around the garden without concern.
 
-<a href="https://amzn.to/2JGCV0V" target="_blank" title="recommend Hot Tuna water shoes">Find them on Amazon</a>
+###Find them on Amazon...
 
 <iframe style="width:140px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=justaddapicni-21&marketplace=amazon&region=GB&placement=B071W4MN4D&asins=B071W4MN4D&linkId=8427f2bfa89eae6c1f0e5f41317679f6&show_border=false&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
 </iframe>
