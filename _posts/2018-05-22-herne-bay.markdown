@@ -1,0 +1,101 @@
+---
+layout: post
+title:  "Herne Bay"
+date:   2018-05-22 10:18:04 +0000
+categories: [outdoors, kent, beach, park]
+tag: Herne Bay
+permalink: 
+excerpt: With its' wide promenade, amusement pier, shingle beach and parks Herne Bay is a lovely coastal town to spend the day in.
+
+images: 
+ - url: https://cdn.justaddapicnic.com/kent/outdoors/herne-bay/herne2.jpg
+   alt: Herne Bay shingle beach and pier.
+   title: Herne Bay
+---
+
+## What's there?
+Herne Bay is a lovely coastal town with a lot to offer.  It has a long shingle beach, with some sandy patches, that is great for paddling in.  Towards the habour arm there is a set of fitness equipment that looks like a cross between an assualt course and an outdoor gym right on the beach.  
+
+Behind the beach you will find the beautifully manicured Waltrop Gardens, that are open for all to sit and enjoy.  At the east end of the gardens you will discover the children's play area, with nautical themed climbing frames and equipment for the children to enjoy all year round.  The [Central Bandstand](http://hernebaycoastalpark.org/bandstand/) hosts concerts most weekends for Herne Bay's visitors to enjoy for free.
+
+Herne Bay's pier hosts a vairety of shops and some amusements at the very end.  Crabbing is encouraged along the pier, with regular competitions for the largest crabs caught.  (Please remember to return any animals to the sea once you have had a good look.)
+
+If you would like any further information about Herne Bay please visit [The Coastal Park](http://hernebaycoastalpark.org/) website.
+
+There are several sets of public toilets along the beach front.  One in the Central Bandstand and another the other side of the pier by the mini golf.
+
+There is plenty of parking along the sea front as well as in the town area.  Herne Bay has it's own train station, half a mile from the beach front (15 minutes walk).
+
+#### Close by
+[Beacon Hill](https://explorekent.org/activities/beacon-hill-herne-bay/) is at the east end of Herne Bay and offers bracing walks above the coastline.
+
+At the west end of Herne Bay you will find Hampton Pier Recreation Ground, a lovely play area dug down out of the wind.
+
+
+## Gallery
+
+<div class="container">
+
+  <div class="row">
+
+    <div class="col-md-4">
+      <div class="card" id="portrait">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/herne-bay/herne3.jpg" alt="View along the shingle beach towards the central bandstand" class="img-fluid">
+      </div>
+
+      <div class="card" id="landscape">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/herne-bay/herne1.jpg" alt="Formal gardens set back from the beach" class="img-fluid">
+      </div>  
+    </div>
+
+    <div class="col-md-4">
+      <div class="card" id="lanscape">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/herne-bay/herne6.jpg" alt="Vew across the shingle beach to the harbour arm and boats." class="img-fluid">
+      </div>
+
+      <div class="card" id="portrait">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/herne-bay/herne4.jpg" alt="Chidlren's Play area, climbing frames and play houses." class="img-fluid">
+      </div>
+    </div>
+
+    <div class="col-md-4">
+      <div class="card" id="portrait">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/herne-bay/herne5.jpg" alt="Formal gardens in the fore-ground with the central clock tower and children's play area behind." class="img-fluid">
+      </div>
+
+      <div class="card" id="landscape">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/herne-bay/herne7.jpg" alt="Gym and assault course style equipment on the beach." class="img-fluid">
+      </div>
+    </div>
+
+  </div>      
+</div>
+
+
+### How to find it...
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9962.540903377065!2d1.1176802036283702!3d51.37300227951322!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d93564b4a2bac3%3A0xa00185833920b65f!2sHerne+Bay+Clock+Tower!5e0!3m2!1sen!2suk!4v1527070587161" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+### What to take
+* Picnic blanket, chairs and shade for on the beach.
+* Swimming kit if the weather is warm enough
+* Crab-line, bait and bucket.
+* Bicycles; the wide promenade allows easy access for cyclists of all abilities and there are easy cycling routes around the coast through Herne Bay.
+
+### Latest News
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-6">
+      <!-- Follow JAAP on Twiiter -->
+      <a href="https://twitter.com/JustAddAPicnic?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @JustAddAPicnic</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      <!-- Twitter plugin code -->
+      <a class="twitter-timeline" data-width="500" data-height="500" href="https://twitter.com/HBCoastalPark?ref_src=twsrc%5Etfw">Tweets by HBCoastalPark</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>
+  
+    <div class="col-md-6">
+      <!-- Facebook plugin code -->
+      <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fhernebaycoastalpark%2F&tabs=timeline&width=500&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+    </div>
+  </div>
+</div>

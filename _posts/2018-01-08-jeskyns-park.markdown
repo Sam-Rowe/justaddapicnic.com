@@ -7,7 +7,7 @@ tags: Gravesend
 permalink: 
 excerpt: This is a newly established woodland is right next to the A2 near Gravesend.  It offers lots of gravel footpaths that give lovely views of the surrounding countryside.  There are several trails and play areas around the park, and a cafe and toilets close to the car park.
 images:
- - url: /images/kent/outdoors/jeskyns/Jeskyns11.jpg
+ - url: https://cdn.justaddapicnic.com/kent/outdoors/jeskyns/Jeskyns11.JPG
    alt: Children's play area
    title: Jeskyns Community Woodland
 ---
@@ -38,31 +38,31 @@ Gravesend Town centre is approximately 10 miles away.
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/jeskyns/Jeskyns2.jpg" alt="View of the paths around the park" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/jeskyns/Jeskyns2.jpg" alt="View of the paths around the park" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="/images/kent/outdoors/jeskyns/Jeskyns4.jpg" alt="people walking along the grassy paths" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/jeskyns/Jeskyns4.jpg" alt="people walking along the grassy paths" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="/images/kent/outdoors/jeskyns/Jeskyns7.jpg" alt="A view of the large grassy banks and wide grassy footpaths" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/jeskyns/Jeskyns7.jpg" alt="A view of the large grassy banks and wide grassy footpaths" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/jeskyns/Jeskyns6.jpg" alt="Large wooden tree fort and benched" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/jeskyns/Jeskyns6.jpg" alt="Large wooden tree fort and benched" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/jeskyns/Jeskyns12.jpg" alt="Wooden teepee frames for den building" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/jeskyns/Jeskyns12.JPG" alt="Wooden teepee frames for den building" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="/images/kent/outdoors/jeskyns/Jeskyns11.jpg" alt="Childrens play area with tunnels and tree trunks and objects to climb on" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/jeskyns/Jeskyns11.JPG" alt="Childrens play area with tunnels and tree trunks and objects to climb on" class="img-fluid">
       </div>
     </div>
 
@@ -85,4 +85,15 @@ Jeskyns Community Woodland, Henhurst Road, Cobham DA12 3AN.
 * There are some lovely open spaces perfect for ball games, cricket and frisbee. 
 * Kites could easily be flown here. (Although you might want to tie your children down)
 
+
+### Latest News
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-6">
+      <!-- Facebook plugin code -->
+      <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fjeskynscommunitywoodland%2F&tabs=timeline&width=500&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+    </div>
+  </div>
+</div>
 

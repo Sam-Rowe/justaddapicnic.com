@@ -7,7 +7,7 @@ categories: [outdoors, kent, park]
 permalink: 
 excerpt: A great little play park and playing fields that offers some novel and interesting play equipment.  The perfect stop over after being at the Strand or on your way home from a shopping trip.
 images:
- - url: /images/kent/outdoors/hilly_fields/hillyfields1.jpg
+ - url: https://cdn.justaddapicnic.com/kent/outdoors/hilly_fields/hillyfields1.jpg
    alt: Images of the Play equipment
    title: Hilly Fields Park
 ---
@@ -26,21 +26,21 @@ Only on street parking available.
 
 <div class="col-md-6">
   <div class="card" id="landscape">
-    <img src="/images/kent/outdoors/hilly_fields/hillyfields1.jpg" alt="A suspended trampoline climbing frame" class="img-fluid">
+    <img src="https://cdn.justaddapicnic.com/kent/outdoors/hilly_fields/hillyfields1.jpg" alt="A suspended trampoline climbing frame" class="img-fluid">
   </div>
 
   <div class="card" id="landscape">
-    <img src="/images/kent/outdoors/hilly_fields/hillyfields2.jpg" alt="Small sand-pit and pryamidal climbing frame" class="img-fluid">
+    <img src="https://cdn.justaddapicnic.com/kent/outdoors/hilly_fields/hillyfields2.jpg" alt="Small sand-pit and pryamidal climbing frame" class="img-fluid">
   </div>
 </div>
 
 <div class="col-md-6">
   <div class="card" id="landscape">
-    <img src="/images/kent/outdoors/hilly_fields/hillyfields3.jpg" alt="Large suspended swing and landscaping for play" class="img-fluid">
+    <img src="https://cdn.justaddapicnic.com/kent/outdoors/hilly_fields/hillyfields3.jpg" alt="Large suspended swing and landscaping for play" class="img-fluid">
   </div>
 
   <div class="card" id="landscape">
-    <img src="/images/kent/outdoors/hilly_fields/hillyfields4.jpg" alt="Lots of swings and slide." class="img-fluid">
+    <img src="https://cdn.justaddapicnic.com/kent/outdoors/hilly_fields/hillyfields4.jpg" alt="Lots of swings and slide." class="img-fluid">
   </div>
 </div>
 </div>

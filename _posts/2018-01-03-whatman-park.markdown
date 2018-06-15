@@ -7,7 +7,7 @@ tags: Maidstone
 permalink: 
 excerpt: A large park set on the banks of the River Medway, a short walk from Maidstone town centre.  It offers some lovely open spaces, several play areas and beautiful views of the river and its' wildlife.
 images:
- - url: /images/kent/outdoors/whatman_park/Whatman1.jpg
+ - url: https://cdn.justaddapicnic.com/kent/outdoors/whatman_park/Whatman1.jpg
    alt: Children's play area
    title: Whatman Park
 ---
@@ -35,31 +35,31 @@ The park is just over a mile from Maidstone town centre where a wide variety of 
 
         <div class="col-md-4">
           <div class="card" id="portrait">
-            <img src="/images/kent/outdoors/whatman_park/Whatman1.jpg" alt="Childrens play area with hill slides, large climbing frame and zipwires" class="img-fluid">
+            <img src="https://cdn.justaddapicnic.com/kent/outdoors/whatman_park/Whatman1.jpg" alt="Childrens play area with hill slides, large climbing frame and zipwires" class="img-fluid">
           </div>
 
           <div class="card" id="landscape">
-            <img src="/images/kent/outdoors/whatman_park/Whatman3.jpg" alt="Smaller childrens play area with pirate theme, swings and sandpit" class="img-fluid">
+            <img src="https://cdn.justaddapicnic.com/kent/outdoors/whatman_park/Whatman3.jpg" alt="Smaller childrens play area with pirate theme, swings and sandpit" class="img-fluid">
           </div>
         </div>
 
         <div class="col-md-4">
           <div class="card" id="portrait">
-            <img src="/images/kent/outdoors/whatman_park//Whatman4.jpg" alt="beautiful tree by the rivers edge" class="img-fluid">
+            <img src="https://cdn.justaddapicnic.com/kent/outdoors/whatman_park//Whatman4.jpg" alt="beautiful tree by the rivers edge" class="img-fluid">
           </div>
 
           <div class="card" id="landscape">
-            <img src="/images/kent/outdoors/whatman_park/Whatman5.jpg" alt="Picture of the pirate themed play area" class="img-fluid">
+            <img src="https://cdn.justaddapicnic.com/kent/outdoors/whatman_park/Whatman5.jpg" alt="Picture of the pirate themed play area" class="img-fluid">
           </div>
         </div>
 
         <div class="col-md-4">
           <div class="card" id="portrait">
-            <img src="/images/kent/outdoors/whatman_park/Whatman7.jpg" alt="Partially covered ampitheatre and grassy lawn" class="img-fluid">
+            <img src="https://cdn.justaddapicnic.com/kent/outdoors/whatman_park/Whatman7.jpg" alt="Partially covered ampitheatre and grassy lawn" class="img-fluid">
           </div>
 
           <div class="card" id="landscape">
-            <img src="/images/kent/outdoors/whatman_park/IMG_1216.jpg" alt="Wooden treetop and woodlan walkway" class="img-fluid">
+            <img src="https://cdn.justaddapicnic.com/kent/outdoors/whatman_park/IMG_1216.jpg" alt="Wooden treetop and woodlan walkway" class="img-fluid">
           </div>
         </div>
         
@@ -82,6 +82,24 @@ Here's a list of things you might want to take with you:
 * A picnic blanket, there is not a lot of seating here.
 * A potty for younger visitors who might not make it back to the main entrance for the toilets.
 * Small buckets and spades for the sandpit.
+
+### Latest News
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-6">
+      <!-- Follow JAAP on Twitter -->
+      <a href="https://twitter.com/JustAddAPicnic?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @JustAddAPicnic</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      <!-- Twitter plugin code -->
+      <a class="twitter-timeline" data-width="500" data-height="500" href="https://twitter.com/MaidstoneRP?ref_src=twsrc%5Etfw">Tweets by MaidstoneRP</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>
+  
+    <div class="col-md-6">
+      <!-- Facebook plugin code -->
+      <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FFriends-of-Whatman-Park-212668768870596%2F&tabs=timeline&width=500&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+    </div>
+  </div>
+</div>
 
 
 

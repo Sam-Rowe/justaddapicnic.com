@@ -8,7 +8,7 @@ permalink:
 excerpt: The London Natural History Museum is a treasure trove of inspirational scientific knowledge and artifacts.  Covering topics from the creation of the Earth to the reign of the dinsoaurs to present day flora and fauna.
 
 images: 
- - url: /images/london/indoors/NHM/NHM1.jpg
+ - url: https://cdn.justaddapicnic.com/london/indoors/NHM/NHM1.jpg
    alt: The entrance of the Natural History Museum
    title: The Natural History Museum, London.
 ---
@@ -48,21 +48,21 @@ There are many other wonderful places in local area to visit.
 
     <div class="col-md-6">
       <div class="card" id="portrait">
-        <img src="/images/london/indoors/NHM/NHM2.jpg" alt="Animatronic T-rex at the Natural History Museum" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/london/indoors/NHM/NHM2.jpg" alt="Animatronic T-rex at the Natural History Museum" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="/images/london/indoors/NHM/NHM4.jpg" alt="Bugs and Beasties fromteh Creepy Crawlies gallery" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/london/indoors/NHM/NHM4.jpg" alt="Bugs and Beasties fromteh Creepy Crawlies gallery" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-6">
       <div class="card" id="lanscape">
-        <img src="/images/london/indoors/NHM/NHM3.jpg" alt="Skeleton of a dinosaur from the Dinosaurs gallery" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/london/indoors/NHM/NHM3.jpg" alt="Skeleton of a dinosaur from the Dinosaurs gallery" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="/images/london/indoors/NHM/NHM6.jpg" alt="Journey through the Earth esculator." class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/london/indoors/NHM/NHM6.jpg" alt="Journey through the Earth esculator." class="img-fluid">
       </div>
     </div>
 
@@ -81,6 +81,21 @@ Cromwell Road, Kensington, London.
 ### What to take
 You don't really need to take much more than your curiosity to the wonderful place of Science and Learning.
 
-### Latest News 
+### Latest News
 
-<a class="twitter-timeline" href="https://twitter.com/NHM_London?ref_src=twsrc%5Etfw">Tweets by NHM_London</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="container">
+  <div class="row">
+    <div class="col-md-6">
+      <!-- Follow JAAP on Twitter -->
+      <a href="https://twitter.com/JustAddAPicnic?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @JustAddAPicnic</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      <!-- Twitter plugin code -->
+      <a class="twitter-timeline" href="https://twitter.com/NHM_London?ref_src=twsrc%5Etfw">Tweets by NHM_London</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>
+  
+    <div class="col-md-6">
+      <!-- Facebook plugin code -->
+      <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fnaturalhistorymuseum%2F&tabs=timeline&width=500&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+    </div>
+  </div>
+</div>
+

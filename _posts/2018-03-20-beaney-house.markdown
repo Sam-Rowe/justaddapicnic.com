@@ -7,7 +7,7 @@ tag: Canterbury
 permalink: 
 excerpt: A free Museum, Library and Art gallery in the heart of Canterbury.  This little gem offers a wealth of knowledge, culture and fun for the whole family.  With regualrly changing exhibitions and lots of family-friendly activites throughout the year, it's well worth a visit.
 images:
- - url: /images/kent/indoors/beaney/beaney1.jpg
+ - url: https://cdn.justaddapicnic.com/kent/indoors/beaney/beaney1.jpg
    alt: Materials and Masters room at The Beaney.
    title: The Beaney House of Art and Knowledge 
 ---
@@ -39,28 +39,28 @@ Dane John Gardens; a large manicured gardens with small childrens play area is n
 
     <div class="col-md-6">
       <div class="card" id="portrait">
-        <img src="/images/kent/indoors/beaney/beaney1.jpg" alt="Materials and Masters Gallery" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/indoors/beaney/beaney1.jpg" alt="Materials and Masters Gallery" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="/images/kent/indoors/beaney/beaney2.jpg" alt="Dolls house collection, organised into different rooms" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/indoors/beaney/beaney2.jpg" alt="Dolls house collection, organised into different rooms" class="img-fluid">
       </div>  
 
       <div class="card" id="portrait">
-        <img src="/images/kent/indoors/beaney/beaney3.jpg" alt="Architectural drawings and paintings in a variety of media" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/indoors/beaney/beaney3.jpg" alt="Architectural drawings and paintings in a variety of media" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-6">
       <div class="card" id="lanscape">
-        <img src="/images/kent/indoors/beaney/beaney4.jpg" alt="Children's explorer point in the Explorers and collectors gallery." class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/indoors/beaney/beaney4.jpg" alt="Children's explorer point in the Explorers and collectors gallery." class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="/images/kent/indoors/beaney/beaney5.jpg" alt="Children's explorer point in the Garden Room; farm based play table and dressing up." class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/indoors/beaney/beaney5.jpg" alt="Children's explorer point in the Garden Room; farm based play table and dressing up." class="img-fluid">
       </div>
       <div class="card" id="landscape">
-        <img src="/images/kent/indoors/beaney/beaney6.jpg" alt="Sensory exhibition in the Temporary Exhibitions Gallery" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/indoors/beaney/beaney6.jpg" alt="Sensory exhibition in the Temporary Exhibitions Gallery" class="img-fluid">
       </div>
 
     </div>
@@ -81,6 +81,22 @@ This lovely museum offers so much, you really do not need to take anything other
 
 ### Latest News
 
-<a class="twitter-timeline" data-width="1000" data-height="500" href="https://twitter.com/The_Beaney?ref_src=twsrc%5Etfw">Tweets by The_Beaney</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="container">
+  <div class="row">
+    <div class="col-md-6">
+      <!-- Follow JAAP on Twitter -->
+      <a href="https://twitter.com/JustAddAPicnic?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @JustAddAPicnic</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      <!-- Twitter plugin code -->
+      <a class="twitter-timeline" data-width="1000" data-height="500" href="https://twitter.com/The_Beaney?ref_src=twsrc%5Etfw">Tweets by The_Beaney</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>
+  
+    <div class="col-md-6">
+      <!-- Facebook plugin code -->
+      <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FTheBeaney%2F&tabs=timeline&width=500&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+    </div>
+  </div>
+</div>
+
+
 
 

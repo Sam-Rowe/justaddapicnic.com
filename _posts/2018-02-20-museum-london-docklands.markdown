@@ -7,7 +7,7 @@ tag: "Canary Wharf"
 permalink: 
 excerpt: Have you ever wondered what it was like on the East and West India Docks before the financial district moved in? Find out about the interesting goods that came into the city.  Read stories from mariners, slaves and whalers. Enjoy a mulitude of wonderful family activites.
 images:
- - url: /images/london/indoors/museum_docklands/docklands1.jpg
+ - url: https://cdn.justaddapicnic.com/london/indoors/museum_docklands/docklands1.jpg
    alt: The entrance to the Museum of London, Docklands
    title: Welcome to the the Museum of London, Docklands
 ---
@@ -39,21 +39,21 @@ Greenwich Maritime Museum and Greenwich Park are only a few tube stops (on the D
 
     <div class="col-md-6">
       <div class="card" id="portrait">
-        <img src="/images/london/indoors/museum_docklands/docklands2.jpg" alt="A long row boat outside the Willberforce Theatre" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/london/indoors/museum_docklands/docklands2.jpg" alt="A long row boat outside the Willberforce Theatre" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="/images/london/indoors/museum_docklands/docklands3.jpg" alt="Gallery containing dock worker equipment from 1800s" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/london/indoors/museum_docklands/docklands3.jpg" alt="Gallery containing dock worker equipment from 1800s" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-6">
       <div class="card" id="lanscape">
-        <img src="/images/london/indoors/museum_docklands/docklands4.jpg" alt="Cross section model of a tea-clipper" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/london/indoors/museum_docklands/docklands4.jpg" alt="Cross section model of a tea-clipper" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="/images/london/indoors/museum_docklands/docklands5.jpg" alt="Selection of harpoons and tools used in whaling" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/london/indoors/museum_docklands/docklands5.jpg" alt="Selection of harpoons and tools used in whaling" class="img-fluid">
       </div>
     </div>
 
@@ -81,4 +81,19 @@ You don't really need to take anything to this wonderful museum, just a passion 
 
 ### Latest News
 
-<a class="twitter-timeline" data-width="1000" data-height="500" href="https://twitter.com/MuseumofLondon?ref_src=twsrc%5Etfw">Tweets by MuseumofLondon</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="container">
+  <div class="row">
+    <div class="col-md-6">
+      <!-- Follow JAAP on Twitter -->
+      <a href="https://twitter.com/JustAddAPicnic?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @JustAddAPicnic</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      <!-- Twitter plugin code -->
+      <a class="twitter-timeline" data-width="1000" data-height="500" href="https://twitter.com/MuseumofLondon?ref_src=twsrc%5Etfw">Tweets by MuseumofLondon</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>
+  
+    <div class="col-md-6">
+      <!-- Facebook plugin code -->
+      <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fmuseumoflondon%2F&tabs=timeline&width=500&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+    </div>
+  </div>
+</div>
+

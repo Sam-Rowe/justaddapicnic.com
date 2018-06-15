@@ -8,7 +8,7 @@ permalink:
 excerpt: This country park offers some fantastic cycle paths and trails around the beautiful countryside.  There is a cafe, toilets, large childrens play area and when the new building is completed there will also be indoor learning spaces and a Mining Museum too.
 
 images: 
- - url: /images/kent/outdoors/betteshangerCP/bettes4.jpg
+ - url: https://cdn.justaddapicnic.com/kent/outdoors/betteshangerCP/bettes4.jpg
    alt: Viewing platform at Betteshanger Country Park
    title: Betteshanger Park 
 ---
@@ -36,21 +36,21 @@ Deal town centre and sea front are only a 10 minute drive from Betteshanger Park
 
     <div class="col-md-6">
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/betteshangerCP/bettes1.jpg" alt="Large wooden climbing frame and green tubular slide" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/betteshangerCP/bettes1.jpg" alt="Large wooden climbing frame and green tubular slide" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="/images/kent/outdoors/betteshangerCP/bettes3.jpg" alt="Viewing platform" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/betteshangerCP/bettes3.jpg" alt="Viewing platform" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-6">
       <div class="card" id="lanscape">
-        <img src="/images/kent/outdoors/betteshangerCP/bettes2.jpg" alt="Climbing frame and basket swing" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/betteshangerCP/bettes2.jpg" alt="Climbing frame and basket swing" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/betteshangerCP/bettes5.jpg" alt="View of Tenants lake, with its beautiful blue waters and reeds" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/betteshangerCP/bettes5.jpg" alt="View of Tenants lake, with its beautiful blue waters and reeds" class="img-fluid">
       </div>
     </div>
 
@@ -77,6 +77,21 @@ There are benches and picnic tables dotted throughout the park, with many near t
 
 ### Latest News
 
-<a class="twitter-timeline" href="https://twitter.com/BetsSusParks?ref_src=twsrc%5Etfw">Tweets by BetsSusParks</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="container">
+  <div class="row">
+    <div class="col-md-6">
+      <!-- Follow JAAP on Twitter -->
+      <a href="https://twitter.com/JustAddAPicnic?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @JustAddAPicnic</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      <!-- Twitter plugin code -->
+      <a class="twitter-timeline" href="https://twitter.com/BetsSusParks?ref_src=twsrc%5Etfw">Tweets by BetsSusParks</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>
+  
+    <div class="col-md-6">
+      <!-- Facebook plugin code -->
+      <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FBetteshangerCP%2F%3Fref%3Dbr_rs&tabs=timeline&width=500&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+    </div>
+  </div>
+</div>
+
 
 

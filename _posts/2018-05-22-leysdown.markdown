@@ -1,0 +1,92 @@
+---
+layout: post
+title:  "Leysdown-on-Sea"
+date:   2018-05-22 11:18:04 +0000
+categories: [outdoors, kent, beach, park]
+tag: Leysdown
+permalink: 
+excerpt: A family friendly sandy beach with shallow water and life gaurds.  There is a large toilet block close to the beach, and when you have had enough of the sand you can enjoy the amusements and small play area.
+
+images: 
+ - url: https://cdn.justaddapicnic.com/kent/outdoors/leysdown/leysdown4.jpg 
+   alt: View along the sandy beach at Leysdown.
+   title: Leysdown-on-Sea
+---
+
+## What's there?
+Leysdown is a small sea-side town that comes alive in the warmer months.  The beach is mostly sandy with some shells and gravel mixed in.  The water here is shallow and perfect for families.  Life gaurds patrol this beach for that extra level of reassurance, with the life gaurd station situated just behind the sea wall.  At low tide you will find that the sea retreats a long way exposing some small rock pools, perfect for exploring with your nets and buckets. (please return any animals you discover, they do not cope well in warm buckets for long).
+
+Behind the sea wall, in Leysdown town, you will find a large well maintained toilet block, several amusement arcades and cafes.  At the end of The Promenade you will find a small grass park, The Spinney, which has a children's play area and band stand.
+
+There is a large pay and display car park at the rear of Jimmy G's Amusement arcade (access via The Promenade). [Little Grove's Leisure Parks](http://littlegroves.com/) offers on the beach parking for £2 a day (you will need 1x £2 coin, price correct May 2018)
+
+#### Close by
+
+[Minster Leas Beach]() is approximately 8 miles away (20 minutes in the car).
+
+Sheerness is 9 miles away, approximately 20 minute car journey.  Where you will find a larger town centre, the [Sheerness Sandpit and Splash Pool](/outdoors/kent/sandpit/park/2018/01/16/sheerness-sandpit.html), [Barton's Point Coastal Park](/outdoors/kent/park/2018/04/12/barton-point.html) and [Sheerness Beach]().
+
+## Gallery
+
+<div class="container">
+
+  <div class="row">
+
+    <div class="col-md-4">
+      <div class="card" id="landscape">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/leysdown/leysdown1.jpg" alt="The childrens play area in The Spinney; climbing frames and slides" class="img-fluid">
+      </div>
+
+      <div class="card" id="landscape">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/leysdown/leysdown2.jpg" alt="The bandstand and green space at The Spinney" class="img-fluid">
+      </div>  
+    </div>
+
+    <div class="col-md-4">
+      <div class="card" id="lanscape">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/leysdown/leysdown3.jpg" alt="View to the west of leysdown beach looking towards Little Groves" class="img-fluid">
+      </div>
+
+      <div class="card" id="landscape">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/leysdown/leysdown4.jpg" alt="View across the beach looking at the sand a low tide" class="img-fluid">
+      </div>
+    </div>
+
+    <div class="col-md-4">
+      <div class="card" id="landscape">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/leysdown/leysdown5.jpg" alt="The main square behind the sea wall and toilet block" class="img-fluid">
+      </div>
+
+      <div class="card" id="landscape">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/leysdown/leysdown6.jpg" alt="View across some of the small rock pools at low tide" class="img-fluid">
+      </div>
+    </div>
+
+  </div>      
+</div>
+
+
+### How to find it...
+Leysdown-on-Sea, ME12 4QE.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4978.517779582463!2d0.9157026497270143!3d51.398297618068945!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfb1e8ec9d2e9f238!2sleysdown+beach!5e0!3m2!1sen!2suk!4v1527073399321" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+### What to take
+* Buckets and spades or any other beach toys you like to take.
+* Fishing nets for the rock pools.
+* Swimming kit, when the weather is warm enough.
+* Picnic blankets, chairs, wind breaks and shade for on the beach.
+
+
+### Latest News
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-6">
+      <!-- Follow JAAP on Twiiter -->
+      <a href="https://twitter.com/JustAddAPicnic?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @JustAddAPicnic</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      <!-- Twitter plugin code -->
+      <a class="twitter-timeline" data-width="500" data-height="500" href="https://twitter.com/LeysdownBeach?ref_src=twsrc%5Etfw">Tweets by LeysdownBeach</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>
+  </div>
+</div>

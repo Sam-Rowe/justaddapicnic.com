@@ -7,7 +7,7 @@ tag: Maidstone
 permalink: 
 excerpt: This is an extensive park with over 450 acres to explore set close to the centre of Madistone. It has a great children's play area, a 30 acre lake for pleasure use, a cafe and toilets. 
 images:
- - url: /images/kent/outdoors/mote_park/Mote_Park1.jpg
+ - url: https://cdn.justaddapicnic.com/kent/outdoors/mote_park/Mote_Park1.jpg
    alt: A view of the lake at Mote Park.
    title: Mote Park
 ---
@@ -41,31 +41,31 @@ Maidstone town centre and all the wonderful shopping opportunities it offers is 
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/mote_park/mote-park2.jpg" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/mote_park/mote-park2.jpg" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="/images/kent/outdoors/mote_park/mote-park1.jpg" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/mote_park/mote-park1.jpg" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="/images/kent/outdoors/mote_park/mote-park4.jpg" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/mote_park/mote-park4.jpg" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/mote_park/mote-park7.jpg" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/mote_park/mote-park7.jpg" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/mote_park/mote-park3.jpg" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/mote_park/mote-park3.jpg" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="/images/kent/outdoors/mote_park/mote-park8.jpg" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/mote_park/mote-park8.jpg" class="img-fluid">
       </div>
     </div>
 
@@ -87,5 +87,22 @@ If you would like to, you could bring:
 * Remote control boats
 * Remote control cars and monster trucks (a favourite with our children.)
 
+### Latest News
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-6">
+      <!-- Follow JAAP on Twitter -->
+      <a href="https://twitter.com/JustAddAPicnic?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @JustAddAPicnic</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      <!-- Twitter plugin code -->
+      <a class="twitter-timeline" data-width="500" data-height="500" href="https://twitter.com/Mote_Park?ref_src=twsrc%5Etfw">Tweets by Mote_Park</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>
+  
+    <div class="col-md-6">
+      <!-- Facebook plugin code -->
+      <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fmotepark%2F&tabs=timeline&width=500&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+    </div>
+  </div>
+</div>
 
 

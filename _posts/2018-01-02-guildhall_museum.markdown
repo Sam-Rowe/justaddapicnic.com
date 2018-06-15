@@ -8,7 +8,7 @@ permalink:
 excerpt: A window into the key historical events in Rochester and the Medway River; from the siege of Rochester Castle to the Battle of the Medway. Step into the world of Dickensian Rochester and explore what it was like to live in the city at that time.  Discover the smelly, cramped Hulks that used to lie off the banks of the Medway in Rochester.
 
 images:
- - url: /images/kent/indoors/guildhall_rochester/guildhall7.jpg
+ - url: https://cdn.justaddapicnic.com/kent/indoors/guildhall_rochester/guildhall7.jpg
    alt: The front aspect of the Guildhall Museum, Rochester.
    title: The Guildhall Museum Rochester
 ---
@@ -36,31 +36,31 @@ Along the High Street you will also find the [Rochester Visitors Center](https:/
 
 <div class="col-md-4">
   <div class="card" id="portrait">
-    <img src="/images/kent/indoors/guildhall_rochester/guildhall5.jpg" alt="prison hulk reconstruction" class="img-fluid">
+    <img src="https://cdn.justaddapicnic.com/kent/indoors/guildhall_rochester/guildhall5.jpg" alt="prison hulk reconstruction" class="img-fluid">
   </div>
 
   <div class="card" id="landscape">
-    <img src="/images/kent/indoors/guildhall_rochester/guildhall1.jpg" alt="Rochester castle model, showing the seige." class="img-fluid">
+    <img src="https://cdn.justaddapicnic.com/kent/indoors/guildhall_rochester/guildhall1.jpg" alt="Rochester castle model, showing the seige." class="img-fluid">
   </div>
 </div>
 
 <div class="col-md-4">
   <div class="card" id="portrait">
-    <img src="/images/kent/indoors/guildhall_rochester/guildhall2.jpg" alt="The beautiful decorated ceiling in the main museum building" class="img-fluid">
+    <img src="https://cdn.justaddapicnic.com/kent/indoors/guildhall_rochester/guildhall2.jpg" alt="The beautiful decorated ceiling in the main museum building" class="img-fluid">
   </div>
 
   <div class="card" id="landscape">
-    <img src="/images/kent/indoors/guildhall_rochester/guildhall3.jpg" alt="Models of boats that used to frequent the Medway River near Rochester" class="img-fluid">
+    <img src="https://cdn.justaddapicnic.com/kent/indoors/guildhall_rochester/guildhall3.jpg" alt="Models of boats that used to frequent the Medway River near Rochester" class="img-fluid">
   </div>
 </div>
 
 <div class="col-md-4">
   <div class="card" id="portrait">
-    <img src="/images/kent/indoors/guildhall_rochester/guildhall4.jpg" alt="a reconstruction of a small ships wheelhouse that children can use to pretend to drive the boat" class="img-fluid">
+    <img src="https://cdn.justaddapicnic.com/kent/indoors/guildhall_rochester/guildhall4.jpg" alt="a reconstruction of a small ships wheelhouse that children can use to pretend to drive the boat" class="img-fluid">
   </div>
 
   <div class="card" id="landscape">
-    <img src="/images/kent/indoors/guildhall_rochester/guildhall6.jpg" alt="Some Victorian dolls fromt he toy collection in the second building." class="img-fluid">
+    <img src="https://cdn.justaddapicnic.com/kent/indoors/guildhall_rochester/guildhall6.jpg" alt="Some Victorian dolls fromt he toy collection in the second building." class="img-fluid">
   </div>
 </div>
 
@@ -88,4 +88,13 @@ Here's a list of things you might want to take with you:
 
 ### Latest News
 
-<a class="twitter-timeline" data-width="1000" data-height="500" href="https://twitter.com/Guildhallmuseum?ref_src=twsrc%5Etfw">Tweets by Guildhallmuseum</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="container">
+  <div class="row">
+    <div class="col-md-6">
+      <a class="twitter-timeline" data-width="1000" data-height="500" href="https://twitter.com/Guildhallmuseum?ref_src=twsrc%5Etfw">Tweets by Guildhallmuseum</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>
+    <div class="col-md-6">
+      <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FGuildhallMuseumRochester%2F&tabs=timeline&width=500&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+    </div>
+  </div>
+</div>  

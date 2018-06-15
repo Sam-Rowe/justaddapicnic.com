@@ -35,7 +35,7 @@ The [Museum of Kent Life](https://kentlife.org.uk/) is under a mile away from th
 
         <div class="col-md-4">
           <div class="card" id="portrait">
-            <img src="./images/kent/outdoors/cobtree_park/Cobtree_2.jpg" alt="children playing on springy seesaws" class="img-fluid">
+            <img src="https://cdn.justaddapicnic.com/kent/outdoors/cobtree_park/Cobtree_2.jpg" alt="children playing on springy seesaws" class="img-fluid">
           </div>
 
           <div class="card" id="landscape">
@@ -45,7 +45,7 @@ The [Museum of Kent Life](https://kentlife.org.uk/) is under a mile away from th
 
         <div class="col-md-4">
           <div class="card" id="portrait">
-            <img src="./images/kent/outdoors/cobtree_park/Cobtree_3.jpg" alt="slides inside the play fort" class="img-fluid">
+            <img src="https://cdn.justaddapicnic.com/kent/outdoors/cobtree_park/Cobtree_3.jpg" alt="slides inside the play fort" class="img-fluid">
           </div>
 
           <div class="card" id="landscape">

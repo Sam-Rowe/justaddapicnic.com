@@ -7,7 +7,7 @@ tag: Sittingbourne
 permalink: 
 excerpt: With a giant tunnel slide, climbing frame in a sand pit and lots of beautiful walks around the park.  Milton Creek is a great destintion for the whole family.
 images:
- - url: /images/kent/outdoors/milton_creek/milton6.jpg
+ - url: https://cdn.justaddapicnic.com/kent/outdoors/milton_creek/milton6.jpg
    alt: Climbing frame and bouncy insects at Milton Creek Country Park
    title: Milton Creek Country Park
 ---
@@ -51,23 +51,33 @@ Bayford Meadows [Go Karting](https://www.bayfordmeadows.co.uk/) Track is under 2
 
   <div class="row">
 
-    <div class="col-md-6">
+    <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/milton_creek/milton5.jpg" alt="A long metal tunnel slide." class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/milton_creek/milton5.jpg" alt="A long metal tunnel slide." class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="/images/kent/outdoors/milton_creek/milton3.jpg" alt=" View of the childrens play park" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/milton_creek/milton3.jpg" alt=" View of the childrens play park" class="img-fluid">
       </div>  
     </div>
 
-    <div class="col-md-6">
+    <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="/images/kent/outdoors/milton_creek/milton6.jpg" alt="Rope climbing frame and bouncy characters to play on." class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/milton_creek/milton6.jpg" alt="Rope climbing frame and bouncy characters to play on." class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="/images/kent/outdoors/milton_creek/milton1.jpg" alt="Sign posts and animal crayon rubbing plates." class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/milton_creek/milton1.jpg" alt="Sign posts and animal crayon rubbing plates." class="img-fluid">
+      </div>
+    </div>
+
+    <div class="col-md-4">
+      <div class="card" id="lanscape">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/milton_creek/milton7.jpg" alt="View of the sandpit from the wooden platform up on the hill." class="img-fluid">
+      </div>
+
+      <div class="card" id="portrait">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/milton_creek/milton4.jpg" alt="View towards the Church across the open grass space." class="img-fluid">
       </div>
     </div>
 
@@ -92,3 +102,19 @@ There are a couple of large open green spaces, ideal for ball games and frisbees
 
 There are lots of places to sit around the park, but not many picnic tables.  
 
+### Latest News
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-6">
+      <!-- Follow JAAP on Twitter -->
+        <a href="https://twitter.com/JustAddAPicnic?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @JustAddAPicnic</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        <!-- Twitter Plugin -->
+        <a class="twitter-timeline" data-width="500" data-height="500" href="https://twitter.com/MiltonCreek?ref_src=twsrc%5Etfw">Tweets by MiltonCreek</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>
+    <div class="col-md-6">
+    <!-- Facebook Plugin -->
+      <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FFriendsOfMiltonCreek%2F&tabs=timeline&width=500&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+    </div>
+  </div>
+</div>

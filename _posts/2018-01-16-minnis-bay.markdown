@@ -7,7 +7,7 @@ tag: Birchington-on-Sea
 permalink: 
 excerpt: A fantastic all-round beach. It offers sandy and stony beaches with a large tidal swimming pool and great rock pools to explore at low tide.  There is a playground and large playing field behind the beach.
 images:
- - url: /images/kent/outdoors/minnis_bay/MinnisBay_1.jpg
+ - url: https://cdn.justaddapicnic.com/kent/outdoors/minnis_bay/MinnisBay_1.jpg
    alt: View to the east end of Minnis Bay
    title: Minnis Bay
 ---
@@ -47,7 +47,7 @@ Margate is 5 miles away if you feel the need for a busier seaside town.
 
     <div class="col-md-4">
       <div class="card" id="landscape">
-        <img src="/images/kent/outdoors/minnis_bay/MinnisBay_1.jpg" alt="A view towards the east end of the beach" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/minnis_bay/MinnisBay_1.jpg" alt="A view towards the east end of the beach" class="img-fluid">
       </div>
 <!-- 
       <div class="card" id="landscape">
@@ -57,7 +57,7 @@ Margate is 5 miles away if you feel the need for a busier seaside town.
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="/images/kent/outdoors/minnis_bay/MinnisBay_2.jpg" alt="A view towards the west end of the beach" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/minnis_bay/MinnisBay_2.jpg" alt="A view towards the west end of the beach" class="img-fluid">
       </div>
 <!-- 
       <div class="card" id="portrait">
@@ -67,7 +67,7 @@ Margate is 5 miles away if you feel the need for a busier seaside town.
 
     <div class="col-md-4">
       <div class="card" id="landscape">
-        <img src="/images/kent/outdoors/minnis_bay/MinnisBay_6.jpg" alt="The tidal swimming pool and beach huts" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/minnis_bay/MinnisBay_6.jpg" alt="The tidal swimming pool and beach huts" class="img-fluid">
       </div>
 
 <!--       <div class="card" id="landscape">
@@ -89,15 +89,49 @@ The Parade, Birchington, CT7 9QR
 
 Whether you want to explore the rock pools, relax on the sand or "dig to China" there's a lot here to keep you busy, so bring the things that help you have a wonderful time:
 
-* Picnic blanket(s), chairs etc
-* Beach umbrella or beach shelter
-* Wind breaks and mallet
-* Buckets and spades
-* Fishing nets and/or crab lines (bait)
-* Swimming kits
-* Water shoes (these help to protect your feet in rock pools from the scratchy barnacles and prickly broken shells.)
-* Inflatables; arm bands, rubber rings, boats and lilos (please ensure children are supervised in and around the water at all times.)
-* We always bring 2 hats for the children, one wet and one dry.
-* Lots of sun cream and water.
+<ul>
+  <li>
+    <a href="https://amzn.to/2JiegUf" target="_blank" title="recommended beach mat"> Magic sand mat</a>
+  </li>
+  <li> 
+    <a href="https://amzn.to/2sMcb8G" target="_blank" title="recommended beach chair"> Chairs </a>
+  </li>
+  <li>
+    <a href="https://amzn.to/2sOLFvs"> Beach umbrella</a> or <a href="https://amzn.to/2sYabJT">Beach shade</a>
+  </li>
+  <li>
+   <a href="https://amzn.to/2sNRYj8" target="_blank">Windbreak</a> and <a href="https://amzn.to/2MjeatF" target="_blank">rubber mallet</a> 
+  </li>
+  <li>
+    <a href="https://amzn.to/2HGoyI7" target="_blank">Buckets and spades</a>  
+  </li>
+  <li>
+    <a href="https://amzn.to/2y4bZXE" target="_blank">Fishing nets</a> and/or <a href="https://amzn.to/2l3Ri4A" target="_blank"> crab lines</a> (Don't forget your bait)
+  </li>
+  <li>
+    Swimming kits
+  </li>
+  <li>
+    <a href="https://amzn.to/2sOvEG9" target="_blank">Water shoes </a>(these help to protect your feet in rock pools from the scratchy barnacles and prickly broken shells)
+  </li>
+  <li>
+    Inflatables; arm bands, rubber rings, boats and lilos (please ensure children are supervised in and around the water at all times.)
+  </li>
+  <li>
+    We always bring 2 hats for the children, one wet and one dry
+  </li>
+  <li>
+    Lots of sun cream
+  </li>
+    <li>
+    Lots of water to stay hydrated
+  </li>
+</ul>
+
+All of the above can be bought on Amazon Prime with free delivery.
+
+
+<a href="http://www.amazon.co.uk/tryprimefree?tag=justaddapicni-21" target="_blank">Special offer Amazon Prime 30 day free trial<a>
+
 
 
