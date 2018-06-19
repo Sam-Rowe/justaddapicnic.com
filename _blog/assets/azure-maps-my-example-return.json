@@ -1,0 +1,408 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "countryCodeISO3": "GBR",
+        "countrySecondarySubdivision": "Southend-on-Sea, Essex",
+        "countrySubdivision": "ENG",
+        "countrySubdivisionName": "England",
+        "extendedPostalCode": "SS1 1EE",
+        "freeformAddress": "Western Esplanade, Southend-on-Sea, SS1 1EE",
+        "municipality": "Southend-on-Sea",
+        "municipalitySubdivision": "Southend-on-Sea",
+        "postalCode": "SS1",
+        "streetName": "Western Esplanade"
+      },
+      "dist": 18454.558887653497,
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 51.53301,
+            "lon": 0.71686
+          },
+          "type": "main"
+        }
+      ],
+      "id": "GB/POI/p0/729644",
+      "info": "search:ta:826009002977810-GB",
+      "poi": {
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "name": "important tourist attraction",
+                "nameLocale": "en-US"
+              }
+            ]
+          }
+        ],
+        "name": "Southend Pier",
+        "phone": "+(44)-(1702)-618747",
+        "url": "www.southendpiermuseum.co.uk"
+      },
+      "position": {
+        "lat": 51.53191,
+        "lon": 0.71613
+      },
+      "score": 5.166,
+      "type": "POI",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 51.53101,
+          "lon": 0.71758
+        },
+        "topLeftPoint": {
+          "lat": 51.53281,
+          "lon": 0.71468
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "countryCodeISO3": "GBR",
+        "countrySecondarySubdivision": "Medway, Kent",
+        "countrySubdivision": "ENG",
+        "countrySubdivisionName": "England",
+        "extendedPostalCode": "ME7 1RJ",
+        "freeformAddress": "151 Pier Road, Gillingham, ME7 1RJ",
+        "municipality": "Luton, Gillingham",
+        "municipalitySubdivision": "Gillingham",
+        "postalCode": "ME7",
+        "streetName": "Pier Road",
+        "streetNumber": "151"
+      },
+      "dist": 329.55900027651103,
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 51.39461,
+            "lon": 0.55765
+          },
+          "type": "main"
+        }
+      ],
+      "id": "GB/POI/p0/2368964",
+      "info": "search:ta:826009008987067-GB",
+      "poi": {
+        "categories": [
+          "cash dispenser"
+        ],
+        "classifications": [
+          {
+            "code": "CASH_DISPENSER",
+            "names": [
+              {
+                "name": "cash dispenser",
+                "nameLocale": "en-US"
+              }
+            ]
+          }
+        ],
+        "name": "Barclays - Asda Gill Pier 1"
+      },
+      "position": {
+        "lat": 51.39545,
+        "lon": 0.56014
+      },
+      "score": 4.989,
+      "type": "POI",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 51.39455,
+          "lon": 0.56158
+        },
+        "topLeftPoint": {
+          "lat": 51.39635,
+          "lon": 0.5587
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "countryCodeISO3": "GBR",
+        "countrySecondarySubdivision": "Medway, Kent",
+        "countrySubdivision": "ENG",
+        "countrySubdivisionName": "England",
+        "extendedPostalCode": "ME7 1AF,ME7 1FJ,ME7 1RJ,ME7 1TJ,ME7 1TZ,ME7 1UB,ME7 1UD",
+        "freeformAddress": "Pier Road, Luton (Gillingham)",
+        "municipality": "Luton, Gillingham",
+        "municipalitySubdivision": "Gillingham",
+        "postalCode": "ME7,ME7 1,ME7 2",
+        "streetName": "Pier Road, A289"
+      },
+      "dist": 478.83732588888176,
+      "id": "GB/STR/p0/737197",
+      "position": {
+        "lat": 51.39437,
+        "lon": 0.55814
+      },
+      "score": 4.985,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 51.40356,
+          "lon": 0.54362
+        },
+        "topLeftPoint": {
+          "lat": 51.38557,
+          "lon": 0.57244
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "countryCodeISO3": "GBR",
+        "countrySecondarySubdivision": "Medway, Kent",
+        "countrySubdivision": "ENG",
+        "countrySubdivisionName": "England",
+        "freeformAddress": "Pier Road, Luton (Gillingham), ME7 1",
+        "municipality": "Luton, Gillingham",
+        "municipalitySubdivision": "Gillingham",
+        "postalCode": "ME7 1",
+        "streetName": "Pier Road"
+      },
+      "dist": 660.0411453744769,
+      "id": "GB/STR/p0/428309",
+      "position": {
+        "lat": 51.39634,
+        "lon": 0.55552
+      },
+      "score": 4.979,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 51.3966,
+          "lon": 0.54991
+        },
+        "topLeftPoint": {
+          "lat": 51.39617,
+          "lon": 0.5558
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "countryCodeISO3": "GBR",
+        "countrySecondarySubdivision": "Medway, Kent",
+        "countrySubdivision": "ENG",
+        "countrySubdivisionName": "England",
+        "extendedPostalCode": "ME7 1RT,ME7 1RU,ME7 1RX,ME7 1RZ",
+        "freeformAddress": "Pier Approach Road, Luton (Gillingham)",
+        "municipality": "Luton, Gillingham",
+        "municipalitySubdivision": "Gillingham",
+        "postalCode": "ME7,ME7 1",
+        "streetName": "Pier Approach Road"
+      },
+      "dist": 802.8010211230229,
+      "id": "GB/STR/p0/1032417",
+      "position": {
+        "lat": 51.3973,
+        "lon": 0.55377
+      },
+      "score": 4.974,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 51.399,
+          "lon": 0.55207
+        },
+        "topLeftPoint": {
+          "lat": 51.3951,
+          "lon": 0.55573
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "countryCodeISO3": "GBR",
+        "countrySecondarySubdivision": "Medway, Kent",
+        "countrySubdivision": "ENG",
+        "countrySubdivisionName": "England",
+        "freeformAddress": "Pier Road, Gillingham, ME7 1",
+        "municipality": "Luton, Gillingham",
+        "municipalitySubdivision": "Gillingham",
+        "postalCode": "ME7 1",
+        "streetName": "Pier Road"
+      },
+      "dist": 842.5237049814708,
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 51.39514,
+            "lon": 0.55269
+          },
+          "type": "main"
+        }
+      ],
+      "id": "GB/POI/p0/2442382",
+      "info": "search:ta:826009009646300-GB",
+      "poi": {
+        "categories": [
+          "market",
+          "supermarkets hypermarkets"
+        ],
+        "classifications": [
+          {
+            "code": "MARKET",
+            "names": [
+              {
+                "name": "supermarkets hypermarkets",
+                "nameLocale": "en-US"
+              },
+              {
+                "name": "market",
+                "nameLocale": "en-US"
+              }
+            ]
+          }
+        ],
+        "name": "Asda Gillingham Pier Superstore",
+        "url": "www.asda.co.uk/"
+      },
+      "position": {
+        "lat": 51.39537,
+        "lon": 0.55274
+      },
+      "score": 4.973,
+      "type": "POI",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 51.39447,
+          "lon": 0.55418
+        },
+        "topLeftPoint": {
+          "lat": 51.39627,
+          "lon": 0.5513
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "countryCodeISO3": "GBR",
+        "countrySecondarySubdivision": "Medway, Kent",
+        "countrySubdivision": "ENG",
+        "countrySubdivisionName": "England",
+        "freeformAddress": "Pier Road, Luton (Gillingham), ME4 4",
+        "municipality": "Luton, Chatham",
+        "municipalitySubdivision": "Gillingham",
+        "postalCode": "ME4 4",
+        "streetName": "Pier Road, A289"
+      },
+      "dist": 1724.1598473277772,
+      "id": "GB/STR/p0/512517",
+      "position": {
+        "lat": 51.39894,
+        "lon": 0.54073
+      },
+      "score": 4.945,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 51.40768,
+          "lon": 0.52619
+        },
+        "topLeftPoint": {
+          "lat": 51.38969,
+          "lon": 0.55502
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "countryCodeISO3": "GBR",
+        "countrySecondarySubdivision": "Medway, Kent",
+        "countrySubdivision": "ENG",
+        "countrySubdivisionName": "England",
+        "freeformAddress": "Pier Road, Luton (Strood)",
+        "municipality": "Luton, Chatham",
+        "municipalitySubdivision": "Strood, Saint Marys Island, Rochester",
+        "postalCode": "ME4 3,ME4 4",
+        "streetName": "Pier Road, A289"
+      },
+      "dist": 2278.242115167385,
+      "id": "GB/STR/p0/442375",
+      "position": {
+        "lat": 51.40037,
+        "lon": 0.53307
+      },
+      "score": 4.928,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 51.40037,
+          "lon": 0.53307
+        },
+        "topLeftPoint": {
+          "lat": 51.40036,
+          "lon": 0.53319
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "countryCodeISO3": "GBR",
+        "countrySecondarySubdivision": "Medway, Kent",
+        "countrySubdivision": "ENG",
+        "countrySubdivisionName": "England",
+        "freeformAddress": "Pier Road, Luton (Strood), ME4 4",
+        "municipality": "Luton, Chatham",
+        "municipalitySubdivision": "Strood, Rochester",
+        "postalCode": "ME4 4",
+        "streetName": "Pier Road, A289"
+      },
+      "dist": 2370.8180942755243,
+      "id": "GB/STR/p0/515919",
+      "position": {
+        "lat": 51.40046,
+        "lon": 0.53173
+      },
+      "score": 4.925,
+      "type": "Street",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 51.40056,
+          "lon": 0.53009
+        },
+        "topLeftPoint": {
+          "lat": 51.40025,
+          "lon": 0.53341
+        }
+      }
+    }
+  ],
+  "summary": {
+    "fuzzyLevel": 1,
+    "geoBias": {
+      "lat": 51.395288,
+      "lon": 0.564883
+    },
+    "numResults": 9,
+    "offset": 0,
+    "query": "pier",
+    "queryTime": 103,
+    "queryType": "NON_NEAR",
+    "totalResults": 238
+  }
+}

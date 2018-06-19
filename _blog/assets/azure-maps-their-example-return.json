@@ -1,0 +1,656 @@
+{
+  "results": [
+    {
+      "address": {
+        "country": "United States Of America",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "King",
+        "countrySubdivision": "WA",
+        "countrySubdivisionName": "Washington",
+        "countryTertiarySubdivision": "Seattle",
+        "freeformAddress": "1402 E Pike St, Seattle, WA 98122",
+        "municipality": "East Union, Seattle",
+        "municipalitySubdivision": "Seattle, Broadway",
+        "postalCode": "98122",
+        "streetName": "E Pike St",
+        "streetNumber": "1402"
+      },
+      "dist": 6248.234469495082,
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 47.61413,
+            "lon": -122.31403
+          },
+          "type": "main"
+        }
+      ],
+      "id": "US/POI/p0/2559904",
+      "info": "search:ta:840539001152286-US",
+      "poi": {
+        "categories": [
+          "petrol station"
+        ],
+        "classifications": [
+          {
+            "code": "PETROL_STATION",
+            "names": [
+              {
+                "name": "petrol station",
+                "nameLocale": "en-US"
+              }
+            ]
+          }
+        ],
+        "name": "Gateway Gas & Deli",
+        "phone": "+(1)-(425)-2920934",
+        "url": "www.geoalliance.org"
+      },
+      "position": {
+        "lat": 47.61417,
+        "lon": -122.31403
+      },
+      "score": 7.432,
+      "type": "POI",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 47.61327,
+          "lon": -122.3127
+        },
+        "topLeftPoint": {
+          "lat": 47.61507,
+          "lon": -122.31536
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States Of America",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "King",
+        "countrySubdivision": "WA",
+        "countrySubdivisionName": "Washington",
+        "countryTertiarySubdivision": "Seattle East",
+        "extendedPostalCode": "980076229",
+        "freeformAddress": "2224 Kamber Rd, Bellevue, WA 98007",
+        "municipality": "Eastgate, Bellevue",
+        "municipalitySubdivision": "West Lake Hills, Bellevue",
+        "postalCode": "98007",
+        "streetName": "Kamber Rd",
+        "streetNumber": "2224"
+      },
+      "dist": 7447.280933466339,
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 47.5905,
+            "lon": -122.15269
+          },
+          "type": "main"
+        }
+      ],
+      "id": "US/POI/p0/5284205",
+      "info": "search:ta:840539000676908-US",
+      "poi": {
+        "categories": [
+          "petrol station"
+        ],
+        "classifications": [
+          {
+            "code": "PETROL_STATION",
+            "names": [
+              {
+                "name": "petrol station",
+                "nameLocale": "en-US"
+              }
+            ]
+          }
+        ],
+        "name": "Lake Samm Gas Station",
+        "phone": "+(1)-(425)-8293649"
+      },
+      "position": {
+        "lat": 47.5905,
+        "lon": -122.15262
+      },
+      "score": 7.398,
+      "type": "POI",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 47.5896,
+          "lon": -122.15129
+        },
+        "topLeftPoint": {
+          "lat": 47.5914,
+          "lon": -122.15395
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States Of America",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "King",
+        "countrySubdivision": "WA",
+        "countrySubdivisionName": "Washington",
+        "countryTertiarySubdivision": "Seattle",
+        "extendedPostalCode": "981014418",
+        "freeformAddress": "1700 7th Ave, Seattle, WA 98101",
+        "municipality": "Times Square, Seattle",
+        "municipalitySubdivision": "Seattle, Belltown",
+        "postalCode": "98101",
+        "streetName": "7th Ave",
+        "streetNumber": "1700"
+      },
+      "dist": 7793.460228999357,
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 47.6138,
+            "lon": -122.33546
+          },
+          "type": "main"
+        }
+      ],
+      "id": "US/POI/p1/4978079",
+      "info": "search:ta:840539000977814-US",
+      "poi": {
+        "categories": [
+          "petrol station"
+        ],
+        "classifications": [
+          {
+            "code": "PETROL_STATION",
+            "names": [
+              {
+                "name": "petrol station",
+                "nameLocale": "en-US"
+              }
+            ]
+          }
+        ],
+        "name": "Cloister Oil & Gas Inc.",
+        "phone": "+(1)-(206)-4093763"
+      },
+      "position": {
+        "lat": 47.61397,
+        "lon": -122.3352
+      },
+      "score": 7.388,
+      "type": "POI",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 47.61307,
+          "lon": -122.33387
+        },
+        "topLeftPoint": {
+          "lat": 47.61487,
+          "lon": -122.33653
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States Of America",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "King",
+        "countrySubdivision": "WA",
+        "countrySubdivisionName": "Washington",
+        "countryTertiarySubdivision": "Seattle East",
+        "extendedPostalCode": "980348103",
+        "freeformAddress": "12235 NE 116th St, Kirkland, WA 98034",
+        "municipality": "Totem Lake, Kingsgate, Juanita, Kirkland",
+        "municipalitySubdivision": "Totem Lake, North Rose Hill, Kirkland",
+        "postalCode": "98034",
+        "streetName": "NE 116th St",
+        "streetNumber": "12235"
+      },
+      "dist": 9298.675252135907,
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 47.70397,
+            "lon": -122.17688
+          },
+          "type": "main"
+        }
+      ],
+      "id": "US/POI/p1/5024426",
+      "info": "search:ta:840539001766867-US",
+      "poi": {
+        "categories": [
+          "petrol station"
+        ],
+        "classifications": [
+          {
+            "code": "PETROL_STATION",
+            "names": [
+              {
+                "name": "petrol station",
+                "nameLocale": "en-US"
+              }
+            ]
+          }
+        ],
+        "name": "Blue Star Gas - Kirkland 76",
+        "phone": "+(1)-(206)-2257039"
+      },
+      "position": {
+        "lat": 47.70356,
+        "lon": -122.17689
+      },
+      "score": 7.348,
+      "type": "POI",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 47.70266,
+          "lon": -122.17555
+        },
+        "topLeftPoint": {
+          "lat": 47.70446,
+          "lon": -122.17823
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States Of America",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "King",
+        "countrySubdivision": "WA",
+        "countrySubdivisionName": "Washington",
+        "countryTertiarySubdivision": "Seattle",
+        "extendedPostalCode": "981084818",
+        "freeformAddress": "8909 14th Ave S, Seattle, WA 98108",
+        "municipality": "Tukwila, Seattle",
+        "municipalitySubdivision": "South Park, Seattle",
+        "postalCode": "98108",
+        "streetName": "14th Ave S",
+        "streetNumber": "8909"
+      },
+      "dist": 13244.903356692743,
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 47.52364,
+            "lon": -122.31497
+          },
+          "type": "main"
+        }
+      ],
+      "id": "US/POI/p1/5006969",
+      "info": "search:ta:840539001050726-US",
+      "poi": {
+        "categories": [
+          "petrol station"
+        ],
+        "classifications": [
+          {
+            "code": "PETROL_STATION",
+            "names": [
+              {
+                "name": "petrol station",
+                "nameLocale": "en-US"
+              }
+            ]
+          }
+        ],
+        "name": "The Gas Station",
+        "phone": "+(1)-(206)-4203098"
+      },
+      "position": {
+        "lat": 47.52365,
+        "lon": -122.31553
+      },
+      "score": 7.253,
+      "type": "POI",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 47.52275,
+          "lon": -122.3142
+        },
+        "topLeftPoint": {
+          "lat": 47.52455,
+          "lon": -122.31686
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States Of America",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "King",
+        "countrySubdivision": "WA",
+        "countrySubdivisionName": "Washington",
+        "countryTertiarySubdivision": "Seattle",
+        "extendedPostalCode": "981085047",
+        "freeformAddress": "9515 14th Ave S, Seattle, WA 98108",
+        "municipality": "Tukwila, Seattle, Boulevard Park",
+        "municipalitySubdivision": "Seattle, Boulevard Park",
+        "postalCode": "98108",
+        "streetName": "14th Ave S",
+        "streetNumber": "9515"
+      },
+      "dist": 13843.408703762088,
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 47.51743,
+            "lon": -122.31505
+          },
+          "type": "main"
+        }
+      ],
+      "id": "US/POI/p0/2564950",
+      "info": "search:ta:840539001747031-US",
+      "poi": {
+        "categories": [
+          "petrol station"
+        ],
+        "classifications": [
+          {
+            "code": "PETROL_STATION",
+            "names": [
+              {
+                "name": "petrol station",
+                "nameLocale": "en-US"
+              }
+            ]
+          }
+        ],
+        "name": "Blue Star Gas - Southpark Shell",
+        "phone": "+(1)-(206)-2257039"
+      },
+      "position": {
+        "lat": 47.51745,
+        "lon": -122.31504
+      },
+      "score": 7.239,
+      "type": "POI",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 47.51655,
+          "lon": -122.31371
+        },
+        "topLeftPoint": {
+          "lat": 47.51835,
+          "lon": -122.31637
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States Of America",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "King",
+        "countrySubdivision": "WA",
+        "countrySubdivisionName": "Washington",
+        "countryTertiarySubdivision": "Seattle",
+        "freeformAddress": "6302 35th Ave SW, Seattle, WA 98126",
+        "municipality": "Westwood Village, Seattle",
+        "municipalitySubdivision": "Seattle, Gatewood",
+        "postalCode": "98126",
+        "streetName": "35th Ave SW",
+        "streetNumber": "6302"
+      },
+      "dist": 14110.925435238094,
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 47.54621,
+            "lon": -122.37645
+          },
+          "type": "main"
+        }
+      ],
+      "id": "US/POI/p1/5974341",
+      "info": "search:ta:840539001193946-US",
+      "poi": {
+        "categories": [
+          "petrol station"
+        ],
+        "classifications": [
+          {
+            "code": "PETROL_STATION",
+            "names": [
+              {
+                "name": "petrol station",
+                "nameLocale": "en-US"
+              }
+            ]
+          }
+        ],
+        "name": "Hans Vw Repair And Gas",
+        "phone": "+(1)-(206)-9325552"
+      },
+      "position": {
+        "lat": 47.5462,
+        "lon": -122.37603
+      },
+      "score": 7.234,
+      "type": "POI",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 47.5453,
+          "lon": -122.3747
+        },
+        "topLeftPoint": {
+          "lat": 47.5471,
+          "lon": -122.37736
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States Of America",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "King",
+        "countrySubdivision": "WA",
+        "countrySubdivisionName": "Washington",
+        "countryTertiarySubdivision": "Seattle",
+        "extendedPostalCode": "981681931",
+        "freeformAddress": "10802 E Marginal Way S, Tukwila, WA 98168",
+        "municipality": "Tukwila, Seatac, Burien, Seattle",
+        "municipalitySubdivision": "Tukwila",
+        "postalCode": "98168",
+        "streetName": "E Marginal Way S",
+        "streetNumber": "10802"
+      },
+      "dist": 14301.41731521499,
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 47.50619,
+            "lon": -122.29059
+          },
+          "type": "main"
+        }
+      ],
+      "id": "US/POI/p0/5125193",
+      "info": "search:ta:840539001788966-US",
+      "poi": {
+        "categories": [
+          "petrol station"
+        ],
+        "classifications": [
+          {
+            "code": "PETROL_STATION",
+            "names": [
+              {
+                "name": "petrol station",
+                "nameLocale": "en-US"
+              }
+            ]
+          }
+        ],
+        "name": "Blue Star Gas - Seattle Co",
+        "phone": "+(1)-(206)-2257039"
+      },
+      "position": {
+        "lat": 47.50632,
+        "lon": -122.28999
+      },
+      "score": 7.23,
+      "type": "POI",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 47.50542,
+          "lon": -122.28866
+        },
+        "topLeftPoint": {
+          "lat": 47.50722,
+          "lon": -122.29132
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States Of America",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "King",
+        "countrySubdivision": "WA",
+        "countrySubdivisionName": "Washington",
+        "countryTertiarySubdivision": "Seattle East",
+        "extendedPostalCode": "980563101",
+        "freeformAddress": "3002 NE Sunset Blvd, Renton, WA 98056",
+        "municipality": "Newcastle, Kennydale, Highlands, Hazelwood, Renton",
+        "municipalitySubdivision": "Renton",
+        "postalCode": "98056",
+        "streetName": "NE Sunset Blvd",
+        "streetNumber": "3002"
+      },
+      "dist": 14656.999287010965,
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 47.5027,
+            "lon": -122.17785
+          },
+          "type": "main"
+        }
+      ],
+      "id": "US/POI/p1/4998598",
+      "info": "search:ta:840539001782462-US",
+      "poi": {
+        "categories": [
+          "petrol station"
+        ],
+        "classifications": [
+          {
+            "code": "PETROL_STATION",
+            "names": [
+              {
+                "name": "petrol station",
+                "nameLocale": "en-US"
+              }
+            ]
+          }
+        ],
+        "name": "76 Gas Station",
+        "phone": "+(1)-(425)-2645371",
+        "url": "www.76.com/"
+      },
+      "position": {
+        "lat": 47.50283,
+        "lon": -122.17814
+      },
+      "score": 7.222,
+      "type": "POI",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 47.50193,
+          "lon": -122.17681
+        },
+        "topLeftPoint": {
+          "lat": 47.50373,
+          "lon": -122.17947
+        }
+      }
+    },
+    {
+      "address": {
+        "country": "United States Of America",
+        "countryCode": "US",
+        "countryCodeISO3": "USA",
+        "countrySecondarySubdivision": "King",
+        "countrySubdivision": "WA",
+        "countrySubdivisionName": "Washington",
+        "countryTertiarySubdivision": "Seattle",
+        "extendedPostalCode": "981783045",
+        "freeformAddress": "11655 Renton Ave S, Seattle, WA 98178",
+        "municipality": "Tukwila, Skyway, Bryn Mawr, Seattle, Bryn Mawr-Skyway",
+        "municipalitySubdivision": "Seattle, Bryn Mawr-Skyway",
+        "postalCode": "98178",
+        "streetName": "Renton Ave S",
+        "streetNumber": "11655"
+      },
+      "dist": 14698.744348270813,
+      "entryPoints": [
+        {
+          "position": {
+            "lat": 47.49752,
+            "lon": -122.24836
+          },
+          "type": "main"
+        }
+      ],
+      "id": "US/POI/p0/5148675",
+      "info": "search:ta:840539000748584-US",
+      "poi": {
+        "categories": [
+          "petrol station"
+        ],
+        "classifications": [
+          {
+            "code": "PETROL_STATION",
+            "names": [
+              {
+                "name": "petrol station",
+                "nameLocale": "en-US"
+              }
+            ]
+          }
+        ],
+        "name": "Renton Ave Gas"
+      },
+      "position": {
+        "lat": 47.49739,
+        "lon": -122.24852
+      },
+      "score": 7.221,
+      "type": "POI",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 47.49649,
+          "lon": -122.24719
+        },
+        "topLeftPoint": {
+          "lat": 47.49829,
+          "lon": -122.24985
+        }
+      }
+    }
+  ],
+  "summary": {
+    "fuzzyLevel": 1,
+    "geoBias": {
+      "lat": 47.6292,
+      "lon": -122.2337
+    },
+    "numResults": 10,
+    "offset": 0,
+    "query": "gasoline station",
+    "queryTime": 93,
+    "queryType": "NON_NEAR",
+    "totalResults": 236
+  }
+}

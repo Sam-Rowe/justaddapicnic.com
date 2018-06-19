@@ -1,0 +1,118 @@
+{
+  "results": [
+    {
+        "poi": {
+        "categories": [
+        "Picnic spot"
+        ],
+        "classifications": [
+          {
+            "code": "CASH_DISPENSER",
+            "names": [
+              {
+                "name": "cash dispenser",
+                "nameLocale": "en-US"
+              }
+            ]
+          }
+        ],
+        "name": "Barclays - Asda Gill Pier 1"
+      },
+      "address": {
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "countryCodeISO3": "GBR",
+        "countrySecondarySubdivision": "Medway, Kent",
+        "countrySubdivision": "ENG",
+        "countrySubdivisionName": "England",
+        "extendedPostalCode": "ME7 1AF,ME7 1FJ,ME7 1RJ,ME7 1TJ,ME7 1TZ,ME7 1UB,ME7 1UD",
+        "freeformAddress": "Pier Road, Luton (Gillingham)",
+        "municipality": "Luton, Gillingham",
+        "municipalitySubdivision": "Gillingham",
+        "postalCode": "ME7,ME7 1,ME7 2",
+        "streetName": "Pier Road, A289"
+      },
+      "dist": 478.83732588888176,
+      "id": "GB/STR/p0/737197",
+      "position": {
+        "lat": 51.39430,
+        "lon": 0.55814
+      },
+      "score": 4.985,
+      "type": "POI",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 51.40356,
+          "lon": 0.54362
+        },
+        "topLeftPoint": {
+          "lat": 51.38557,
+          "lon": 0.57244
+        }
+      }
+    },
+    {
+        "poi": {
+        "categories": [
+        "cash dispenser"
+        ],
+        "classifications": [
+          {
+            "code": "CASH_DISPENSER",
+            "names": [
+              {
+                "name": "cash dispenser",
+                "nameLocale": "en-US"
+              }
+            ]
+          }
+        ],
+        "name": "Barclays - Asda Gill Pier 1"
+      },
+      "address": {
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "countryCodeISO3": "GBR",
+        "countrySecondarySubdivision": "Medway, Kent",
+        "countrySubdivision": "ENG",
+        "countrySubdivisionName": "England",
+        "freeformAddress": "Pier Road, Luton (Strood), ME4 4",
+        "municipality": "Luton, Chatham",
+        "municipalitySubdivision": "Strood, Rochester",
+        "postalCode": "ME4 4",
+        "streetName": "Pier Road, A289"
+      },
+      "dist": 2370.8180942755243,
+      "id": "GB/STR/p0/515919",
+      "position": {
+        "lat": 51.40046,
+        "lon": 0.53173
+      },
+      "score": 4.925,
+      "type": "POI",
+      "viewport": {
+        "btmRightPoint": {
+          "lat": 51.40056,
+          "lon": 0.53009
+        },
+        "topLeftPoint": {
+          "lat": 51.40025,
+          "lon": 0.53341
+        }
+      }
+    }
+  ],
+  "summary": {
+    "fuzzyLevel": 1,
+    "geoBias": {
+      "lat": 51.395288,
+      "lon": 0.564883
+    },
+    "numResults": 2,
+    "offset": 0,
+    "query": "pier",
+    "queryTime": 1,
+    "queryType": "NON_NEAR",
+    "totalResults": 2
+  }
+}

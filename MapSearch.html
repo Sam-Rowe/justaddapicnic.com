@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, user-scalable=no" />
+    <title>Map Search</title>
+
+    <link rel="stylesheet" href="https://atlas.microsoft.com/sdk/css/atlas.min.css?api-version=1.0" type="text/css" />
+    <script src="https://atlas.microsoft.com/sdk/js/atlas.min.js?api-version=1.0"></script>
+
+    <style>
+        html,
+        body {
+            width: 100%;
+            height: 100%;
+            padding: 0;
+            margin: 0;
+        }
+
+        #map {
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="map"></div>
+    <script>
+        // Instantiate map to the div with id "map"
+        var MapsAccountKey = "bDEGD-iO6eaovTqYBz5W4ZQcZiOHpXNfpeHrQAyn_nY";
+        var map = new atlas.Map("map", {
+            "subscription-key": MapsAccountKey
+        });
+
+        // Initialize the pin layer for search results to the map
+        var searchLayerName = "search-results";
+        map.addPins([], {
+            name: searchLayerName,
+            cluster: false,
+            icon: "pin-round-darkblue"
+        });
+
+        // Perform a request to the search service and create a pin on the map for each result
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function () {
+            var searchPins = [];
+
+            if (this.readyState === 4 && this.status === 200) {
+                var response = JSON.parse(this.responseText);
+
+                var poiResults = response.results.filter((result) => { return result.type === "POI" }) || [];
+
+                searchPins = poiResults.map((poiResult) => {
+                    var poiPosition = [poiResult.position.lon, poiResult.position.lat];
+                    return new atlas.data.Feature(new atlas.data.Point(poiPosition), {
+                        name: poiResult.poi.name,
+                        address: poiResult.address.freeformAddress,
+                        position: poiResult.position.lat + ", " + poiResult.position.lon
+                    });
+                });
+
+                map.addPins(searchPins, {
+                    name: searchLayerName
+                });
+
+                var lons = searchPins.map((pin) => { return pin.geometry.coordinates[0] });
+                var lats = searchPins.map((pin) => { return pin.geometry.coordinates[1] });
+
+                var swLon = Math.min.apply(null, lons);
+                console.info("SW Lon" + swLon);
+                var swLat = Math.min.apply(null, lats);
+                console.info("SW Lat" + swLat);
+                var neLon = Math.max.apply(null, lons);
+                console.info("NE Lon" + neLon);
+                var neLat = Math.max.apply(null, lats);
+                console.info("NE Lat" + neLat);
+
+                map.setCameraBounds({
+                    bounds: [swLon, swLat, neLon, neLat],
+                    padding: 50
+                });
+            }
+        };
+
+        //The serach request (fuzzy)
+        // var url = "https://atlas.microsoft.com/search/fuzzy/json?";
+        // url += "api-version=1.0";
+        // url += "&query=pier";
+        // url += "&subscription-key=" + MapsAccountKey;
+        // url += "&lat=51.395288";
+        // //url += "&lat=47.6292";
+        // url += "&lon=-0.564883";
+        // //url += "&lon=-122.2337";
+        // url += "&radius=100000";
+        var url = "http://localhost:4000/sams-twisted.json"
+
+        xhttp.open("GET", url, true);
+        xhttp.send();
+
+        // Add popouts for the different locaitons
+        // Add a popup to the map which will display some basic information about a search result on hover over a pin
+        var popup = new atlas.Popup();
+        map.addEventListener("mouseover", searchLayerName, (e) => {
+            var popupContentElement = document.createElement("div");
+            popupContentElement.style.padding = "5px";
+
+            var popupNameElement = document.createElement("div");
+            popupNameElement.innerText = e.features[0].properties.name;
+            popupContentElement.appendChild(popupNameElement);
+
+            var popupAddressElement = document.createElement("div");
+            popupAddressElement.innerText = e.features[0].properties.address;
+            popupContentElement.appendChild(popupAddressElement);
+
+            var popupPositionElement = document.createElement("div");
+            popupPositionElement.innerText = e.features[0].properties.name;
+            popupContentElement.appendChild(popupPositionElement);
+
+            popup.setPopupOptions({
+                position: e.features[0].geometry.coordinates,
+                content: popupContentElement
+            });
+
+            popup.open(map);
+        });
+
+    </script>
+</body>
+
+</html>
