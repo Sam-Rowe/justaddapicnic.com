@@ -38,21 +38,21 @@ Gravesend Town centre is approximately 10 miles away.
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/jeskyns/Jeskyns2.jpg" alt="View of the paths around the park" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/jeskyns/Jeskyns2.jpg" alt="Fairy house from the fairy walk" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/jeskyns/Jeskyns4.jpg" alt="people walking along the grassy paths" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/jeskyns/Jeskyns4.jpg" alt="Sand play area" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/jeskyns/Jeskyns7.jpg" alt="A view of the large grassy banks and wide grassy footpaths" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/jeskyns/Jeskyns7.jpg" alt="A view of the large grassy banks and wide grassy footpaths, with the tree house in the distance" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/jeskyns/Jeskyns6.jpg" alt="Large wooden tree fort and benched" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/jeskyns/Jeskyns6.jpg" alt="Large wooden tree house and benches" class="img-fluid">
       </div>
     </div>
 
@@ -62,7 +62,7 @@ Gravesend Town centre is approximately 10 miles away.
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/jeskyns/Jeskyns11.JPG" alt="Childrens play area with tunnels and tree trunks and objects to climb on" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/jeskyns/Jeskyns11.jpg" alt="Childrens play area with tunnels and tree trunks and objects to climb on" class="img-fluid">
       </div>
     </div>
 

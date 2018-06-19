@@ -37,26 +37,26 @@ layout: default
  <main class="page-content" aria-label="Content">
   <div class="wrapper">
      
-      <h1 style="text-align: center;">Spring Watch</h1>
-        <h4>Here are some great places to visit this Spring.</h4>
+      <h1 style="text-align: center;">Summer Sun</h1>
+        <h4>Here are some great places to visit this Summer.</h4>
 <!-- block of 3 featured locations -->
         <div class="container">
 
           <div class="row">
             
             <div class="col-lg-4 col-md-6">
-              <a href="/outdoors/kent/woodland/2018/04/29/hucking-estate.html"><h4 class="card-title">Beautiful Bluebells</h4></a>
+              <a href="/outdoors/kent/beach/park/2018/05/22/herne-bay.html"><h4 class="card-title">Herne Bay</h4></a>
               <div class="card mb-4 box-shadow">
                 
-                <img class="card-img-top" data-src="" alt="Bluebells at Hucking Estate" style="height: 225px; width: 100%; display: block;" src="https://cdn.justaddapicnic.com/kent/outdoors/hucking_estate/hucking5.jpg" data-holder-rendered="true">
+                <img class="card-img-top" data-src="" alt="view of herne bays beach and pier" style="height: 225px; width: 100%; display: block;" src="https://cdn.justaddapicnic.com/kent/outdoors/herne-bay/herne2.jpg" data-holder-rendered="true">
                 <div class="card-body">
-                  <p class="card-text">The secret is out! Hucking Estate, not far from Maidstone, is a stunning location to find this years Bluebells in their full glory.  With the woodland floor carpeted in Bluebells and other wildflowers you will be itching to identify all the wonderful flora here.</p>
+                  <p class="card-text">This classic seaside town has so much to offer all year round.  When the weather is particularly good why not enjoy a splash in the sea, crabbing off the pier, a play in the park and then fish and chips on the beach as the sun starts to go down. Easy to access via road and rail.</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                        <a href="/outdoors/kent/woodland/2018/04/29/hucking-estate.html" class="btn btn-sm btn-outline-secondary">Our Website</a>
+                        <a href="/outdoors/kent/beach/park/2018/05/22/herne-bay.html" class="btn btn-sm btn-outline-secondary">Our Website</a>
                     </div>
                     <div class="btn-group">
-                        <a href="https://www.woodlandtrust.org.uk/visiting-woods/wood/4776/hucking-estate/" class="btn btn-sm btn-outline-secondary" target="_blank">Woodland Trust</a>
+                        <a href="https://www.canterbury.co.uk/info/38/herne_bay" class="btn btn-sm btn-outline-secondary" target="_blank">Visit Herne Bay</a>
                     </div>
                   </div>
                 </div>
@@ -79,17 +79,17 @@ layout: default
             </div> 
 
             <div class="col-lg-4 col-md-6">
-              <a href="/indoors/kent/museum/2018/03/20/beaney-house.html"><h4 class="card-title">Somewhere Indoors</h4></a>
+              <a href="/outdoors/kent/park/sandpit/2018/01/08/lower-leas-coastal-park.html"><h4 class="card-title">Folkestone Fun</h4></a>
               <div class="card mb-4 box-shadow">
-                <img class="card-img-top" data-src="" alt="Explorer stations at The Beaney Museum" style="height: 225px; width: 100%; display: block;" src="https://cdn.justaddapicnic.com/kent/indoors/beaney/beaney4.jpg" data-holder-rendered="true">
+                <img class="card-img-top" data-src="" alt="Large tree fort in Lower Leas Coastal Park" style="height: 225px; width: 100%; display: block;" src="https://cdn.justaddapicnic.com/kent/outdoors/folkestone_park/Folkestone_12.jpg" data-holder-rendered="true">
                 <div class="card-body">
-                  <p class="card-text">The Beaney House of Art and Knowledge is a treasure trove in Canterbury's City Centre.  This lovely museum offers lots for its smallest visitors with wonderful Explorer Points for the Children to investigate and BFG inspired activities, as the museum displays some of Quentin Blake's artwork.</p>
+                  <p class="card-text">Folkestone sea front has undergone a massive revamp in the past few years. The Lower Leas Coastal park offers a wonderful place to play once you've explored Sunny Sands beach, the trendy Harbour Arm and stone beach along Marine Parade. Explore <a href="https://folkestonemuseum.co.uk/visit/">Folkestone Museum</a> too.</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                        <a href="/indoors/kent/museum/2018/03/20/beaney-house.html" class="btn btn-sm btn-outline-secondary">Our Website</a>
+                        <a href="/outdoors/kent/park/sandpit/2018/01/08/lower-leas-coastal-park.html" class="btn btn-sm btn-outline-secondary">Our Website</a>
                     </div>
                     <div class="btn-group">
-                        <a href="https://canterburymuseums.co.uk/beaney/" class="btn btn-sm btn-outline-secondary" target="_blank">The Beaney</a>
+                        <a href="http://hotelsfolkestone.com/" class="btn btn-sm btn-outline-secondary" target="_blank">Visit Folkestone</a>
                     </div>
                   </div>
                 </div>
@@ -132,17 +132,26 @@ layout: default
       </li>
     {% endfor %}
   </ul>
+
+
+<div class="container">
+  <div class="page-content">
+     {{ content }}
+  </div>  
+</div>
+
 <div class="container">
   <div class="row">
     <div class="col-md-6">
-     {{ content }}
+      <!-- Facebook Feed -->
+      <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FJustAddAPicnic%2F&tabs=timeline&width=400&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" width="400" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
     </div>
 
     <div class="col-md-6">
     <!--Twitter feed-->
-        <a href="https://twitter.com/JustAddAPicnic?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @JustAddAPicnic</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+       <!--  <a href="https://twitter.com/JustAddAPicnic?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @JustAddAPicnic</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
-        <a class="twitter-timeline" data-width="500" data-height="500" data-theme="light" href="https://twitter.com/JustAddAPicnic?ref_src=twsrc%5Etfw">Tweets by JustAddAPicnic</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        <a class="twitter-timeline" data-width="400" data-height="500" data-theme="light" href="https://twitter.com/JustAddAPicnic?ref_src=twsrc%5Etfw">Tweets by JustAddAPicnic</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
    </div>
   </div>
  </div>
