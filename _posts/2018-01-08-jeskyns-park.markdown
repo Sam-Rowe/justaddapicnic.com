@@ -62,7 +62,7 @@ Gravesend Town centre is approximately 10 miles away.
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/jeskyns/Jeskyns11.jpg" alt="Childrens play area with tunnels and tree trunks and objects to climb on" class="img-fluid">
+        <img src="https://cdn.justaddapicnic.com/kent/outdoors/jeskyns/Jeskyns11.JPG" alt="Childrens play area with tunnels and tree trunks and objects to climb on" class="img-fluid">
       </div>
     </div>
 
