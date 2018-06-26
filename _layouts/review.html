@@ -1,0 +1,19 @@
+---
+layout: page
+---
+
+<div>
+	<ul class="photo-gallery">
+	{% for image in page.images %}
+		<li>	
+			<a href="{{ image.link }}" target="_blank"><img src="{{ image.url }}" alt="{{ image.alt }}"></a>
+		</li>
+	{% endfor %}
+	</ul>
+	<div class="blog-post spacing">
+		{{ content }}
+	</div>
+
+</div>
+
+
