@@ -27,7 +27,7 @@ There are public toilets close to the beach at [The Horsebridge Arts Centre](htt
 
 This is a dog friendly beach all year round.
 
-Whitstable train station is located half a mile from the sea front (10-15 minute walk).  If you find yourself with over excited children that need to burn off energy or time to kill before the next train, visit [Wesmeads Recreation Ground]() 2 minutes from the train station.
+Whitstable train station is located half a mile from the sea front (10-15 minute walk).  If you find yourself with over excited children that need to burn off energy or time to kill before the next train, visit [Westmeads Recreation Ground]() 2 minutes from the train station.
 
 
 #### Close by
@@ -35,6 +35,8 @@ Whitstable train station is located half a mile from the sea front (10-15 minute
 [Whitstable Castle and Gardens](http://www.whitstablecastle.co.uk/the-castle) is a five minute walk from the harbour, situated between Tankerton slopes and Whitstable town.  It is free to enjoy and they have a lovely Tea Room.
 
 [Whitstable Community Museum and Gallery](http://www.whitstablemuseum.org/) is on Oxford Street at the end of the High Street.  There is a small charge for adult admission. 
+
+[Tankerton Slopes and Beach](/outdoors/kent/beach/2018/07/02/tankerton.html) are approximately 1 mile away (20 minute walk).
 
 ## Gallery
 
@@ -85,3 +87,4 @@ Harbour Street, Whitstable, CT5 1BU.
 
 * Swimming kit, when the weather is warm enough.
 * Picnic blankets, chairs and shade for on the beach.
+* Beach shoes
