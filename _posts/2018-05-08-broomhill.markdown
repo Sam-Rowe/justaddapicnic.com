@@ -29,6 +29,8 @@ The park is just over a mile from Strood train station, approximately 25 minute 
 
 Strood Town centre and train station are about 1 mile away.
 
+[Rede Common](/outdoors/kent/park/2018/06/15/rede-common.html) is approximately 1 mile away if you fancy some peace a quiet.
+
 ## Gallery
 
 <div class="container">
