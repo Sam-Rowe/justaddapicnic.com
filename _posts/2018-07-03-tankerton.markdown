@@ -29,6 +29,8 @@ The closest train station is Whitstable, approximately 1 mile away (20 minute wa
 
 [Whitstable Castle and Gardens](http://www.whitstablecastle.co.uk/the-castle) is a five minute walk from the Tankerton slopes.  It is free to enjoy and they have a lovely Tea Room.
 
+2.5 miles around the coast you will find the exciting [Hampton Pier Recreation Ground](/outdoors/kent/beach/sandpit/park/2018/07/03/hampton-beach-park.html) with lots of play equipment for all ages.
+
 
 ## Gallery
 
