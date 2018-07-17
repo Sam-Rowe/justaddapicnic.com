@@ -27,6 +27,8 @@ Rochester City Centre is about 5 minute walk from the park where you can find th
 
 [Rochester Castle](http://www.english-heritage.org.uk/visit/places/rochester-castle) is adjacent to the park up, on the hill. You can enter the castle gardens for free, where you will find more green space to enjoy and public toilets (no baby changing facilities), English Heritage maintain the castle.
 
+[Baty's Marsh and Borstal Recreation Ground](https://justaddapicnic.com/outdoors/kent/park/2018/07/17/batys-marsh-borstal-rec.html) is 1 mile away from the Esplanade, if you walk along the river.  It has fantastic open green spaces for playing ball games and a lovely children's play area.
+
 
 ## Gallery
 
