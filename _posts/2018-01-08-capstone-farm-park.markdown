@@ -32,6 +32,8 @@ Luton Rec and Darland Bank are close to this park, however, there is no foot pat
 
 [The Waggon at Hale](http://www.waggonathale.com/) is a country pub a few minutes away from the park.
 
+[Lordswood Play Area](/outdoors/kent/park/2018/07/19/lordswood-playarea.html) is 1.5 miles away and offers a lovely woodland to wonder through and spark your imagination.
+
 ## Gallery
 
 <div class="container">
