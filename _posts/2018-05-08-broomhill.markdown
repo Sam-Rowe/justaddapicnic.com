@@ -85,9 +85,10 @@ King Authur's Drive, Strood, Rochester, ME2 3LZ.
 
 <div class="container">
   <div class="row">
-<!--     <div class="col-md-6">
-      Twitter plugin code
-    </div> -->
+    <div class="col-md-6">
+      <!-- Twitter plugin code -->
+      <a class="twitter-timeline" data-width="500" data-height="500" href="https://twitter.com/BroomhillPark_?ref_src=twsrc%5Etfw">Tweets by BroomhillPark_</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>
   
     <div class="col-md-6">
       <!-- Facebook plugin code -->
