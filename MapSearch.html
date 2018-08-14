@@ -50,7 +50,7 @@
             if (this.readyState === 4 && this.status === 200) {
                 var response = JSON.parse(this.responseText);
 
-                var poiResults = response.results.filter((result) => { return result.type === "POI" }) || [];
+                var poiResults = response.results.filter((result) => { return result.type === "JAAP" }) || [];
 
                 searchPins = poiResults.map((poiResult) => {
                     var poiPosition = [poiResult.position.lon, poiResult.position.lat];

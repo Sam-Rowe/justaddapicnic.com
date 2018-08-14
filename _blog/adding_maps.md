@@ -14,12 +14,15 @@ excerpt: How to add Azure Maps to Just Add A Picnic site
 What our competitors have and we don't - we can't search using a map of the locations.
 
 Sam is moving to work for Microsoft in the Azure team so it was a no brainer to use that and leverage Azure maps.
+Additionally Sam compared both Azure maps and Google maps neither has the ability to be given a custom set of locations to then use the search as such the search for POI will have to be done outside of this and then returned to the map.
 
 ## Starting documentation
 
 Sam started by following the getting started guide
 
 [Tutorial on azure maps](https://docs.microsoft.com/en-us/azure/azure-maps/tutorial-search-location)
+
+Guide on [HTML5 gelocation tools](https://www.w3schools.com/html/html5_geolocation.asp)
 
 ## Design of map
 

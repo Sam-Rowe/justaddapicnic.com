@@ -5,18 +5,7 @@
         "categories": [
         "Picnic spot"
         ],
-        "classifications": [
-          {
-            "code": "CASH_DISPENSER",
-            "names": [
-              {
-                "name": "cash dispenser",
-                "nameLocale": "en-US"
-              }
-            ]
-          }
-        ],
-        "name": "Barclays - Asda Gill Pier 1"
+        "name": "The Strand Gillingham"
       },
       "address": {
         "country": "United Kingdom",
@@ -39,7 +28,7 @@
         "lon": 0.55814
       },
       "score": 4.985,
-      "type": "POI",
+      "type": "JAAP",
       "viewport": {
         "btmRightPoint": {
           "lat": 51.40356,
@@ -53,20 +42,6 @@
     },
     {
         "poi": {
-        "categories": [
-        "cash dispenser"
-        ],
-        "classifications": [
-          {
-            "code": "CASH_DISPENSER",
-            "names": [
-              {
-                "name": "cash dispenser",
-                "nameLocale": "en-US"
-              }
-            ]
-          }
-        ],
         "name": "Barclays - Asda Gill Pier 1"
       },
       "address": {
@@ -89,7 +64,7 @@
         "lon": 0.53173
       },
       "score": 4.925,
-      "type": "POI",
+      "type": "JAAP",
       "viewport": {
         "btmRightPoint": {
           "lat": 51.40056,
