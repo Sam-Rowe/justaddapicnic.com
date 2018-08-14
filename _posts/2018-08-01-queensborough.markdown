@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Queensborough and Castle Park"
+title:  "Queensborough"
 date:   2018-08-01 09:18:04 +0000
 categories: [outdoors, kent, park]
-tag: Queensborough 
-permalink: 
+tag: Queensborough
+permalink:
 excerpt: Queensborough is a beautiful little fishing town on the Isle of Sheppey.  It has many historic naval buildings, pubs, a shoreline, marina and a lovely little play area close to the train station.
 
-images: 
+images:
  - url: https://cdn.justaddapicnic.com/kent/outdoors/queensborough/queens1.jpg
    alt: Queensborough shoreline at low tide, perfect for looking for crabs and other sea beasties
    title: Queensborough
@@ -27,7 +27,7 @@ There are public toilets in Queensborough at the beach end of the High Street.  
 #### Close by
 [Queensborough Lines Park](/outdoors/kent/park/2018/08/01/queensborough-lines.html) is a short drive away, under 1 mile.
 
-[Sheerness Beach](/outdoors/kent/beach/2018/06/03/sheerness-beach.html) and [Sheerness Sandpit and splash pool](/outdoors/kent/sandpit/park/2018/01/16/sheerness-sandpit.html) are appromximately 3 miles away and offer lots of sandy fun. 
+[Sheerness Beach](/outdoors/kent/beach/2018/06/03/sheerness-beach.html) and [Sheerness Sandpit and splash pool](/outdoors/kent/sandpit/park/2018/01/16/sheerness-sandpit.html) are appromximately 3 miles away and offer lots of sandy fun.
 
 ## Gallery
 
