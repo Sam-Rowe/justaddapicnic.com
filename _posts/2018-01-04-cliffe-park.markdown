@@ -21,7 +21,7 @@ There is only on-street parking here, however, there is parking by St Helen's Ch
 #### Close by
 [St Helen's church](http://cliffechurch.org/index.html) was built around 1000 years ago and has some beautiful features and an active role in the community.
 
-Cliffe Pools [RSPB reserve](http://ww2.rspb.org.uk/reserves-and-events/find-a-reserve/reserves-a-z/reserves-by-name/c/cliffepools/) offers some beautiful walks and cycle routes to be enjoyed by all.  Fabled sightings of a pink flamingo and green parakeets keep visitors returning, not to mention the wide variety of native wildfowl and raptors that visit the marshes.
+Cliffe Pools [RSPB reserve](/outdoors/kent/marsh/2018/08/22/cliffe-marshes.html) offers some beautiful walks and cycle routes to be enjoyed by all.  Fabled sightings of a pink flamingo and green parakeets keep visitors returning, not to mention the wide variety of native wildfowl and raptors that visit the marshes.  For more information you can also visit the [RSPB website](http://ww2.rspb.org.uk/reserves-and-events/find-a-reserve/reserves-a-z/reserves-by-name/c/cliffepools/).
 
 [Cliffe Woods Park](/outdoors/kent/park/2018/05/08/cliffe-woods.html) is approximately 1.5 miles away.
 
