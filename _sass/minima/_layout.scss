@@ -340,6 +340,25 @@
   @include relative-font-size(1.5);
 }
 
+.blog-list {
+  margin-left: 0;
+  list-style: none;
+
+  .article {
+  width: 300px;
+  }
+  
+  > li {
+           
+            margin-bottom: $spacing-unit;
+            background-color: $grey-color;
+            padding: 10px 5px 5px 5px;
+            border-radius: 5px;
+            overflow: auto;
+        }
+}
+
+
 
 .nav-button {
   display: flex;

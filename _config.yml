@@ -45,3 +45,6 @@ exclude:
 url: "https://justaddapicnic.com" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
+collections:
+  blog:
+    output: true 

@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+      {% if post %}
+            {% assign image = blog.images[0] %}
+      {% else %}
+            {% assign image = page.images[0] %}
+      {% endif %}
+      {% include heading-img.html image=image %} 
+  </header>
+<!-- navigation between posts underneath the main heading image -->
+  <nav class="post_navigation">
+  {% if page.previous.url %}
+    <a href="{{ page.previous.url }}">&laquo; {{ page.previous.title }}</a>
+  {% endif %}
+  {% if page.next.url %}
+    <a href="{{ page.next.url }}">{{ page.next.title }} &raquo;</a>
+  {% endif %}
+  </nav>
+
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+ {% include post-footer.html %}  
+
+</article>
