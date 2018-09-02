@@ -28,7 +28,7 @@ There is a small parade of shops in Cliffe Woods village, on Parkside.
 
 [Cliffe Park](/outdoors/kent/park/2018/01/04/cliffe-park.html) is only 1.5 miles away.
 
-[Cliffe Pools RSPB Reserve](http://ww2.rspb.org.uk/reserves-and-events/find-a-reserve/reserves-a-z/reserves-by-name/c/cliffepools/) is about 2 miles away and offers some beautiful walks and cycle routes to be enjoyed by all.  Fabled sightings of a pink flamingo and green parakeets keep visitors returning, not to mention the wide variety of native wildfowl and raptors that visit the marshes.
+Cliffe Pools [RSPB reserve](/outdoors/kent/marsh/2018/08/22/cliffe-marshes.html) offers some beautiful walks and cycle routes to be enjoyed by all.  Fabled sightings of a pink flamingo and green parakeets keep visitors returning, not to mention the wide variety of native wildfowl and raptors that visit the marshes.  For more information you can also visit the [RSPB website](http://ww2.rspb.org.uk/reserves-and-events/find-a-reserve/reserves-a-z/reserves-by-name/c/cliffepools/).
 
 ## Gallery
 
