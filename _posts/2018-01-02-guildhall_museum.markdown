@@ -21,13 +21,15 @@ The museum is arranged over many levels within Grade 1 and 2 listed buildings an
 The museum does not have a public car park, however, there are several public car parks in Rochester that can be used to access the museum.  Rochester train station is a short walk from the museum and there are several bus routes that stop along Corporation Street (Stop P or Stop A) right behind the museum. 
 
 #### Close by
-If you wish to indulge in more local culture [Rochester Cathederal](https://www.rochestercathedral.org/) is also free to enter and a joy to explore. 
+If you wish to indulge in more local culture [Rochester Cathederal](https://justaddapicnic.com/indoors/kent/cathedral/2018/02/21/rochester-cathedral.html) is also free to enter and a joy to explore. 
 
-If your little ones require room to run around and burn off some energy there is a small playground on the banks of the River Medway at the foot of the castle on the Esplande. Follow the High Street towards Rochester Bridge and proceed to walk along the Esplande.
+If your little ones require room to run around and burn off some energy there is a small playground on the banks of the River Medway at the foot of the castle on the [Esplande](https://justaddapicnic.com/outdoors/kent/park/2018/05/08/rochester-esplanade.html). Follow the High Street towards Rochester Bridge and proceed to walk along the Esplande.
 
 [Rochester Castle](http://www.english-heritage.org.uk/visit/places/rochester-castle/), an English Heritage Site, is only a 5 minute walk from the museum.  The castle grounds are free to enter and a lovely spot to enjoy your picnic and run around. Please see the [English Heritage website](http://www.english-heritage.org.uk/visit/places/rochester-castle/) for details about entry to the castle. There is a set of public toilets available here, but there is no baby changing facilities.  You can use the toilets at the musuem, or those opposite the Corn Exchange, see the [Medway Council website](http://www.medway.gov.uk/information/findmynearest.aspx?stype=36) for more details.  
 
 Along the High Street you will also find the [Rochester Visitors Center](https://www.visitmedway.org/getting-here/visitor-information-centre/) which also houses the [Huguenot Museum](http://huguenotmuseum.org/).
+
+[Baty's Marsh and Borstal Recreation Ground](https://justaddapicnic.com/outdoors/kent/park/2018/07/17/batys-marsh-borstal-rec.html) is 1.5 miles from the museum and offers a lovely open green space to play in.
 
 ## Gallery
 

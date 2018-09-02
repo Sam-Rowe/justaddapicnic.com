@@ -4,6 +4,7 @@ title:  "Queensborough Lines Park"
 date:   2018-08-01 10:18:04 +0000
 categories: [outdoors, kent, park]
 tag: Queensborough
+
 permalink: 
 excerpt: This is a quiet park over looking the Sheppey Bridge and surrounding countryside.  There is some great play equipment here and lovely walks across the hill and into the marshland.
 
@@ -14,18 +15,21 @@ images:
 ---
 
 ## What's there?
-At Queensborough lines there is some unique play equipment for your family to enjoy.  Mainly catering for older children, you will find a pair of Acoustic mirrors to send secret messages between you, a large spherical climbing frame on top of the hill and some outdoor fitness equipment.  Younger children will enjoy the long slide down the hill and the climbing frame.
 
-The park backs on to the marshland that runs alongside the Swale River, there are some lovely walks and cycle routes through this marshland, and the views are stunning.  Keep your eyes peeled for beautiful butterflies in the summer and the many birds that occupy the river banks throughout the year.
+At Queensborough lines park there is some unique play equipment for your family to enjoy.  Mainly catering for older children, you will find a pair of Acoustic mirrors to send secret messages between you, a large spherical climbing frame on top of the hill and some outdoor fitness equipment. Queensborough lines park also caters for younger children who will enjoy the long slide down the hill and the climbing frame.
 
-Parking here is free and on-street, please be considerate to residents.
+Queensborough lines park backs on to the marshland that runs alongside the Swale River, there are some lovely walks and cycle routes through this marshland, and the views are stunning.  While at Queensborough lines park keep your eyes peeled for beautiful butterflies in the summer and the many birds that occupy the river banks throughout the year.
 
-There's not a lot of shade here, so make sure you bring your hats and sun cream on hot sunny days.  There are no public toilets here, but [Queensborough](/outdoors/kent/park/2018/08/01/queensborough.html) is under 1 mile away and there is a large supermarket under a mile away too.
+Parking at Queensborough lines park is free and on-street, please be considerate to residents.
+
+There's not a lot of shade at Queensborough lines park, so make sure you bring your hats and sun cream on hot sunny days.  There are no public toilets either at Queensborough lines park, but [Queensborough](/outdoors/kent/park/2018/08/01/queensborough.html) is under 1 mile away and there is a large supermarket under a mile away too.
+
 
 The paths through the marsh are not suitable for pushchairs and we advise taking your smaller children in carriers, slings or backpacks.
 
 #### Close by
 [Queensborough](/outdoors/kent/park/2018/08/01/queensborough.html) is under 1 mile away, where you will find historic naval buildings, a marina and a little play area.
+
 
 [Sheerness Beach](/outdoors/kent/beach/2018/06/03/sheerness-beach.html) and [Sheerness Sandpit and splash pool](/outdoors/kent/sandpit/park/2018/01/16/sheerness-sandpit.html) are appromximately 3 miles away and offer lots of sandy fun. 
 

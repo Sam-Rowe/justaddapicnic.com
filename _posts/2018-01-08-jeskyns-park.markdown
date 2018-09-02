@@ -14,13 +14,19 @@ images:
 
 ## What's there?
 
-Run by the Forestry Commission, this newly established woodland offers a variety of walks and activites to keep everyone entertained.  There are trails for children to take part in that can be purchased from the cafe, see the [website](https://www.forestry.gov.uk/jeskyns) to find out the current theme. The cafe offers a good selection of food and hot drinks.  The toilets can be found on the side of the cafe building.
+Jeskyns Community Woodland is run by the [Forestry Commission](https://www.forestry.gov.uk/jeskyns).  This newly established woodland offers a variety of walks and activites to keep everyone entertained.  There are trails for children to take part in that can be purchased from the cafe, see the [website](https://www.forestry.gov.uk/jeskyns) to find out the current theme. The cafe offers a good selection of food and hot drinks.  The toilets can be found on the side of the cafe building.  There are lots of picnic benches here too, for those who have brought food with them.
 
-The gravel paths are great for bicycles; pushchairs are ok, but it's a good workout.  There are ponds, playgrounds and dog areas to be utilised by guests.  As a new woodland it has yet to grow enough to protect you from the wind so wrap up warm on those cooler days.
+As you walk around the park you will discover a wonderful play area and sandpit with natural climbing elements and a large tunnel climbing frame.  While you're there see if you can spot the fairy on the gate post to the fairy village.  Inside the fairy village you wil find lots of beautifully carved fairy houses of all shapes and sizes and some lovely natural artwork in the branches and trees as you wander through.  Take your photo on the fairy thrones, and remember to bring an offering to the fairies to thank them for allowing you to play with their instruments and enter their village.
 
-There is plenty of parking here, but it is pay and display at a daily charge.
+The tree house is a great place to stop and play for a little while and checkout the stunning views of the surrounding countryside.  There are several sculptures around the park to be found and enjoyed.
 
-Dogs with Responsible owners are welcome.
+Jeskyns has made a real effort in making sure your dog enjoys their time at the park too.  With a specially designed agility area, dedicated training field and the dog pond, to cool them off afterwards.  Your four-legged friend is bound to have a great time too.
+
+The gravel paths are great for bicycles; pushchairs are ok, but it's a good workout.  As a new woodland it has yet to grow enough to protect you from the wind so wrap up warm on those cooler days.
+
+There is plenty of parking here, it is pay and display at a daily charge.
+
+Dogs with Responsible owners are very welcome.
 
 #### Close by
 

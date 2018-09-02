@@ -24,11 +24,13 @@ Please be aware that some parts of the building are not fully accessible and you
 
 The [Rochester Guildhall Museum](http://www.justaddapicnic.com/indoors/kent/museum/2018/01/02/guildhall_museum.html) is a 5 minute walk down the High Street from the Cathedral.
 
-If your little ones require room to run around and burn off some energy there is a small playground on the banks of the River Medway at the foot of the castle on the Esplande. Follow the High Street towards Rochester Bridge and proceed to walk along the Esplande.
+If your little ones require room to run around and burn off some energy there is a small playground on the banks of the River Medway at the foot of the castle on the [Esplande](https://justaddapicnic.com/outdoors/kent/park/2018/05/08/rochester-esplanade.html). Follow the High Street towards Rochester Bridge and proceed to walk along the Esplande.
 
 [Rochester Castle](http://www.english-heritage.org.uk/visit/places/rochester-castle/), an English Heritage Site, is only a 2 minute walk from the Cathedral.  The castle grounds are free to enter and a lovely spot to enjoy your picnic and run around. Please see the [English Heritage website](http://www.english-heritage.org.uk/visit/places/rochester-castle/) for details about entry to the castle. There is a set of public toilets available here, but there is no baby changing facilities.  You can use the toilets at the Guildhall Musuem, or those opposite the Corn Exchange, see the [Medway Council website](http://www.medway.gov.uk/information/findmynearest.aspx?stype=36) for more details.  
 
 Along the High Street you will also find the [Rochester Visitors Center](https://www.visitmedway.org/getting-here/visitor-information-centre/) which also houses the [Huguenot Museum](http://huguenotmuseum.org/). 
+
+[Baty's Marsh and Borstal Recreation Ground](https://justaddapicnic.com/outdoors/kent/park/2018/07/17/batys-marsh-borstal-rec.html) is 1.5 miles away from the Cathedral and offers a lovely open green space and children's play area.
 
 ## Gallery
 

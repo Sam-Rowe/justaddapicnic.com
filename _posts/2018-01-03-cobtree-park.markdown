@@ -7,8 +7,8 @@ tags: Maidstone
 permalink: 
 excerpt: A fantastic park on the site of the old Maidstone Zoo.  It has a great range of play equipment, a cafe with toilets and lovely walks through the gardens and woodland.
 images:
- - url: http://www.maidstone.gov.uk/__data/assets/image/0018/60165/Maidstone-Zoo-Play-Area-1.jpg
-   alt: Front aspect of the play fort
+ - url: https://cdn.justaddapicnic.com/kent/outdoors/cobtree_park/cobtree5.jpg
+   alt: Inside the fort at Cobtree Manor park, the fantastic slides and raised walkways
    title: Cobtree Manor Park
 ---
 
@@ -34,32 +34,32 @@ The [Museum of Kent Life](https://kentlife.org.uk/) is under a mile away from th
       <div class="row">
 
         <div class="col-md-4">
-          <div class="card" id="portrait">
-            <img src="https://cdn.justaddapicnic.com/kent/outdoors/cobtree_park/Cobtree_2.jpg" alt="children playing on springy seesaws" class="img-fluid">
+          <div class="card" id="landscape">
+            <img src="https://cdn.justaddapicnic.com/kent/outdoors/cobtree_park/cobtree1.jpg" alt="The zipwires at Cobtree Manor Park" class="img-fluid">
           </div>
 
           <div class="card" id="landscape">
-            <img src="http://www.maidstone.gov.uk/__data/assets/image/0018/60183/Zipwire.jpg" alt="Picnic bench and zipwire in the distance" class="img-fluid">
+            <img src="https://cdn.justaddapicnic.com/kent/outdoors/cobtree_park/cobtree2.jpg" alt="Safari jeep and springy play equipment outside the fort at Cobtree Manor Park" class="img-fluid">
           </div>
         </div>
 
         <div class="col-md-4">
-          <div class="card" id="portrait">
-            <img src="https://cdn.justaddapicnic.com/kent/outdoors/cobtree_park/Cobtree_3.jpg" alt="slides inside the play fort" class="img-fluid">
+          <div class="card" id="landscape">
+            <img src="https://cdn.justaddapicnic.com/kent/outdoors/cobtree_park/cobtree4.jpg" alt="The cafe and toilets that service Cobtree Manor Park" class="img-fluid">
           </div>
 
           <div class="card" id="landscape">
-            <img src="http://www.maidstone.gov.uk/__data/assets/image/0015/60171/Maidstone-Zoo-Play-Area-7.jpg" alt="A wide angle view inside the play fort" class="img-fluid">
+            <img src="https://cdn.justaddapicnic.com/kent/outdoors/cobtree_park/cobtree3.jpg" alt="The play fort and wooden train at Cobtree Manor Park" class="img-fluid">
           </div>
-        </div>
+       </div>
 
         <div class="col-md-4">
-          <div class="card" id="portrait">
-            <img src="http://www.maidstone.gov.uk/__data/assets/image/0004/60169/Maidstone-Zoo-Play-Area-5.jpg" alt="climbing equipment inside the fort" class="img-fluid">
+          <div class="card" id="landscape">
+            <img src="https://cdn.justaddapicnic.com/kent/outdoors/cobtree_park/cobtree5.jpg" alt="Inside the fort at Cobtree Manor park, the fantastic slides and raised walkways" class="img-fluid">
           </div>
 
           <div class="card" id="landscape">
-            <img src="http://www.maidstone.gov.uk/__data/assets/image/0018/60165/Maidstone-Zoo-Play-Area-1.jpg" alt="The entrance to the Maidstone Zoo play fort" class="img-fluid">
+            <img src="https://cdn.justaddapicnic.com/kent/outdoors/cobtree_park/cobtree6.jpg" alt="The tree lined walkway found in Cobtree Manor Park as you walk away from the main play area." class="img-fluid">
           </div>
         </div>
         
