@@ -4,7 +4,7 @@ title: Add Locations
 permalink: 
 ---
 
-<div class="jumbotron" style="max-height: 15em; background-image: url('/images/kent/outdoors/leybourne_lakes/leybourne5.jpg');">
+<div class="jumbotron" style="max-height: 15em; background-image: url('https://cdn.justaddapicnic.com/kent/outdoors/leybourne_lakes/leybourne5.jpg');">
 </div>
 
 ## How you can help...

@@ -3,7 +3,7 @@ layout: page
 title: Blog
 ---
 
-<ul class="blog-list">
+<!-- <ul class="blog-list">
 	{% for blog in site.blog %}
   <div class="container">
 	<li class="post-list-layout">
@@ -34,6 +34,28 @@ title: Blog
 		</div>			
 	</li>
 	{% endfor %}
-</ul>
-
-
+</ul> -->
+<div class="container">
+	<ul class="blog-list">
+		{% for blog in site.blog %}
+<!-- 		<div id="notecards"> -->
+		  <div class="notecard">
+		    <div class="front">
+		      <div class="photo">
+		      	{% assign image = blog.images[0] %}
+				{% include image.html image=image %}
+		      </div>
+		    </div>
+		    
+		    <div class="back">
+		      <span class="word">{{ blog.title }}</span>	
+		      <div class="definition">
+		        {{ blog.excerpt }}
+		        
+		      </div>
+		    </div>
+		  </div>
+<!-- 		 </div>
+ -->		{% endfor %}
+	</ul>
+</div>

@@ -161,7 +161,7 @@
 }
 
 .jumbotron {
-              background-image: url(/images/motepark1.jpg);
+              background-image: url(https://cdn.justaddapicnic.com/motepark1.jpg);
               background-position: center;
               background-size: cover;
               height: 45rem;
@@ -343,19 +343,10 @@
 .blog-list {
   margin-left: 0;
   list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 
-  .article {
-  width: 300px;
-  }
-  
-  > li {
-           
-            margin-bottom: $spacing-unit;
-            background-color: $grey-color;
-            padding: 10px 5px 5px 5px;
-            border-radius: 5px;
-            overflow: auto;
-        }
 }
 
 
@@ -479,4 +470,125 @@
         max-width: 200px;
         margin: 0.5em;
     }
+
+/**
+*Flippy image cards on Blog main site
+*/
+
+@mixin transition($time){
+    transition: $time;
+  -webkit-transition: $time;
+  -moz-transition: $time;
+  -o-transition: $time;
+}
+
+@mixin transform-style($style){
+   transform-style: $style;
+  -moz-transform-style: $style;
+  -o-transform-style: $style;
+  -ms-transform-style: $style;
+  -webkit-transform-style: $style;
+}
+
+@mixin stripes($direction, $width-percent, $stripe-color, $stripe-background: #FFF) {
+  background: repeating-linear-gradient(
+    $direction,
+    $stripe-background,
+    $stripe-background ($width-percent - 1),
+    $stripe-color 1%,
+    $stripe-background $width-percent
+  );
+}
+
+$stripe-properties: to bottom, 15%, blue, white;
+
+@mixin transform($transformation) {
+  transform: $transformation;
+  -webkit-transform: $transformation;
+  -moz-transform: $transformation;
+  -ms-transform: $transformation;
+  -o-transform: $transformation;  
+}
+
+@mixin photo-content($file) {
+  content: url(#{$file}.jpg);
+  object-fit: cover;
+}
+
+@mixin backface-visibility($visibility:hidden) { //Add an argument
+  backface-visibility: $visibility;
+  -webkit-backface-visibility: $visibility;
+  -moz-backface-visibility: $visibility;
+  -ms-backface-visibility: $visibility;
+  -o-backface-visibility: $visibility;
+}
+
+@mixin hover-color($color) {
+  &:hover{
+    color: $color;
+  }
+}
+//Add your own mixins here
+
+.notecard {
+  @include transform-style(preserve-3d);
+  @include transition(0.4s);
+  width: 300px;
+  height: 300px;
+  /*border: 1px solid black;*/
+  display: inline-grid;
+  /*margin: 20px;*/
+  font-family: $base-font-family;
+  /*box-shadow: 1px 1px 2px 2px rgba(0,0,0,.2);*/
+  &:hover{
+  @include transform      (rotatey(-180deg));  
+}
+  .front, .back {
+    @include backface-visibility;
+   // @include backface-visibility(hidden);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    
+  }
+  
+  .front {
+  z-index: 3;
+      .photo {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        object-fit: cover;
+        margin: 0px auto;
+
+        .post-img {
+        height: 300px;
+        width: 300px;
+        }
+     }
+        
+  }
+  
+  
+  .back {
+   @include transform(rotatey(-180deg));
+  z-index: 1;
+  font-size: $small-font-size;
+  word-wrap: break-word;
+  line-height: $base-line-height;
+    .word {
+      display: block;
+      text-align: center;
+      position: relative;
+      top: 40%;
+      }
+    .definition {
+      /*width: 100%;
+      height: 100%;*/
+            
+
+          
+      }
+    }
+  }
 
