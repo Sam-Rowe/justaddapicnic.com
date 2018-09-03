@@ -4,7 +4,7 @@ title:  "Ranscombe Farm Nature Reserve"
 date:   2018-08-22 10:18:04 +0000
 categories: [outdoors, kent, nature reserve]
 tag: Strood
-permalink: RanscomeFarm
+permalink: 
 excerpt: Ranscombe Farm Nature Reserve is located between the high speed railway line and Cuxton.  This piece of wild land holds ancient trees, meadows and adventures waiting to be had.
 
 images: 
