@@ -3,7 +3,7 @@
 // Define defaults for each variable.
 
 $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !default;
-$title-font-family: 'Ubuntu', sans-serif;
+$title-font-family: 'Pinsetter', cursive;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
@@ -13,9 +13,13 @@ $spacing-unit:     30px !default;
 
 $text-color:       #111 !default;
 $background-color: #fdfdfd !default;
-$brand-color:      #008f7c !default; 
+$brand-color:      #143B50 !default; 
 
-$grey-color:       #828282 !default;
+$green-highlight:  #00D643 !default;
+$blue-highlight:   #48C2C8 !default;
+$berry-highlight:  #3C3241 !default;
+
+$grey-color:       #47535B !default;
 $grey-color-light: lighten($grey-color, 45%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
@@ -54,4 +58,9 @@ $break-phone:		740px;
   "minima/layout",
   "minima/syntax-highlighting"
 ;
+
+@font-face {
+	font-family: Pinsetter;
+	src: url('/images/fonts/Pinsetter-Complete.otf');
+}
 
