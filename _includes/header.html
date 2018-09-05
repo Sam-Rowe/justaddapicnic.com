@@ -4,8 +4,7 @@
 
   <div class="title">
     <h1 class="site-title">
-      <img src="https://cdn.justaddapicnic.com/picnic1.png" alt="picnic basket logo" class="logo">
-      <a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+      <a href="{{ "/" | relative_url }}"><img src="/images/logos/header-logo-white.png" alt="picnic basket logo" class="logo"></a>
     </h1>
   </div>
 
@@ -37,6 +36,14 @@
       </nav>
       {% endif %}
     </div>
+
+      <div class="search-box">
+        <form action="/search.html" method="get">
+          <label for="search_box"></label>
+          <input type="text" id="search_box" name="query" placeholder="location, keyword or town">
+          <input type="submit" value="search">
+        </form>
+      </div>
   </div>
 </div>
 

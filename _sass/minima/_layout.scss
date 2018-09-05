@@ -3,7 +3,6 @@
  */
 .site-header {
   border-top: 5px solid $grey-color-dark;
-  /*border-bottom: 1px solid $grey-color-light;*/
   min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
@@ -25,7 +24,6 @@
       padding: 0.5em;
       width: 50%;
       text-align: left;
-
       @media screen and (max-width: $break-large) {
       padding: 10px;
       width: 100%;
@@ -37,7 +35,6 @@
       @include relative-font-size(4);
       font-family: $title-font-family;
 
-      color: $brand-color;
       font-weight: 300;
       line-height: $base-line-height * $base-font-size * 4;
       letter-spacing: -1px;
@@ -91,7 +88,7 @@
   }
 
   .page-link {
-    color: $brand-color;
+    color: #FFF;
     line-height: $base-line-height;
     display: inline;
     border: none;
@@ -192,7 +189,7 @@
 }
 
 .logo {
-  max-height: 5rem;
+  max-height: 10rem;
   float: left;
 
   @include media-query($on-palm) {
@@ -205,13 +202,48 @@
   }
 }
 
+#search-block {
+  background-image: url(/images/logos/mapcontours.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 25rem;
+  background-repeat: no-repeat;
+  display: block;
+  padding-top: 7rem;
+  justify-content: center;
+  /*align-items: center;*/
+  text-align: center;
+  object-fit: cover;
+  margin-bottom: 2rem;
+
+}
+
 .search-box {
   
   margin: auto; 
   width: auto;
-  display: inline;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   
 }
+
+input[type=text] {
+    margin-top: 1rem;
+    border: 2px solid $blue-highlight;
+    border-radius: 10px;
+    padding: 0.5rem;
+}
+
+input[type=submit] {
+    margin-top: 1rem;
+    border: 2px solid $brand-color;
+    border-radius: 10px;
+    background-color: $green-highlight;
+    color: white;
+    padding: 0.5rem;
+}
+
 
 /**
  * Site footer
@@ -346,21 +378,20 @@
   flex-wrap: wrap;
   justify-content: center;
   margin-top: $spacing-unit;
-  
 
 
-.btn-default {
-    top: 9px;
-    right: $spacing-unit / 2;
-    color: $brand-color;
-    background-color: $grey-color-light;
-    border: 1px solid $grey-color-light;
-    border-radius: 5px;
-    text-align: center;
-    margin-right: $spacing-unit;
-    font-weight: $base-font-weight * 1.5;
-    text-transform: uppercase;
-    margin-bottom: $spacing-unit * 0.5;
+    .btn-default {
+        top: 9px;
+        right: $spacing-unit / 2;
+        color: $brand-color;
+        background-color: $grey-color-light;
+        border: 5px solid $grey-color-light;
+        border-radius: 5px;
+        text-align: center;
+        margin-right: $spacing-unit;
+        font-weight: $base-font-weight * 1.5;
+        text-transform: uppercase;
+        margin-bottom: $spacing-unit * 0.5;
 
 
     }
@@ -388,6 +419,7 @@
  */
 .post-header {
   margin-bottom: $spacing-unit;
+  background-color: #FFF;
 
     >img {
               background-position: center;
@@ -404,12 +436,15 @@
 }
 
 .post-title {
+  /*font-family: $base-font-family;*/
+  text-transform: upprcase;
   @include relative-font-size(2.625);
   letter-spacing: -1px;
   line-height: 1;
 
   @include media-query($on-laptop) {
     @include relative-font-size(2.25);
+
   }
 }
 
