@@ -40,7 +40,7 @@ Only on street parking available.
   </div>
 
   <div class="card" id="landscape">
-    <img src="https://cdn.justaddapicnic.com/kent/outdoors/hilly_fields/hillyfields4.jpg" alt="Lots of swings and slide." class="img-fluid">
+    <img src="https://cdn.justaddapicnic.com/kent/outdoors/hilly_fields/hillyfields4.jpg" alt="Lots of swings and the slide at Hilly Fields Community Park." class="img-fluid">
   </div>
 </div>
 </div>
@@ -49,7 +49,11 @@ Only on street parking available.
 
 ### Close by...
 
-[The Strand Leisure Park](http://www.justaddapicnic.com/outdoors/kent/park/sandpit/2018/01/16/strand.html) is very close to this little park.
+[The Strand Leisure Park](http://www.justaddapicnic.com/outdoors/kent/park/sandpit/2018/01/16/strand.html) is very close to this little park, approximately a 10 minute walk (0.4 miles).
+
+[Grange Road Cemetery](/outdoors/kent/park/2018/08/22/grange-road.html) is a lovely green space with mature trees and a small children's play area.  It is only a 10 minute walk from Hilly Fields (0.4 miles).
+
+[Gillingham Park](https://justaddapicnic.com/outdoors/kent/park/2018/01/08/gillingham-park.html) is approximately 1 mile away from Hilly Fields and offers more opportunities for play and a wide paths perfect for bikes, scooter and rollerblading.
 
 Gillingham Town centre is approximately 1 mile away.
 

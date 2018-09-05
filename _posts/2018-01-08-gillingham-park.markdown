@@ -27,6 +27,10 @@ If you walk towards Gillingham town centre the is a High Street offering a numbe
 
 Darland Banks, a chalk nature reserve and Luton Rec are within a 20 minute walk; towards Corporation Street and then down Ash Tree Lane.
 
+[Hilly fields](https://justaddapicnic.com/outdoors/kent/park/2018/02/21/hilly-fields.html) offers a large open green space and some great play equipment and is just over 1 mile from Gilligham Park
+
+[Grange Road Cemetery](/outdoors/kent/park/2018/08/22/grange-road.html) a lovely open green space with a play area is just over 1 mile from the park.
+
 ## Gallery
 
 <div class="container">
