@@ -13,7 +13,11 @@ images:
 ---
 
 ## What's there?
-A great little park and playing fields close to Gillingham Town Centre and The Strand.  There is a good selection of play equipment for all ages to enjoy.
+A great little park and playing fields close to Gillingham Town Centre and [The Strand](https://justaddapicnic.com/outdoors/kent/park/sandpit/2018/01/16/strand.html).  There is a good selection of play equipment for all ages to enjoy.  The suspended trampolines are a hit with older children, whilst younger ones will love the little sandpit and smaller slide.  There are lots of natural climbing features around the park for children to explore and use their imaginations to create their own adventures.
+
+We found that this was a great place for sledging in the snowy weather, with some great banks and hills next to the playing fields.
+
+The playing fields offer a great place to fly kites, play ball games and enjoy your picnic.
 
 There are no public toilets here, please see the [Medway Council Website](https://www.medway.gov.uk/information/findmynearest.aspx?stype=36) for the closest public toilets.
 
@@ -62,5 +66,10 @@ Hilly Fields Community Park, Parr Avenue, Gillingham ME7 1UJ
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2489.64243528698!2d0.5549374163226908!3d51.39124942700906!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8cd824b7dc5d9%3A0xab7cdaaf12c66fce!2sHilly+Fields+Community+Park!5e0!3m2!1sen!2suk!4v1519221912117" width="300" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-
+### What to take
+* Picnic Blanket
+* Buckets and spades, for the sandpit
+* Balls, cricket or rounders sets
+* Kites
+* Frisbees
 
