@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 title:  "Maidstone Museum"
 date:   2018-01-02 09:48:04 +0000
