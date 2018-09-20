@@ -31,6 +31,8 @@ There is a small children's play area on the corner of Darnley Road, Strood, whi
 
 Strood town centre is only 10 minute walk away (less than 1 mile).
 
+There is a good play area on [Canal Road, Strood](/outdoors/kent/park/2018/05/08/canal-road-strood.html), opposite Strood train station, approximately 1 mile away.
+
 Rochester City centre is 1 mile away, where you will find the train station, [Rochester Castle](http://www.english-heritage.org.uk/visit/places/rochester-castle/), [Rochester Cathedral](https://justaddapicnic.com/indoors/kent/cathedral/2018/02/21/rochester-cathedral.html), [The Guildhall Museum](http://www.justaddapicnic.com/indoors/kent/museum/2018/01/02/guildhall_museum.html) and a wonderful variety of independent shops.  Along the High Street you will also find the [Rochester Visitors Center](https://www.visitmedway.org/getting-here/visitor-information-centre/) which also houses the [Huguenot Museum](http://huguenotmuseum.org/).
 
 [Rochester Esplande](https://justaddapicnic.com/outdoors/kent/park/2018/05/08/rochester-esplanade.html) is about 1 mile away, if you walk along the River. This park has a children's play area, formal gardens and some lovely shady spots.
