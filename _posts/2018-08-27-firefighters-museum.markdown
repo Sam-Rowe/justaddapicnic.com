@@ -25,7 +25,7 @@ Public toilets can be found inside Woodlands' Garden centre and there is plenty 
 #### Close by
 Wrotham Play area is under a 10 minute drive from the museum (3 miles).  There is some lovely play equipment here and it is a great spot to enjoy your picnic.
 
-[Trosley Country Park]() is under a 10 minute drive from the museum (3.8 miles). With miles of trails around the park this is a great place to stretch your legs and enjoy your picnic after your visit to the museum.
+[Trosley Country Park](/outdoors/kent/park/2018/08/27/trosley-park.html) is under a 10 minute drive from the museum (3.8 miles). With miles of trails around the park this is a great place to stretch your legs and enjoy your picnic after your visit to the museum.
 
 ## Gallery
 
