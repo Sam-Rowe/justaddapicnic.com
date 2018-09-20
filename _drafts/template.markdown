@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "Jackson's Field"
-date:   2018-09-27 09:18:04 +0000
+title:  "Victoria Gardens"
+date:   2018-09-17 10:18:04 +0000
 categories: [outdoors, kent, park]
-tag: Rochester
+tag: Chatham
 permalink: 
-excerpt: This large green space set on the hill offers some lovely formal gardens, large well equiped childrens play area, skate park and lots of space to play.
+excerpt: Perched on top of Fort Pitt Hill, overlooking the bend in the Medway River, here you can spread out your picnic blanket, sit back and watch the busy goings on below you.
 
 images: 
- - url: https://cdn.justaddapicnic.com/kent/outdoors/jacksons-field/jackson2.jpeg
-   alt: Younger children's climbing frame at Jackson's field
-   title: Jackson's Field
+ - url: https://cdn.justaddapicnic.com/kent/outdoors/victoria-gardens/victoria1.jpeg
+   alt: Large wooden arches looking out over Fort Pitt Hill and Victoria Gardens.
+   title: Victoria Gardens
 ---
 
 ## What's there?
@@ -26,31 +26,31 @@ images:
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/jacksons-field/jackson4.jpeg" alt="Jackson's field play equipment, stepping stones and tunnnel" class="img-fluid">
+        <img src=" https://cdn.justaddapicnic.com/kent/outdoors/victoria-gardens/victoria10.jpeg" alt="Children's climbing frame in the play area at Victoria Gardens" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/jacksons-field/jackson2.jpeg" alt="children's climbing frame at Jackson's Field." class="img-fluid">
+        <img src=" https://cdn.justaddapicnic.com/kent/outdoors/victoria-gardens/victoria3.jpeg" alt="View from the top of the hill at Victoria Gardens, looing out over the River Medway" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/jacksons-field/jackson3.jpeg" alt="GThe swings at jacksons field" class="img-fluid">
+        <img src=" https://cdn.justaddapicnic.com/kent/outdoors/victoria-gardens/victoria4.jpeg" alt="Children's swings and smaller climbing frame at Victoria Park" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/jacksons-field/jackson1.jpeg" alt="Children's climbing frame at Jacksons field" class="img-fluid">
+        <img src=" https://cdn.justaddapicnic.com/kent/outdoors/victoria-gardens/victoria9.jpeg" alt="Horsechestnut trees lining the footpath to the play area" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/jacksons-field/jackson6.jpeg" alt="Springy ride on character at Jacksons field" class="img-fluid">
+        <img src=" https://cdn.justaddapicnic.com/kent/outdoors/victoria-gardens/victoria6.jpeg" alt="THe slide on the climbing frame at victoria park" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/jacksons-field/jackson7.jpeg" alt="Climbing frame at jacksons field" class="img-fluid">
+        <img src=" https://cdn.justaddapicnic.com/kent/outdoors/victoria-gardens/victoria2.jpeg" alt="The scultpural wooden arches that look out over Fort Pitt Hill at Victoria Gardens" class="img-fluid">
       </div>
     </div>
 
