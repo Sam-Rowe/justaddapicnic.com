@@ -30,7 +30,7 @@ If your little ones require room to run around and burn off some energy there is
 
 Along the High Street you will also find the [Rochester Visitors Center](https://www.visitmedway.org/getting-here/visitor-information-centre/) which also houses the [Huguenot Museum](http://huguenotmuseum.org/). 
 
-[Jackson's Field]() and [Victoria Garden's](/outdoors/kent/park/2018/09/17/victoria-gardens.html) are approximately 1 mile away if you walk towards Chatham.  Both offer lovely green spaces and children's play equipment.
+[Jackson's Field](/outdoors/kent/park/2018/09/17/jacksons-field.html) and [Victoria Garden's](/outdoors/kent/park/2018/09/17/victoria-gardens.html) are approximately 1 mile away if you walk towards Chatham.  Both offer lovely green spaces and children's play equipment.
 
 [Baty's Marsh and Borstal Recreation Ground](https://justaddapicnic.com/outdoors/kent/park/2018/07/17/batys-marsh-borstal-rec.html) is 1.5 miles away from the Cathedral and offers a lovely open green space and children's play area.
 

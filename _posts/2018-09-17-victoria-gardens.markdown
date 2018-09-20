@@ -25,11 +25,11 @@ There are large horsechestnut trees that line the walkways close to the play are
 There is on-street pay and display parking on Fort Pitt Hill.  Chatham train station, and bus stops, are only a 5 minutes walk from the gardens. The closest public toilet can be found in Chatham train station or the Pentagon Shopping Centre, Chatham.
 
 #### Close by
-[Jackson's Field](#) is only a 5 minute walk away using public footpaths, here you will find a large childrens play area, skate park and large hilly green space great for flying kites.
+[Jackson's Field](/outdoors/kent/park/2018/09/17/jacksons-field.html) is only a 5 minute walk away using public footpaths, here you will find a large childrens play area, skate park and large hilly green space great for flying kites.
 
 Chatham town centre and the Pentagon Shopping Centre are 10 minute walk away.
 
-[Rochester Cathedral](/indoors/kent/cathedral/2018/02/21/rochester-cathedral.html), [Rochester Guildhall Museum](/indoors/kent/museum/2018/01/02/guildhall_museum.html) and [6 Poor Travellers House](#) are approximately 1 mile from Victoria Gardens.
+[Rochester Cathedral](/indoors/kent/cathedral/2018/02/21/rochester-cathedral.html), [Rochester Guildhall Museum](/indoors/kent/museum/2018/01/02/guildhall_museum.html) and 6 Poor Travellers House are approximately 1 mile from Victoria Gardens.
 
 ## Gallery
 

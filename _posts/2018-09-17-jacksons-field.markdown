@@ -28,7 +28,7 @@ There are no public toilets at this park, the closest ones can be found at Chath
 
 
 #### Close by
-[Victoria Gardens]() is only a 5 minute walk from Jackson's Field.  Here you will find another small play area, lovely views over the River Medway and conkers in the autumn.
+[Victoria Gardens](/outdoors/kent/park/2018/09/17/victoria-gardens.html) is only a 5 minute walk from Jackson's Field.  Here you will find another small play area, lovely views over the River Medway and conkers in the autumn.
 
 Chatham town center and the Pentagon Shopping Center are under 1 mile away (15 minute walk).
 
