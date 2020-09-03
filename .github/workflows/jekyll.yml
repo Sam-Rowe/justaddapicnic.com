@@ -9,13 +9,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1
-    - name: SonarCloud Scan
-      uses: SonarSource/sonarcloud-github-action@v1.2
-      env:
-        SONAR_TOKEN: secrets.SONAR_TOKEN
-      #with:
-        # Set the sonar.projectBaseDir analysis property
-        # projectBaseDir: # optional, default is .
     - name: Build the site in the jekyll/builder container
       run: |
         docker run \
