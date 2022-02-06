@@ -18,15 +18,15 @@ email: suggestions@justaddapicnic.com
 description: >- # this means to ignore newlines until "baseurl:"
   Fantastic days out where you just need to add a picnic.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: JustAddAPicnic
 github_username: https://github.com/Sam-Rowe/justaddapicnic.com
 disqus_shortname: 
 # Build settings
 markdown: kramdown
 theme: minima
-plugins:
-  - jekyll-feed
+# plugins:
+#   - jekyll-feed
 
 google_analytics: UA-XXXXXXXX-X # Sed during build to replace this with contents of environment variable 
 # Exclude from processing.
@@ -45,3 +45,4 @@ exclude:
 url: "https://justaddapicnic.com" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
+  - jekyll-feed
