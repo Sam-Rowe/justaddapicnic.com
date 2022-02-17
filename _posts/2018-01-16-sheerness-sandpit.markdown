@@ -36,7 +36,7 @@ Sheerness High Street and other local retailers offer an array of places to purc
 
 [Barton's Point Coastal Park](/outdoors/kent/park/2018/04/12/barton-point.html) is only 2 miles from this park and offers more great sand play areas, a large crabbing pool and more.
 
-[Queensborough](/outdoors/kent/park/2018/08/01/queensborough.html) and [Queensborough Lines Park](/outdoors/kent/park/2018/08/01/queensborough-lines.html) are aprroximately 3 miles away. 
+[Queenborough](/outdoors/kent/park/2018/08/01/Queenborough.html) and [Queenborough Lines Park](/outdoors/kent/park/2018/08/01/Queenborough-lines.html) are aprroximately 3 miles away. 
 
 ## Gallery
 
