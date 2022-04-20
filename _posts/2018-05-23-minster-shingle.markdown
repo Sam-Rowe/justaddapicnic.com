@@ -8,7 +8,7 @@ permalink:
 excerpt: This steep banked shingle beach can be driven on to and has a slipway for sail boats and wind surfers.
 
 images: 
- - url: https://cdn.justaddapicnic.com/kent/outdoors/minster-beach/shingle/shingle1.jpg
+ - url: https://justaddapicnic.com/kent/outdoors/minster-beach/shingle/shingle1.jpg
    alt: View of the shingle beach towards Sheerness
    title: Minster Shingle Beach
 ---
@@ -37,19 +37,19 @@ Sheerness town centre is just under 2 miles away, approximately 30-40 minute wal
 
     <div class="col-md-4">
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/minster-beach/shingle/shingle1.jpg" alt="View of the shingle beach towards Sheerness" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/minster-beach/shingle/shingle1.jpg" alt="View of the shingle beach towards Sheerness" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/minster-beach/shingle/shingle2.jpg" alt="View of the shingle beach out to the sea" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/minster-beach/shingle/shingle2.jpg" alt="View of the shingle beach out to the sea" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/minster-beach/shingle/shingle3.jpg" alt="view of the shingle beach towards Minster Leas Beach" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/minster-beach/shingle/shingle3.jpg" alt="view of the shingle beach towards Minster Leas Beach" class="img-fluid">
       </div>
     </div>
 

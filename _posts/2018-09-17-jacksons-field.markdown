@@ -8,7 +8,7 @@ permalink:
 excerpt: This large green space set on the hill offers some lovely formal gardens, large well equiped children's play area, skate park and lots of space to play.
 
 images: 
- - url: https://cdn.justaddapicnic.com/kent/outdoors/jacksons-field/jackson2.jpeg
+ - url: https://justaddapicnic.com/kent/outdoors/jacksons-field/jackson2.jpeg
    alt: Younger children's climbing frame at Jackson's field
    title: Jackson's Field
 ---
@@ -44,31 +44,31 @@ Rochester City Centre is 10-20 minute walk from the park where you can find the 
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/jacksons-field/jackson5.jpeg" alt="Jackson's field play equipment, stepping stones and tunnnel" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/jacksons-field/jackson5.jpeg" alt="Jackson's field play equipment, stepping stones and tunnnel" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/jacksons-field/jackson2.jpeg" alt="children's climbing frame at Jackson's Field." class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/jacksons-field/jackson2.jpeg" alt="children's climbing frame at Jackson's Field." class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/jacksons-field/jackson3.jpeg" alt="GThe swings at jacksons field" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/jacksons-field/jackson3.jpeg" alt="GThe swings at jacksons field" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/jacksons-field/jackson1.jpeg" alt="Children's climbing frame at Jacksons field" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/jacksons-field/jackson1.jpeg" alt="Children's climbing frame at Jacksons field" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/jacksons-field/jackson6.jpeg" alt="Springy ride on character at Jacksons field" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/jacksons-field/jackson6.jpeg" alt="Springy ride on character at Jacksons field" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/jacksons-field/jackson7.jpeg" alt="Climbing frame at jacksons field" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/jacksons-field/jackson7.jpeg" alt="Climbing frame at jacksons field" class="img-fluid">
       </div>
     </div>
 

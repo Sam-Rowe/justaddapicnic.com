@@ -8,7 +8,7 @@ permalink:
 excerpt: This park sits on the outskirts of Canterbury and offers a good range of play equipment, cheap parking and lots of open green space for running around or a spot of kite flying.
 
 images: 
- - url: https://cdn.justaddapicnic.com/kent/outdoors/victoria_mem_rec/vic1.jpg
+ - url: https://justaddapicnic.com/kent/outdoors/victoria_mem_rec/vic1.jpg
    alt: accessible swings and larger climbing frame in the background.
    title: Victoria Memorial Recreatino Ground
 ---
@@ -44,31 +44,31 @@ Dane John Gardens; a large manicured gardens with small childrens play area is n
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/victoria_mem_rec/vic3.jpg" alt="long rope swing in the fore-ground and climbing frames can be seen in the shade of the trees" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/victoria_mem_rec/vic3.jpg" alt="long rope swing in the fore-ground and climbing frames can be seen in the shade of the trees" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/victoria_mem_rec/vic2.jpg" alt="picnic benches and climbing equipment." class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/victoria_mem_rec/vic2.jpg" alt="picnic benches and climbing equipment." class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/victoria_mem_rec/vic5.jpg" alt="bouncy jeep and climbing frame in the distance" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/victoria_mem_rec/vic5.jpg" alt="bouncy jeep and climbing frame in the distance" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/victoria_mem_rec/vic4.jpg" alt="stepping stones, look out and play equipment set into the grassy bank" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/victoria_mem_rec/vic4.jpg" alt="stepping stones, look out and play equipment set into the grassy bank" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/victoria_mem_rec/vic7.jpg" alt="View across the large playing fields towards Canterbury Cathedral" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/victoria_mem_rec/vic7.jpg" alt="View across the large playing fields towards Canterbury Cathedral" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/victoria_mem_rec/vic1.jpg" alt="accessible swings and larger climbing frame in the background." class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/victoria_mem_rec/vic1.jpg" alt="accessible swings and larger climbing frame in the background." class="img-fluid">
       </div>
     </div>
 

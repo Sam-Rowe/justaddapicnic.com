@@ -8,7 +8,7 @@ permalink:
 excerpt: This is a little park nestled between Cliffe Road and Goddington Road in Strood.  Great for restless childen on the way home from shopping.
 
 images: 
- - url: https://cdn.justaddapicnic.com/kent/outdoors/goddington_park/goddington3.jpg
+ - url: https://justaddapicnic.com/kent/outdoors/goddington_park/goddington3.jpg
    alt: View of the climbing frame, picnic bences and football goal at the park.
    title: Goddington Play area.
 ---
@@ -35,19 +35,19 @@ Strood Town Centre and train station are about half a mile from the park.
 
     <div class="col-md-4">
       <div class="card">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/goddington_park/goddington1.jpg" alt="Swings at Goddington play area" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/goddington_park/goddington1.jpg" alt="Swings at Goddington play area" class="img-fluid">
       </div> 
     </div>
 
     <div class="col-md-4">
       <div class="card">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/goddington_park/goddington2.jpg" alt="Climbing frame and see-saw" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/goddington_park/goddington2.jpg" alt="Climbing frame and see-saw" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/goddington_park/goddington4.jpg" alt="Climbing frame with picnic benches and football goal in the distance." class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/goddington_park/goddington4.jpg" alt="Climbing frame with picnic benches and football goal in the distance." class="img-fluid">
       </div>
     </div>
 

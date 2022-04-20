@@ -8,7 +8,7 @@ permalink:
 excerpt: This large park sits between Dumpton Gap and Ramsgate along the cliff top.  It is a large open green space wth mature trees and a lovely children's play area. There are toilets and a cafe in the park.  The Italiante Glasshouse is located on the boarder of this park and is a beautiful spot to visit.
 
 images: 
- - url: https://cdn.justaddapicnic.com/kent/outdoors/king_george_park/king2.jpg
+ - url: https://justaddapicnic.com/kent/outdoors/king_george_park/king2.jpg
    alt: Wide green spaces in the King George VI Memorial Park, perfect for picnics and ball games
    title: King George VI Memorial Park
 ---
@@ -49,21 +49,21 @@ Viking Bay, Broadstairs is just over 1 mile away (25 minute walk along the coast
 
     <div class="col-md-6">
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/king_george_park/king4.jpg" alt="Shady walkway through the trees towards the children's play area at King George VI Memorial Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/king_george_park/king4.jpg" alt="Shady walkway through the trees towards the children's play area at King George VI Memorial Park" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/king_george_park/king1.jpg" alt="WIde green spaces as ou walk into the park" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/king_george_park/king1.jpg" alt="WIde green spaces as ou walk into the park" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-6">
       <div class="card" id="lanscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/king_george_park/king5.jpg" alt="The children's play area at King George VI Memorial park" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/king_george_park/king5.jpg" alt="The children's play area at King George VI Memorial park" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/king_george_park/king3.jpg" alt="The zipwire in the children's play area." class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/king_george_park/king3.jpg" alt="The zipwire in the children's play area." class="img-fluid">
       </div>
     </div>
 
@@ -77,20 +77,20 @@ Viking Bay, Broadstairs is just over 1 mile away (25 minute walk along the coast
 
     <div class="col-md-6">
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/king_george_park/glasshouse/glasshouse2.jpg" alt="The squirrel feeding box in the gardens outside the Italiante Glasshouse" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/king_george_park/glasshouse/glasshouse2.jpg" alt="The squirrel feeding box in the gardens outside the Italiante Glasshouse" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/king_george_park/glasshouse/glasshouse1.jpg" alt="The view of the Italiante Glasshouse from the front" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/king_george_park/glasshouse/glasshouse1.jpg" alt="The view of the Italiante Glasshouse from the front" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-6">
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/king_george_park/glasshouse/glasshouse5.jpg" alt="Inside teh Italiante Glasshouse, all the beautiful cacti and succulents" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/king_george_park/glasshouse/glasshouse5.jpg" alt="Inside teh Italiante Glasshouse, all the beautiful cacti and succulents" class="img-fluid">
       </div>
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/king_george_park/glasshouse/glasshouse4.jpg" alt="A side view of the Italiante Glasshouse and the surrounding gardens." class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/king_george_park/glasshouse/glasshouse4.jpg" alt="A side view of the Italiante Glasshouse and the surrounding gardens." class="img-fluid">
       </div>
     </div>
    </div>      

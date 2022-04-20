@@ -8,7 +8,7 @@ permalink:
 excerpt: This country park offers some fantastic cycle paths and trails around the beautiful countryside.  There is a cafe, toilets, large childrens play area and when the new building is completed there will also be indoor learning spaces and a Mining Museum too.
 
 images: 
- - url: https://cdn.justaddapicnic.com/kent/outdoors/betteshangerCP/bettes4.jpg
+ - url: https://justaddapicnic.com/kent/outdoors/betteshangerCP/bettes4.jpg
    alt: Viewing platform at Betteshanger Country Park
    title: Betteshanger Park 
 ---
@@ -36,21 +36,21 @@ Deal town centre and sea front are only a 10 minute drive from Betteshanger Park
 
     <div class="col-md-6">
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/betteshangerCP/bettes1.jpg" alt="Large wooden climbing frame and green tubular slide" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/betteshangerCP/bettes1.jpg" alt="Large wooden climbing frame and green tubular slide" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/betteshangerCP/bettes3.jpg" alt="Viewing platform" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/betteshangerCP/bettes3.jpg" alt="Viewing platform" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-6">
       <div class="card" id="lanscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/betteshangerCP/bettes2.jpg" alt="Climbing frame and basket swing" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/betteshangerCP/bettes2.jpg" alt="Climbing frame and basket swing" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/betteshangerCP/bettes5.jpg" alt="View of Tenants lake, with its beautiful blue waters and reeds" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/betteshangerCP/bettes5.jpg" alt="View of Tenants lake, with its beautiful blue waters and reeds" class="img-fluid">
       </div>
     </div>
 

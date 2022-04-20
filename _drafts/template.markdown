@@ -8,7 +8,7 @@ permalink:
 excerpt: 
 
 images: 
- - url: https://cdn.justaddapicnic.com/
+ - url: https://justaddapicnic.com/
    alt: 
    title:
 ---

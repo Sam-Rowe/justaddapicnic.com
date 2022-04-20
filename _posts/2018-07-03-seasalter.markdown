@@ -8,7 +8,7 @@ permalink:
 excerpt: This is a quiet beach close to Whitstable, it offers a long shingle beach and uniterupted views of Leysdown-on-Sea on the Isle of Sheppey.
 
 images: 
- - url: https://cdn.justaddapicnic.com/kent/outdoors/seasalter/seasalter1.jpg
+ - url: https://justaddapicnic.com/kent/outdoors/seasalter/seasalter1.jpg
    alt: View along Seasalter beach looking west towards Whitstable.
    title: Seasalter Beach
 ---
@@ -34,19 +34,19 @@ There is free parking and a well maintained toilet block on the Faversham Road b
 
     <div class="col-md-4">
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/seasalter/seasalter1.jpg" alt="Seasalter beach at low tide, looking to the East towards Whitstable" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/seasalter/seasalter1.jpg" alt="Seasalter beach at low tide, looking to the East towards Whitstable" class="img-fluid">
       </div> 
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/seasalter/seasalter2.jpg" alt="The mud and sand flats of Seasalter beach looking across to Leysdown-on-sea" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/seasalter/seasalter2.jpg" alt="The mud and sand flats of Seasalter beach looking across to Leysdown-on-sea" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/seasalter/seasalter3.jpg" alt="children enjoying the sandy flats as they explore for sea creatures." class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/seasalter/seasalter3.jpg" alt="children enjoying the sandy flats as they explore for sea creatures." class="img-fluid">
       </div>
     </div>
 

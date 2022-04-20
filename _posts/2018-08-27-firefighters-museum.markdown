@@ -8,7 +8,7 @@ permalink:
 excerpt: Tucked away at the back of Woodlands Garden Centre, the Kent Firefighters Museum displays lots of fascinating artefacts from firefighting history.  With an old fire engine to play in the kids imaginations will be ignited.
 
 images: 
- - url: https://cdn.justaddapicnic.com/kent/indoors/firefighters-museum/fire7.jpeg
+ - url: https://justaddapicnic.com/kent/indoors/firefighters-museum/fire7.jpeg
    alt: Fire Engine play equipment at Kent Firefighters museum
    title: Kent Firefighters Museum
 ---
@@ -35,31 +35,31 @@ Wrotham Play area is under a 10 minute drive from the museum (3 miles).  There i
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/indoors/firefighters-museum/fire1.jpeg" alt="Fire engine that children can play in at Kent Fire Fighters Museum" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/indoors/firefighters-museum/fire1.jpeg" alt="Fire engine that children can play in at Kent Fire Fighters Museum" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/indoors/firefighters-museum/fire3.jpeg" alt="One of the older fire engines on display at the museum" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/indoors/firefighters-museum/fire3.jpeg" alt="One of the older fire engines on display at the museum" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://cdn.justaddapicnic.com/kent/indoors/firefighters-museum/fire5.jpeg" alt="The amazing display of firefighting equipment and memoriabilia in the musem" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/indoors/firefighters-museum/fire5.jpeg" alt="The amazing display of firefighting equipment and memoriabilia in the musem" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/indoors/firefighters-museum/fire6.jpeg" alt="An engine from the 19th Century no housed at the Firefighters museum" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/indoors/firefighters-museum/fire6.jpeg" alt="An engine from the 19th Century no housed at the Firefighters museum" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/indoors/firefighters-museum/fire2.jpeg" alt="An old Dennis Engine on display at Kent Fire Fighters Museum" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/indoors/firefighters-museum/fire2.jpeg" alt="An old Dennis Engine on display at Kent Fire Fighters Museum" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/indoors/firefighters-museum/fire7.jpeg" alt="The chldren's climbing frame outside the Kent Firefighter's Museum" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/indoors/firefighters-museum/fire7.jpeg" alt="The chldren's climbing frame outside the Kent Firefighter's Museum" class="img-fluid">
       </div>
     </div>
 

@@ -8,7 +8,7 @@ permalink:
 excerpt: Tucked away in the centre of St. Mary's Island this park has some great equipment for the children to enjoy.  With the surrounding parkland and trails it's a great place for more confident riders to enjoy a bike ride too.
 
 images: 
- - url: https://cdn.justaddapicnic.com/kent/outdoors/shark-park/shark3.jpeg
+ - url: https://justaddapicnic.com/kent/outdoors/shark-park/shark3.jpeg
    alt: Smaller children's climbing frame at Shark Park
    title: Shark Park, St. Mary's Island
 ---
@@ -39,31 +39,31 @@ There are several buses serving St. Mary's Island and [Chatham Dockside](https:/
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/shark-park/shark2.jpeg" alt="semi-circular swing set at Shark Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/shark-park/shark2.jpeg" alt="semi-circular swing set at Shark Park" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/shark-park/shark1.jpeg" alt="Mulit-use games court at Shark Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/shark-park/shark1.jpeg" alt="Mulit-use games court at Shark Park" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/shark-park/shark3.jpeg" alt="Younger children's climbing frame and swings at Shark Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/shark-park/shark3.jpeg" alt="Younger children's climbing frame and swings at Shark Park" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/shark-park/shark4.jpeg" alt="Ping-pong table at Shark Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/shark-park/shark4.jpeg" alt="Ping-pong table at Shark Park" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/shark-park/shark6.jpeg" alt="Picnic benches in the park-land around Shark Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/shark-park/shark6.jpeg" alt="Picnic benches in the park-land around Shark Park" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/shark-park/shark5.jpeg" alt="Trails and open green space to enjoy outside Shark Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/shark-park/shark5.jpeg" alt="Trails and open green space to enjoy outside Shark Park" class="img-fluid">
       </div>
     </div>
 

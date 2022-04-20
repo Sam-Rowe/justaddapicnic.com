@@ -8,7 +8,7 @@ permalink:
 excerpt: Just behind the main shopping precinct in Dartford you will find the oasis that is Darford Central Park.  It has a large childrens play area (including water play), skate park, cafe, open green spaces and stunning manicured gardens for everyone to enjoy.
 
 images: 
- - url: https://cdn.justaddapicnic.com/kent/outdoors/dartford_central_park/central7.jpg
+ - url: https://justaddapicnic.com/kent/outdoors/dartford_central_park/central7.jpg
    alt: Swing sets in the children's play area
    title: Dartford Central Park
 ---
@@ -47,31 +47,31 @@ For more information visit [Dartford Councils Website](https://www.dartford.gov.
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/dartford_central_park/central2.jpg" alt="Large rope pyramidal climbing frame" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/dartford_central_park/central2.jpg" alt="Large rope pyramidal climbing frame" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/dartford_central_park/central1.jpg" alt="View of the play area from the cafe" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/dartford_central_park/central1.jpg" alt="View of the play area from the cafe" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/dartford_central_park/central4.jpg" alt="Some of the ramps in the skate park" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/dartford_central_park/central4.jpg" alt="Some of the ramps in the skate park" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/dartford_central_park/central5.jpg" alt="Beautiful bandstand" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/dartford_central_park/central5.jpg" alt="Beautiful bandstand" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/dartford_central_park/central6.jpg" alt="The splash area next to the cafe" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/dartford_central_park/central6.jpg" alt="The splash area next to the cafe" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/dartford_central_park/central3.jpg" alt="Merry-go-round style swing and climbing frame in the distance" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/dartford_central_park/central3.jpg" alt="Merry-go-round style swing and climbing frame in the distance" class="img-fluid">
       </div>
     </div>
 
@@ -85,12 +85,12 @@ For more information visit [Dartford Councils Website](https://www.dartford.gov.
   <div class="row">
     <div class="col-md-6">
       <div class="card">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/dartford_central_park/brooklands1.jpg" alt="Brooklands fishing lake" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/dartford_central_park/brooklands1.jpg" alt="Brooklands fishing lake" class="img-fluid">
       </div>
     </div>
     <div class="col-md-6">
       <div class="card">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/dartford_central_park/brooklands2.jpg" alt="Brooklands fishing lake" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/dartford_central_park/brooklands2.jpg" alt="Brooklands fishing lake" class="img-fluid">
       </div>  
     </div>
   </div>
@@ -102,12 +102,12 @@ For more information visit [Dartford Councils Website](https://www.dartford.gov.
   <div class="row">
     <div class="col-md-6">
       <div class="card">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/dartford_central_park/museum1.jpg" alt="Displays inside the museum" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/dartford_central_park/museum1.jpg" alt="Displays inside the museum" class="img-fluid">
       </div>
     </div>
     <div class="col-md-6">
       <div class="card">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/dartford_central_park/museum2.jpg" alt="Displays inside the museum" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/dartford_central_park/museum2.jpg" alt="Displays inside the museum" class="img-fluid">
       </div>  
     </div>
   </div>

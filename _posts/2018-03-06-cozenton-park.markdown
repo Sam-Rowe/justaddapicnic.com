@@ -7,7 +7,7 @@ tag: Gillingham
 permalink: 
 excerpt: Located just behind Splashes Leisure Centre, this park has a fantastic skate park, wide open spaces for ball games and some lovely play equipment for the little ones.  In Spring look out for a wave of multicoloured Crocus's alongside the main footpath.
 images:
- - url: https://cdn.justaddapicnic.com/kent/outdoors/cozenton_park/cozenton1.jpg 
+ - url: https://justaddapicnic.com/kent/outdoors/cozenton_park/cozenton1.jpg 
    alt: Skate park ramps and grind bars
    title: Cozenton Park, Gillingham
 ---
@@ -36,31 +36,31 @@ Rainham High Street is less than a mile away should you need any picnic supplies
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/cozenton_park/cozenton4.jpg" alt="Childrens' play equipment" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/cozenton_park/cozenton4.jpg" alt="Childrens' play equipment" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/cozenton_park/cozenton6.jpg" alt="View across the field to the skate park and leisure centre" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/cozenton_park/cozenton6.jpg" alt="View across the field to the skate park and leisure centre" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/cozenton_park/cozenton3.jpg" alt="Skate park ramps" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/cozenton_park/cozenton3.jpg" alt="Skate park ramps" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/cozenton_park/cozenton5.jpg" alt="Children's play equipment" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/cozenton_park/cozenton5.jpg" alt="Children's play equipment" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/cozenton_park/cozenton7.jpg" alt="Beautiful Spring Crocus's" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/cozenton_park/cozenton7.jpg" alt="Beautiful Spring Crocus's" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/cozenton_park/cozenton1.jpg" alt="Skate park ramps" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/cozenton_park/cozenton1.jpg" alt="Skate park ramps" class="img-fluid">
       </div>
     </div>
 

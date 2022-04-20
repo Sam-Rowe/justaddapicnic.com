@@ -7,7 +7,7 @@ tags: Sheerness
 permalink: 
 excerpt: A fantastic sandpit park where you can spend several hours enjoying the lovely weather.  When you get bored of the sand there is a great splash pool and the beach is close by too.
 images:
- - url: https://cdn.justaddapicnic.com/kent/outdoors/sheerness_sandpit/sheerness1.jpg
+ - url: https://justaddapicnic.com/kent/outdoors/sheerness_sandpit/sheerness1.jpg
    alt: The sandpit and climbing frames.
    title: Sheerness Sandpit
 ---
@@ -46,31 +46,31 @@ Sheerness High Street and other local retailers offer an array of places to purc
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/sheerness_sandpit/sheerness5.jpg" alt="Wooden train climbing frame at the splash pool" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/sheerness_sandpit/sheerness5.jpg" alt="Wooden train climbing frame at the splash pool" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/sheerness_sandpit/sheerness4.jpg" alt="Train climbing frame and slide with the pool in the fore-ground." class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/sheerness_sandpit/sheerness4.jpg" alt="Train climbing frame and slide with the pool in the fore-ground." class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/sheerness_sandpit/sheerness1.jpg" alt="Wide view of the hole sandpit and all of the fantastic play equipment." class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/sheerness_sandpit/sheerness1.jpg" alt="Wide view of the hole sandpit and all of the fantastic play equipment." class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/sheerness_sandpit/sheerness2.jpg" alt="Pirate ship climbing frame in the main sand pit" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/sheerness_sandpit/sheerness2.jpg" alt="Pirate ship climbing frame in the main sand pit" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/sheerness_sandpit/sheerness6.jpg"  alt="Skate half-pipe next to the splash pool" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/sheerness_sandpit/sheerness6.jpg"  alt="Skate half-pipe next to the splash pool" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/sheerness_sandpit/sheerness3.jpg" alt="Toddler climbing frame and swings int he background climbing frame"  class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/sheerness_sandpit/sheerness3.jpg" alt="Toddler climbing frame and swings int he background climbing frame"  class="img-fluid">
       </div>
     </div>
 

@@ -8,7 +8,7 @@ permalink:
 excerpt: Sat high on the North Downs in Kent this beautiful park offers spectacular views from several spots around the park. There are trails for all abilities, a cafe, toilets and a small children's play area to enjoy.
 
 images: 
- - url: https://cdn.justaddapicnic.com/kent/outdoors/trosley-park/trosley1.jpeg
+ - url: https://justaddapicnic.com/kent/outdoors/trosley-park/trosley1.jpeg
    alt: Trosley COuntry Park's Visitors Centre
    title: Trosley Country Park
 ---
@@ -41,31 +41,31 @@ For more information about Trosley Country Park please visit the [Kent Country P
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/trosley-park/trosley2.jpeg" alt="The childrens play area at Trosley Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/trosley-park/trosley2.jpeg" alt="The childrens play area at Trosley Park" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/trosley-park/trosley1.jpeg" alt="The undercover seating area and toilets by the cafe at Trosley Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/trosley-park/trosley1.jpeg" alt="The undercover seating area and toilets by the cafe at Trosley Park" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/trosley-park/trosley8.jpeg" alt="Some of the trim trail equipment at Trosley Country Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/trosley-park/trosley8.jpeg" alt="Some of the trim trail equipment at Trosley Country Park" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/trosley-park/trosley5.jpeg" alt="View across the North Downs as seen from Trosley Country Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/trosley-park/trosley5.jpeg" alt="View across the North Downs as seen from Trosley Country Park" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/trosley-park/trosley4.jpeg" alt="A clearing in the wooded area with branches and tree trunks to play on" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/trosley-park/trosley4.jpeg" alt="A clearing in the wooded area with branches and tree trunks to play on" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/trosley-park/trosley7.jpeg" alt="The wide gravel paths that allow easy access on the Woodland Walk at Trosley Country Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/trosley-park/trosley7.jpeg" alt="The wide gravel paths that allow easy access on the Woodland Walk at Trosley Country Park" class="img-fluid">
       </div>
     </div>
 

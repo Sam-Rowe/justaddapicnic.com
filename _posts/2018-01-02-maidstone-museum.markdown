@@ -7,7 +7,7 @@ tags: Maidstone
 permalink: 
 excerpt: An eclectic mix of Maidstone based memorabilia from dinosaur fossils to World War 2 medals and uniforms.  Trails to follow, costumes to try on, ancient artifacts and tools and a dinosaur to hunt.
 images:
- - url: https://cdn.justaddapicnic.com/kent/indoors/maidstone_museum/Maidstone_Museum4.jpg
+ - url: https://justaddapicnic.com/kent/indoors/maidstone_museum/Maidstone_Museum4.jpg
    alt: T-Rex from Maidstone Museum
    title: Maidstone Museum
 ---
@@ -34,31 +34,31 @@ If you looing for somewhere a little quieter to eat your lunch the river is a sh
 
 <div class="col-md-4">
   <div class="card" id="portrait">
-    <img src="https://cdn.justaddapicnic.com/kent/indoors/maidstone_museum/Maidstone_Museum1.jpg" alt="A Solomon Island Canoe from the 19th century" class="img-fluid">
+    <img src="https://justaddapicnic.com/kent/indoors/maidstone_museum/Maidstone_Museum1.jpg" alt="A Solomon Island Canoe from the 19th century" class="img-fluid">
   </div>
 
   <div class="card" id="landscape">
-    <img src="https://cdn.justaddapicnic.com/kent/indoors/maidstone_museum/Maidstone_Museum5.jpg" alt="A display of clothing through time, showing how fashions have changed." class="img-fluid">
+    <img src="https://justaddapicnic.com/kent/indoors/maidstone_museum/Maidstone_Museum5.jpg" alt="A display of clothing through time, showing how fashions have changed." class="img-fluid">
   </div>
 </div>
 
 <div class="col-md-4">
   <div class="card" id="portrait">
-    <img src="https://cdn.justaddapicnic.com/kent/indoors/maidstone_museum/Maidstone_Museum7.jpg" alt="The Maidstone Mummy" class="img-fluid">
+    <img src="https://justaddapicnic.com/kent/indoors/maidstone_museum/Maidstone_Museum7.jpg" alt="The Maidstone Mummy" class="img-fluid">
   </div>
 
   <div class="card" id="landscape">
-    <img src="https://cdn.justaddapicnic.com/kent/indoors/maidstone_museum/Maidstone_Museum2.jpg" alt="Discover the human body and how the skeleton works" class="img-fluid">
+    <img src="https://justaddapicnic.com/kent/indoors/maidstone_museum/Maidstone_Museum2.jpg" alt="Discover the human body and how the skeleton works" class="img-fluid">
   </div>
 </div>
 
 <div class="col-md-4">
   <div class="card" id="portrait">
-    <img src="https://cdn.justaddapicnic.com/kent/indoors/maidstone_museum/Maidstone_Museum8.jpg" alt="A cannon" class="img-fluid">
+    <img src="https://justaddapicnic.com/kent/indoors/maidstone_museum/Maidstone_Museum8.jpg" alt="A cannon" class="img-fluid">
   </div>
 
   <div class="card" id="landscape">
-    <img src="https://cdn.justaddapicnic.com/kent/indoors/maidstone_museum/Maidstone_Museum9.jpg" alt="the outside of the museum" class="img-fluid">
+    <img src="https://justaddapicnic.com/kent/indoors/maidstone_museum/Maidstone_Museum9.jpg" alt="the outside of the museum" class="img-fluid">
   </div>
 </div>
 

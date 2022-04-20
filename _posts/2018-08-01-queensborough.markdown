@@ -9,7 +9,7 @@ permalink:
 excerpt: Queenborough is a beautiful little fishing town on the Isle of Sheppey.  It has many historic naval buildings, pubs, a shoreline, marina and a lovely little play area close to the train station.
 
 images:
- - url: https://cdn.justaddapicnic.com/kent/outdoors/Queenborough/queens1.jpg
+ - url: https://justaddapicnic.com/kent/outdoors/Queenborough/queens1.jpg
    alt: Queenborough shoreline at low tide, perfect for looking for crabs and other sea beasties
    title: Queenborough
 ---
@@ -39,31 +39,31 @@ There are public toilets in Queenborough at the beach end of the High Street.  T
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/Queenborough/queens3.jpg" alt="Fishing and pleasure boats in the marina at Queenborough Creek" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/Queenborough/queens3.jpg" alt="Fishing and pleasure boats in the marina at Queenborough Creek" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/Queenborough/castle-park/castle4.jpg" alt="The plaque and seating area at the top of Castle Park, Queenborough where Queenborough Castle once stood" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/Queenborough/castle-park/castle4.jpg" alt="The plaque and seating area at the top of Castle Park, Queenborough where Queenborough Castle once stood" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/Queenborough/castle-park/castle2.jpg" alt="The swings and climbing frame at Queenborough Castle Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/Queenborough/castle-park/castle2.jpg" alt="The swings and climbing frame at Queenborough Castle Park" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/Queenborough/castle-park/castle1.jpg" alt="seated round-a-bout and clibing frame at Castle Park, Queenborough" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/Queenborough/castle-park/castle1.jpg" alt="seated round-a-bout and clibing frame at Castle Park, Queenborough" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/Queenborough/castle-park/castle3.jpg" alt="The climbing frame and large grassy area at Castle Park, Queenborough" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/Queenborough/castle-park/castle3.jpg" alt="The climbing frame and large grassy area at Castle Park, Queenborough" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/Queenborough/queens2.jpg" alt="The Guildhall in Queenborough, now houses a small museum" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/Queenborough/queens2.jpg" alt="The Guildhall in Queenborough, now houses a small museum" class="img-fluid">
       </div>
     </div>
 

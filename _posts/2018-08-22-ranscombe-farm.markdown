@@ -8,7 +8,7 @@ permalink:
 excerpt: Ranscombe Farm Nature Reserve is located between the high speed railway line and Cuxton.  This piece of wild land holds ancient trees, meadows and adventures waiting to be had.
 
 images: 
- - url: https://cdn.justaddapicnic.com/kent/outdoors/ranscombe-farm/ranscombe1.jpeg
+ - url: https://justaddapicnic.com/kent/outdoors/ranscombe-farm/ranscombe1.jpeg
    alt: A clearing in the woods at Ranscombe Farm Nature Reserve
    title: Ranscombe Farm Nature Reserve
 ---
@@ -34,31 +34,31 @@ Strood Town centre is just over 2 miles away and offers a good selection of shop
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/ranscombe-farm/ranscombe3.jpeg" alt="narrow path through the wood at Ranscombe Farm Nature Reserve" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/ranscombe-farm/ranscombe3.jpeg" alt="narrow path through the wood at Ranscombe Farm Nature Reserve" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/ranscombe-farm/ranscombe2.jpeg" alt="View from the meadow, at Ranscombe Farm, across Cuxton" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/ranscombe-farm/ranscombe2.jpeg" alt="View from the meadow, at Ranscombe Farm, across Cuxton" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/ranscombe-farm/ranscombe5.jpeg" alt="Beautiful Blackberries ready in the late summer in Ranscombe Farm Nature Reserve" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/ranscombe-farm/ranscombe5.jpeg" alt="Beautiful Blackberries ready in the late summer in Ranscombe Farm Nature Reserve" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/ranscombe-farm/ranscombe6.jpeg" alt="Narrow path through Ranscombe Farm Nature reserve" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/ranscombe-farm/ranscombe6.jpeg" alt="Narrow path through Ranscombe Farm Nature reserve" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/ranscombe-farm/ranscombe8.jpeg" alt="Tall old trees and bramble hedges lining the path in a clearing in Ranscombe Farm Nature Reserve." class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/ranscombe-farm/ranscombe8.jpeg" alt="Tall old trees and bramble hedges lining the path in a clearing in Ranscombe Farm Nature Reserve." class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/ranscombe-farm/ranscombe7.jpeg" alt="View of the Medway Bridge across the meadow at Ranscombe Farm Nature Reserve." class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/ranscombe-farm/ranscombe7.jpeg" alt="View of the Medway Bridge across the meadow at Ranscombe Farm Nature Reserve." class="img-fluid">
       </div>
     </div>
 

@@ -8,7 +8,7 @@ permalink:
 excerpt: This is a lovely little park on the outskirts of Cliffe Woods village.  There are two play areas here with some permanent goal posts for your enjoyment.
 
 images: 
- - url: https://cdn.justaddapicnic.com/kent/outdoors/cliffe_woods/cliffe-woods1.jpg
+ - url: https://justaddapicnic.com/kent/outdoors/cliffe_woods/cliffe-woods1.jpg
    alt: Play equipment for older, more able children
    title: Cliffe Woods Recreation Ground
 ---
@@ -38,19 +38,19 @@ Cliffe Pools [RSPB reserve](/outdoors/kent/marsh/2018/08/22/cliffe-marshes.html)
 
     <div class="col-md-4">
       <div class="card">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/cliffe_woods/cliffe-woods1.jpg" alt="play equipment for the older children" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/cliffe_woods/cliffe-woods1.jpg" alt="play equipment for the older children" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/cliffe_woods/cliffe-woods2.jpg" alt="large playing fields and football pitches." class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/cliffe_woods/cliffe-woods2.jpg" alt="large playing fields and football pitches." class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/cliffe_woods/cliffe-woods3.jpg" alt="Gated play area with swings and climbing frames." class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/cliffe_woods/cliffe-woods3.jpg" alt="Gated play area with swings and climbing frames." class="img-fluid">
       </div>
     </div>
 

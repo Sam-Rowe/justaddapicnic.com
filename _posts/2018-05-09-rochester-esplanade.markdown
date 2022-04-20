@@ -8,7 +8,7 @@ permalink:
 excerpt: This lovely green space and play area, along the River Medway in the shadow of Rochester Castle, is the perfect place to relax after shopping or visiting some of Rochester's many attractions.
 
 images: 
- - url: https://cdn.justaddapicnic.com/kent/outdoors/rochester_esplanade/esplanade4.jpg
+ - url: https://justaddapicnic.com/kent/outdoors/rochester_esplanade/esplanade4.jpg
    alt: Grassy park with shady trees along the River Medway
    title: Rochester Esplanade 
 ---
@@ -38,31 +38,31 @@ Rochester City Centre is about 5 minute walk from the park where you can find th
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/rochester_esplanade/esplanade1.jpg" alt="Large climbing frame and picnic tables, swings in the distance." class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/rochester_esplanade/esplanade1.jpg" alt="Large climbing frame and picnic tables, swings in the distance." class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/rochester_esplanade/esplanade3.jpg" alt="View of the grassy areas along the esplanade" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/rochester_esplanade/esplanade3.jpg" alt="View of the grassy areas along the esplanade" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/rochester_esplanade/esplanade7.jpg" alt="View across the River Medway towards the Rochester Bridges and Strood." class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/rochester_esplanade/esplanade7.jpg" alt="View across the River Medway towards the Rochester Bridges and Strood." class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/rochester_esplanade/esplanade6.jpg" alt="The formal gardens" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/rochester_esplanade/esplanade6.jpg" alt="The formal gardens" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/rochester_esplanade/esplanade5.jpg" alt="The outdoor gym" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/rochester_esplanade/esplanade5.jpg" alt="The outdoor gym" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/rochester_esplanade/esplanade2.jpg" alt="Smaller children's climbing frame." class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/rochester_esplanade/esplanade2.jpg" alt="Smaller children's climbing frame." class="img-fluid">
       </div>
     </div>
 

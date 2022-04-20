@@ -8,7 +8,7 @@ permalink:
 excerpt: This is a small museum set in the oldest building in gravesend.  It documents the buidlings history and the changes of use it has undergone over nearly 1000 years.
 
 images: 
- - url: https://cdn.justaddapicnic.com/kent/indoors/milton_chantry/milton5.jpg
+ - url: https://justaddapicnic.com/kent/indoors/milton_chantry/milton5.jpg
    alt: The outside of Milton Chantry
    title: Milton Chantry
 ---
@@ -33,21 +33,21 @@ Gravesend Town Centre is a short walk from Milton Chantry.
 
     <div class="col-md-6">
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/indoors/milton_chantry/milton2.jpg" alt="Information regarding the change of use of the building over the years" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/indoors/milton_chantry/milton2.jpg" alt="Information regarding the change of use of the building over the years" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/indoors/milton_chantry/milton1.jpg" alt="Room showing some of the treasures found within the Chantry" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/indoors/milton_chantry/milton1.jpg" alt="Room showing some of the treasures found within the Chantry" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-6">
       <div class="card" id="lanscape">
-        <img src="https://cdn.justaddapicnic.com/kent/indoors/milton_chantry/milton4.jpg" alt="Artifacts from the surrounding area including roman and saxon items" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/indoors/milton_chantry/milton4.jpg" alt="Artifacts from the surrounding area including roman and saxon items" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/indoors/milton_chantry/milton3.jpg" alt="Outside of Milton Chantry" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/indoors/milton_chantry/milton3.jpg" alt="Outside of Milton Chantry" class="img-fluid">
       </div>
     </div>
   </div>      

@@ -9,7 +9,7 @@ permalink:
 excerpt: This is a quiet park over looking the Sheppey Bridge and surrounding countryside.  There is some great play equipment here and lovely walks across the hill and into the marshland.
 
 images: 
- - url: https://cdn.justaddapicnic.com/kent/outdoors/Queenborough/lines/lines7.jpg
+ - url: https://justaddapicnic.com/kent/outdoors/Queenborough/lines/lines7.jpg
    alt: Views across the marshland and Medway and Swale Rivers from Queenborough Lines park
    title: Queenborough Lines Park
 ---
@@ -43,31 +43,31 @@ The paths through the marsh are not suitable for pushchairs and we advise taking
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/Queenborough/lines/lines2.jpg" alt="Acoustic mirrors and views across the river towards the Sheppey Bridge" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/Queenborough/lines/lines2.jpg" alt="Acoustic mirrors and views across the river towards the Sheppey Bridge" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/Queenborough/lines/lines1.jpg" alt="Multi-use games court at Queenborough Lines Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/Queenborough/lines/lines1.jpg" alt="Multi-use games court at Queenborough Lines Park" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/Queenborough/lines/lines3.jpg" alt="Outdoor gym equipment at Queenborough lines Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/Queenborough/lines/lines3.jpg" alt="Outdoor gym equipment at Queenborough lines Park" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/Queenborough/lines/lines4.jpg" alt="Large Spherical climbing frame and slide going down the grassy bank" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/Queenborough/lines/lines4.jpg" alt="Large Spherical climbing frame and slide going down the grassy bank" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/Queenborough/lines/lines6.jpg" alt="A lone tree on top of the hill at Queenborough Lines Park looking out over the marshland" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/Queenborough/lines/lines6.jpg" alt="A lone tree on top of the hill at Queenborough Lines Park looking out over the marshland" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/Queenborough/lines/lines5.jpg" alt="Walk amoung the wildflowers and across the hill at Queenborough Lines Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/Queenborough/lines/lines5.jpg" alt="Walk amoung the wildflowers and across the hill at Queenborough Lines Park" class="img-fluid">
       </div>
     </div>
 

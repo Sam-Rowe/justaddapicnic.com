@@ -8,7 +8,7 @@ permalink:
 excerpt: With a public slipway, shingle beach, free parking and super play area Hampton will keep you busy, for most of the day.  When you feel like you need something different Herne Bay is only around the corner.
 
 images: 
- - url: https://cdn.justaddapicnic.com/kent/outdoors/hampton/hampton5.jpg
+ - url: https://justaddapicnic.com/kent/outdoors/hampton/hampton5.jpg
    alt: View across Hampton Park showing the range of play equipment on offer
    title: Hampton Park
 ---
@@ -35,31 +35,31 @@ In the opposite direction you can also cycle or walk along the coast to [Tankert
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/hampton/hampton2.jpg" alt="Hampton play area showing teh swings, climbing frame and roundabout" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/hampton/hampton2.jpg" alt="Hampton play area showing teh swings, climbing frame and roundabout" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/hampton/hampton1.jpg" alt="Hampton play area with a view of the circular swing set and basket ball court." class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/hampton/hampton1.jpg" alt="Hampton play area with a view of the circular swing set and basket ball court." class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/hampton/hampton4.jpg" alt="Hampton Beach and slipway" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/hampton/hampton4.jpg" alt="Hampton Beach and slipway" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/hampton/hampton3.jpg" alt="Hampton Parks boat themed sandpit play area" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/hampton/hampton3.jpg" alt="Hampton Parks boat themed sandpit play area" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/hampton/hampton6.jpg" alt="Play equipment at Hampton Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/hampton/hampton6.jpg" alt="Play equipment at Hampton Park" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/hampton/hampton5.jpg" alt="View across Hampton Park showing a range of play equipment." class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/hampton/hampton5.jpg" alt="View across Hampton Park showing a range of play equipment." class="img-fluid">
       </div>
     </div>
 

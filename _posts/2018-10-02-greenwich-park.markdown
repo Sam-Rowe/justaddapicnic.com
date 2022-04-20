@@ -8,7 +8,7 @@ permalink:
 excerpt: The spectacular Greenwich Park sits on a hill overlooking the Thames and Greater London.  With the Greenwich Meridian Line, The Royal Observatory and National Maritime Museum within in its boundaries this park is a wonderful place to visit any time of year.
 
 images: 
- - url: https://cdn.justaddapicnic.com/london/outdoors/greenwich-park/greenwich7.jpeg
+ - url: https://justaddapicnic.com/london/outdoors/greenwich-park/greenwich7.jpeg
    alt: View of the Queen's House and London Skyline in the distance.
    title: Greenwich Park
 ---
@@ -63,31 +63,31 @@ A short walk away
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/london/outdoors/greenwich-park/greenwich5.jpeg" alt="The boating lake at Greenwich Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/london/outdoors/greenwich-park/greenwich5.jpeg" alt="The boating lake at Greenwich Park" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/london/outdoors/greenwich-park/greenwich1.jpeg" alt="View of the old Naval College and London Skyline from Greenwich Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/london/outdoors/greenwich-park/greenwich1.jpeg" alt="View of the old Naval College and London Skyline from Greenwich Park" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://cdn.justaddapicnic.com/london/outdoors/greenwich-park/greenwich6.jpeg" alt="Willow tunnels and play equipment in the play area at Greenwich Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/london/outdoors/greenwich-park/greenwich6.jpeg" alt="Willow tunnels and play equipment in the play area at Greenwich Park" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/london/outdoors/greenwich-park/greenwich2.jpeg" alt="view of the Royal Observatory at from Greenwich Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/london/outdoors/greenwich-park/greenwich2.jpeg" alt="view of the Royal Observatory at from Greenwich Park" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/london/outdoors/greenwich-park/greenwich4.jpeg" alt="The cafe found in the Play area at Greenwich Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/london/outdoors/greenwich-park/greenwich4.jpeg" alt="The cafe found in the Play area at Greenwich Park" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/london/outdoors/greenwich-park/greenwich3.jpeg" alt="One of the clinmbing frames in the play area at Greenwich Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/london/outdoors/greenwich-park/greenwich3.jpeg" alt="One of the clinmbing frames in the play area at Greenwich Park" class="img-fluid">
       </div>
     </div>
 

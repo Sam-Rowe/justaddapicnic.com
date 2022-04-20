@@ -8,7 +8,7 @@ permalink:
 excerpt: Whitstable is famous for its' oysters and traditional weather boarded fishing huts. It has a lovely shingle beach and a quirky high street packed with local retailers.
 
 images: 
- - url: https://cdn.justaddapicnic.com/kent/outdoors/whitstable/whitstable1.jpg
+ - url: https://justaddapicnic.com/kent/outdoors/whitstable/whitstable1.jpg
    alt: beach huts and fishing huts on Whitstable sea front
    title: Whitstable Beach and Town
 ---
@@ -46,31 +46,31 @@ Whitstable train station is located half a mile from the sea front (10-15 minute
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/whitstable/whitstable2.jpg" alt="View of the shingle beach and sea at Whitstable" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/whitstable/whitstable2.jpg" alt="View of the shingle beach and sea at Whitstable" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/whitstable/whitstable3.jpg" alt="Fishing oats brought up on to the shingle at Whitstable beach" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/whitstable/whitstable3.jpg" alt="Fishing oats brought up on to the shingle at Whitstable beach" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/whitstable/whitstable4.jpg" alt="Whitstable shingle beach and fishing boats" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/whitstable/whitstable4.jpg" alt="Whitstable shingle beach and fishing boats" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/whitstable/whitstable5.jpg" alt="Whitstable town centre shops and high street" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/whitstable/whitstable5.jpg" alt="Whitstable town centre shops and high street" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/whitstable/whitstable7.jpg" alt="Beach huts and fishing huts right on Whitstable beach" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/whitstable/whitstable7.jpg" alt="Beach huts and fishing huts right on Whitstable beach" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://cdn.justaddapicnic.com/kent/outdoors/whitstable/whitstable6.jpg" alt="The beautiful shingle beach at whitstable and oyster beds in the distance" class="img-fluid">
+        <img src="https://justaddapicnic.com/kent/outdoors/whitstable/whitstable6.jpg" alt="The beautiful shingle beach at whitstable and oyster beds in the distance" class="img-fluid">
       </div>
     </div>
 
