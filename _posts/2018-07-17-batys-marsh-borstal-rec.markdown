@@ -8,7 +8,7 @@ permalink:
 excerpt: This location offers a small children's play area, 2 large playing fields and lovely walks along the banks of the River Medway on a buddleia and bramble lined path.
 
 images: 
- - url: https://justaddapicnic.com/kent/outdoors/batys-marsh/batys3.jpg
+ - url: https://justaddapicnic.com/images/kent/outdoors/batys-marsh/batys3.jpg
    alt: View across the River Medway from Baty's Marsh.
    title: Baty's Marsh and Borstal Rec
 ---
@@ -39,31 +39,31 @@ Rochester City centre is 1.5 miles away, where you will find the train station, 
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/batys-marsh/batys1.jpg" alt="View as you sit at the picnic table and look across the River Medway from Baty's Marsh." class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/batys-marsh/batys1.jpg" alt="View as you sit at the picnic table and look across the River Medway from Baty's Marsh." class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/batys-marsh/batys6.jpg" alt="View across the River Medway from Baty's Marsh." class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/batys-marsh/batys6.jpg" alt="View across the River Medway from Baty's Marsh." class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/batys-marsh/batys3.jpg" alt="Younger children's play equipment at borstal recreation ground; slide and swings" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/batys-marsh/batys3.jpg" alt="Younger children's play equipment at borstal recreation ground; slide and swings" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/batys-marsh/batys4.jpg" alt="Older children's play equipment at Borstal recreation ground; climbing frame, round-a-bout and springy see-saw" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/batys-marsh/batys4.jpg" alt="Older children's play equipment at Borstal recreation ground; climbing frame, round-a-bout and springy see-saw" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/batys-marsh/batys5.jpg" alt="tree and shrub lined paths that run the length og Baty's Marsh" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/batys-marsh/batys5.jpg" alt="tree and shrub lined paths that run the length og Baty's Marsh" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/batys-marsh/batys2.jpg" alt="Picnic table looking over one of the large playing fields at Borstal Recreation ground" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/batys-marsh/batys2.jpg" alt="Picnic table looking over one of the large playing fields at Borstal Recreation ground" class="img-fluid">
       </div>
     </div>
 

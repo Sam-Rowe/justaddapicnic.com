@@ -8,7 +8,7 @@ permalink:
 excerpt: This shady green paradise offers a wonderful haven for wildlife.  Once a busy Gunpowder Factory you can now walk around the ruins and learn more about how they made and transported this volatile product.
 
 images: 
- - url: https://justaddapicnic.com/kent/outdoors/oare_gunpowder/oare11.jpg
+ - url: https://justaddapicnic.com/images/kent/outdoors/oare_gunpowder/oare11.jpg
    alt: Oare Gunpowder Works visitors center
    title: Oare Gunpowder Works
 ---
@@ -41,31 +41,31 @@ Faversham town centre is approximately 1.5 miles away and offers more shops and 
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/oare_gunpowder/oare4.jpg" alt="One of the waterways used at OArre Gunpowder works to move the gunpowder components around the site" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/oare_gunpowder/oare4.jpg" alt="One of the waterways used at OArre Gunpowder works to move the gunpowder components around the site" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/oare_gunpowder/oare2.jpg" alt="A beautiful bridge crossing noe of the waterways that were used for moving gunpowder around Oare Gunpowder Works" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/oare_gunpowder/oare2.jpg" alt="A beautiful bridge crossing noe of the waterways that were used for moving gunpowder around Oare Gunpowder Works" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/oare_gunpowder/oare5.jpg" alt="A wooden bridge and the leafy trees that cover Oare Gunpowder Works Country Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/oare_gunpowder/oare5.jpg" alt="A wooden bridge and the leafy trees that cover Oare Gunpowder Works Country Park" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/oare_gunpowder/oare6.jpg" alt="Oare Gunpowder Works Country Parks raised wakway tat takes you around some of the old factory buildings" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/oare_gunpowder/oare6.jpg" alt="Oare Gunpowder Works Country Parks raised wakway tat takes you around some of the old factory buildings" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/oare_gunpowder/oare8.jpg" alt="A sunny spot in a clearing where you can sit and eat your picnic at Oare Gunpowder Works Country Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/oare_gunpowder/oare8.jpg" alt="A sunny spot in a clearing where you can sit and eat your picnic at Oare Gunpowder Works Country Park" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/oare_gunpowder/oare1.jpg" alt="The grinding platforms at Oare Gunpowder Works" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/oare_gunpowder/oare1.jpg" alt="The grinding platforms at Oare Gunpowder Works" class="img-fluid">
       </div>
     </div>
 

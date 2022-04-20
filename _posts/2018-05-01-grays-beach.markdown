@@ -8,7 +8,7 @@ permalink:
 excerpt: This fantastic park offers one of the largest sandpits in the South East.  There is a lovely green space for picnics and ball games, climbing frames, cafe and toilets. 
 
 images: 
- - url: https://justaddapicnic.com/essex/outdoors/grays_beach/graysbeach4.jpg
+ - url: https://justaddapicnic.com/images/essex/outdoors/grays_beach/graysbeach4.jpg
    alt: Pirate ship climbing frame in the sandpit
    title: Grays Beach Riverside Park
 ---
@@ -40,31 +40,31 @@ Grays town centre is only 0.5 miles from the park.
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/essex/outdoors/grays_beach/graysbeach6.jpg" alt="Zipwire" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/essex/outdoors/grays_beach/graysbeach6.jpg" alt="Zipwire" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/essex/outdoors/grays_beach/graysbeach2.jpg" alt="Large pryamidal climbing frame in the sandpit" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/essex/outdoors/grays_beach/graysbeach2.jpg" alt="Large pryamidal climbing frame in the sandpit" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://justaddapicnic.com/essex/outdoors/grays_beach/graysbeach4.jpg" alt="Large priate ship climbing frame with slides in the sandpit" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/essex/outdoors/grays_beach/graysbeach4.jpg" alt="Large priate ship climbing frame with slides in the sandpit" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/essex/outdoors/grays_beach/graysbeach5.jpg" alt="Assault course on the grass" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/essex/outdoors/grays_beach/graysbeach5.jpg" alt="Assault course on the grass" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/essex/outdoors/grays_beach/graysbeach1.jpg" alt="Climbing frames, little houses and bouncy boat in the sandpit" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/essex/outdoors/grays_beach/graysbeach1.jpg" alt="Climbing frames, little houses and bouncy boat in the sandpit" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/essex/outdoors/grays_beach/graysbeach7.jpg" alt="Play equipment on the grass including accessible swing and roundabout." class="img-fluid">
+        <img src="https://justaddapicnic.com/images/essex/outdoors/grays_beach/graysbeach7.jpg" alt="Play equipment on the grass including accessible swing and roundabout." class="img-fluid">
       </div>
     </div>
 

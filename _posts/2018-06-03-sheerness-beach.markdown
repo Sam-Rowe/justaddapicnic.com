@@ -8,7 +8,7 @@ permalink:
 excerpt: A shingle beach with some sandy patches, close to sheerness town centre, the sandpit and splash pool. Perfect for a swim at high tide or rock pool hunting at low tide.
 
 images: 
- - url: https://justaddapicnic.com/kent/outdoors/sheerness/beach2.jpg
+ - url: https://justaddapicnic.com/images/kent/outdoors/sheerness/beach2.jpg
    alt: view of the shingle beach
    title: Sheerness Beach
 ---
@@ -38,7 +38,7 @@ Sheerness High Street and other local retailers offer an array of places to purc
 
     <div class="col-md-4">
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/sheerness/beach1.jpg" alt="Picnic benches and tables aong the sea wall" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/sheerness/beach1.jpg" alt="Picnic benches and tables aong the sea wall" class="img-fluid">
       </div>
 <!-- 
       <div class="card" id="landscape">
@@ -48,7 +48,7 @@ Sheerness High Street and other local retailers offer an array of places to purc
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/sheerness/beach2.jpg" alt="View along the shingle beach" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/sheerness/beach2.jpg" alt="View along the shingle beach" class="img-fluid">
       </div>
 
 <!--       <div class="card" id="portrait">
@@ -58,7 +58,7 @@ Sheerness High Street and other local retailers offer an array of places to purc
 
     <div class="col-md-4">
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/sheerness/beach3.jpg" alt="Steps down to the beach" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/sheerness/beach3.jpg" alt="Steps down to the beach" class="img-fluid">
       </div>
 <!-- 
       <div class="card" id="landscape">

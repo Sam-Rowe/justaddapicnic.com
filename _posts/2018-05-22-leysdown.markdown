@@ -8,7 +8,7 @@ permalink:
 excerpt: A family friendly sandy beach with shallow water and life gaurds.  There is a large toilet block close to the beach, and when you have had enough of the sand you can enjoy the amusements and small play area.
 
 images: 
- - url: https://justaddapicnic.com/kent/outdoors/leysdown/leysdown4.jpg 
+ - url: https://justaddapicnic.com/images/kent/outdoors/leysdown/leysdown4.jpg 
    alt: View along the sandy beach at Leysdown.
    title: Leysdown-on-Sea
 ---
@@ -34,31 +34,31 @@ Sheerness is 9 miles away, approximately 20 minute car journey.  Where you will 
 
     <div class="col-md-4">
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/leysdown/leysdown1.jpg" alt="The childrens play area in The Spinney; climbing frames and slides" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/leysdown/leysdown1.jpg" alt="The childrens play area in The Spinney; climbing frames and slides" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/leysdown/leysdown2.jpg" alt="The bandstand and green space at The Spinney" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/leysdown/leysdown2.jpg" alt="The bandstand and green space at The Spinney" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/leysdown/leysdown3.jpg" alt="View to the west of leysdown beach looking towards Little Groves" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/leysdown/leysdown3.jpg" alt="View to the west of leysdown beach looking towards Little Groves" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/leysdown/leysdown4.jpg" alt="View across the beach looking at the sand a low tide" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/leysdown/leysdown4.jpg" alt="View across the beach looking at the sand a low tide" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/leysdown/leysdown5.jpg" alt="The main square behind the sea wall and toilet block" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/leysdown/leysdown5.jpg" alt="The main square behind the sea wall and toilet block" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/leysdown/leysdown6.jpg" alt="View across some of the small rock pools at low tide" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/leysdown/leysdown6.jpg" alt="View across some of the small rock pools at low tide" class="img-fluid">
       </div>
     </div>
 

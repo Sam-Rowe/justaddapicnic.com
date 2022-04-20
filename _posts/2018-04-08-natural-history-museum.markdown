@@ -8,7 +8,7 @@ permalink:
 excerpt: The London Natural History Museum is a treasure trove of inspirational scientific knowledge and artifacts.  Covering topics from the creation of the Earth to the reign of the dinsoaurs to present day flora and fauna.
 
 images: 
- - url: https://justaddapicnic.com/london/indoors/NHM/NHM1.jpg
+ - url: https://justaddapicnic.com/images/london/indoors/NHM/NHM1.jpg
    alt: The entrance of the Natural History Museum
    title: The Natural History Museum, London.
 ---
@@ -48,21 +48,21 @@ There are many other wonderful places in local area to visit.
 
     <div class="col-md-6">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/london/indoors/NHM/NHM2.jpg" alt="Animatronic T-rex at the Natural History Museum" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/london/indoors/NHM/NHM2.jpg" alt="Animatronic T-rex at the Natural History Museum" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/london/indoors/NHM/NHM4.jpg" alt="Bugs and Beasties fromteh Creepy Crawlies gallery" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/london/indoors/NHM/NHM4.jpg" alt="Bugs and Beasties fromteh Creepy Crawlies gallery" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-6">
       <div class="card" id="lanscape">
-        <img src="https://justaddapicnic.com/london/indoors/NHM/NHM3.jpg" alt="Skeleton of a dinosaur from the Dinosaurs gallery" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/london/indoors/NHM/NHM3.jpg" alt="Skeleton of a dinosaur from the Dinosaurs gallery" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/london/indoors/NHM/NHM6.jpg" alt="Journey through the Earth esculator." class="img-fluid">
+        <img src="https://justaddapicnic.com/images/london/indoors/NHM/NHM6.jpg" alt="Journey through the Earth esculator." class="img-fluid">
       </div>
     </div>
 

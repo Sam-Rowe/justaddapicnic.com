@@ -8,7 +8,7 @@ permalink:
 excerpt: Cliffe Pools offer a wonderful haven for wildlife and lots of great walking and cycling trails for visitors.  In the late summer, autumn look out for blackberries, elderberries, sloes and damosons. This is a great place to go bird watching you may even see a flock of green parakeets.
 
 images: 
- - url: https://justaddapicnic.com/kent/outdoors/cliffe_marshes/marshes7.jpeg
+ - url: https://justaddapicnic.com/images/kent/outdoors/cliffe_marshes/marshes7.jpeg
    alt: View of the pools at cliffe marshes through a damson tree.
    title: Cliffe Pools
 ---
@@ -33,31 +33,31 @@ Once you are into the marshes you will find lots of unmade mud and gravel paths,
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/cliffe_marshes/marshes2.jpeg" alt="The path along Pickles Way in Cliffe Marshes" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/cliffe_marshes/marshes2.jpeg" alt="The path along Pickles Way in Cliffe Marshes" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/cliffe_marshes/marshes1.jpg" alt="View across one of the farmers fields at Cliffe Marshes" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/cliffe_marshes/marshes1.jpg" alt="View across one of the farmers fields at Cliffe Marshes" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/cliffe_marshes/marshes4.jpeg" alt="View across Radar Pool in Cliffe Marshes" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/cliffe_marshes/marshes4.jpeg" alt="View across Radar Pool in Cliffe Marshes" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/cliffe_marshes/marshes3.jpeg" alt="Beautiful ripe damsons ready to be picked in Cliffe Marshes" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/cliffe_marshes/marshes3.jpeg" alt="Beautiful ripe damsons ready to be picked in Cliffe Marshes" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/cliffe_marshes/marshes5.jpeg" alt="Part of the Saxon Shore Way path in Cliffe Marshes near Radar Pool" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/cliffe_marshes/marshes5.jpeg" alt="Part of the Saxon Shore Way path in Cliffe Marshes near Radar Pool" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/cliffe_marshes/marshes6.jpeg" alt="View across the pools in Cliffe Marshes from the path that lead to the top of Buttway Lane." class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/cliffe_marshes/marshes6.jpeg" alt="View across the pools in Cliffe Marshes from the path that lead to the top of Buttway Lane." class="img-fluid">
       </div>
     </div>
 

@@ -8,7 +8,7 @@ permalink:
 excerpt: A lovely shady park set back into the trees on the edge of Penenden Heath cricket pitch and bowls green.  Here you will find a great range of children's play equipment, lots of picnic tables, toilets and plenty of free parking.
 
 images: 
- - url: https://justaddapicnic.com/kent/outdoors/penenden_heath/pheath1.jpg
+ - url: https://justaddapicnic.com/images/kent/outdoors/penenden_heath/pheath1.jpg
    alt: picnic tables in the shade looking towards the cricket pitch.
    title: Penenden Heath
 ---
@@ -34,31 +34,31 @@ The park is under 2 miles from Maidstone Town Centre and all it's attractions; [
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/penenden_heath/pheath2.jpg" alt="Zipwire and accessible round-a-bout" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/penenden_heath/pheath2.jpg" alt="Zipwire and accessible round-a-bout" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/penenden_heath/pheath3.jpg" alt="Basket swing and swing sets" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/penenden_heath/pheath3.jpg" alt="Basket swing and swing sets" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/penenden_heath/pheath4.jpg" alt="assault course style play equipment" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/penenden_heath/pheath4.jpg" alt="assault course style play equipment" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/penenden_heath/pheath6.jpg" alt="Leafy walkways around the park" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/penenden_heath/pheath6.jpg" alt="Leafy walkways around the park" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/penenden_heath/pheath5.jpg" alt="Small climbing frame and assault course equipment." class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/penenden_heath/pheath5.jpg" alt="Small climbing frame and assault course equipment." class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/penenden_heath/pheath1.jpg" alt="picnic tables in the shade looking towards the cricket pitch." class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/penenden_heath/pheath1.jpg" alt="picnic tables in the shade looking towards the cricket pitch." class="img-fluid">
       </div>
     </div>
 

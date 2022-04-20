@@ -8,7 +8,7 @@ permalink:
 excerpt: A multipurpose park; with camping, sailing, climbing frames, cycling, and fishing to mention but a few.  There's a lot to do at this great park right by the sea. With a cafe and toilets on site you'll be able to stay all day.
 
 images: 
- - url: https://justaddapicnic.com/kent/outdoors/barton_point/barton5.jpg
+ - url: https://justaddapicnic.com/images/kent/outdoors/barton_point/barton5.jpg
    alt: Pirate themed wooden play equipment in the sand pit
    title: Barton Point Coastal Park
 ---
@@ -40,31 +40,31 @@ Sheerness town centre and beach are just under 2 miles away.  Sheerness also boa
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/barton_point/barton6.jpg" alt="wooden bridge across the canal" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/barton_point/barton6.jpg" alt="wooden bridge across the canal" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/barton_point/barton7.jpg" alt="Older children play equipment on the grass" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/barton_point/barton7.jpg" alt="Older children play equipment on the grass" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/barton_point/barton2.jpg" alt="Large climbing frame a short walk from the main car park" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/barton_point/barton2.jpg" alt="Large climbing frame a short walk from the main car park" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/barton_point/barton1.jpg" alt="Sandy boardwalk looking out onthe lake and canals" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/barton_point/barton1.jpg" alt="Sandy boardwalk looking out onthe lake and canals" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/barton_point/barton4.jpg" alt="concrete walkway next to the lake, perfect for pond dipping" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/barton_point/barton4.jpg" alt="concrete walkway next to the lake, perfect for pond dipping" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/barton_point/barton3.jpg" alt="The Boat House cafe at Barton Point" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/barton_point/barton3.jpg" alt="The Boat House cafe at Barton Point" class="img-fluid">
       </div>
     </div>
 

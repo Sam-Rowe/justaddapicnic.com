@@ -8,7 +8,7 @@ permalink:
 excerpt: Right beside the hustle and bustle that is Bluewater shopping centre, you will find a little slice of tranquility on the Bluewater Nature Trail.  There is equipment to climb on, fairies to find and some very friendly ducks to feed (bring your 20p's).
 
 images: 
- - url: https://justaddapicnic.com/kent/outdoors/bluewater/bluewater3.jpg
+ - url: https://justaddapicnic.com/images/kent/outdoors/bluewater/bluewater3.jpg
    alt: View as you enter Bluewater Nature Trail, the large lake in the foreground with chldren's assault course on the other side of the lake and white chalk cliffs in the distance.
    title: Bluewater Nature Trail
 ---
@@ -33,31 +33,31 @@ The Nature Trail is on the site of [Bluewater Shopping Centre](https://bluewater
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/bluewater/bluewater4.jpg" alt="Canada Geese moving around the lake at Bluewater Nature Trail" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/bluewater/bluewater4.jpg" alt="Canada Geese moving around the lake at Bluewater Nature Trail" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/bluewater/bluewater1.jpg" alt="The children's play area outside The Village at Bluewater Shopping Centre" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/bluewater/bluewater1.jpg" alt="The children's play area outside The Village at Bluewater Shopping Centre" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/bluewater/bluewater2.jpg" alt="The fountain and mosaic tunnel as you enter the Bluewater Nature Trail" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/bluewater/bluewater2.jpg" alt="The fountain and mosaic tunnel as you enter the Bluewater Nature Trail" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/bluewater/bluewater5.jpg" alt="The view across the lake at Bluewater Nature Trail" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/bluewater/bluewater5.jpg" alt="The view across the lake at Bluewater Nature Trail" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/bluewater/bluewater6.jpg" alt="The home of one of Bluewater Nature Trails fairies" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/bluewater/bluewater6.jpg" alt="The home of one of Bluewater Nature Trails fairies" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/bluewater/bluewater3.jpg" alt="View as you enter Bluewater Nature Trail, the large lake in the foreground with chldren's assault course on the other side of the lake and white chalk cliffs in the distance." class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/bluewater/bluewater3.jpg" alt="View as you enter Bluewater Nature Trail, the large lake in the foreground with chldren's assault course on the other side of the lake and white chalk cliffs in the distance." class="img-fluid">
       </div>
     </div>
 

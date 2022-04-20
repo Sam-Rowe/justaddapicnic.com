@@ -8,7 +8,7 @@ permalink:
 excerpt: Set in the grounds of an 18th Century Manor house this beautiful park has a lot to offer its visitors; wildflower meadows, a lake, play area and cafe with facilities.
 
 images: 
- - url: https://justaddapicnic.com/kent/outdoors/manor-park-wmalling/manor6.JPG
+ - url: https://justaddapicnic.com/images/kent/outdoors/manor-park-wmalling/manor6.JPG
    alt: The path to the children's play area and picnic area.
    title: Manor Park Country Park
 ---
@@ -40,31 +40,31 @@ West Malling town Centre is under 1 mile from the park and offers a selection of
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/manor-park-wmalling/manor1.JPG" alt="view of the manor house and lake at Manor Park Country Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/manor-park-wmalling/manor1.JPG" alt="view of the manor house and lake at Manor Park Country Park" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/manor-park-wmalling/manor5.JPG" alt="Children's Play area at Manor House Country Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/manor-park-wmalling/manor5.JPG" alt="Children's Play area at Manor House Country Park" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/manor-park-wmalling/manor6.JPG" alt="Picnic tables and open space for play at Manor Park Country Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/manor-park-wmalling/manor6.JPG" alt="Picnic tables and open space for play at Manor Park Country Park" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/manor-park-wmalling/manor8.JPG" alt="Part of the beautiful wildlife lake at Manor Park Country Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/manor-park-wmalling/manor8.JPG" alt="Part of the beautiful wildlife lake at Manor Park Country Park" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/manor-park-wmalling/manor4.JPG" alt="Smaller children's climbng frame at Manor Park Country Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/manor-park-wmalling/manor4.JPG" alt="Smaller children's climbng frame at Manor Park Country Park" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/manor-park-wmalling/manor2.JPG" alt="A lovely walking path at Manor Park Country Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/manor-park-wmalling/manor2.JPG" alt="A lovely walking path at Manor Park Country Park" class="img-fluid">
       </div>
     </div>
 

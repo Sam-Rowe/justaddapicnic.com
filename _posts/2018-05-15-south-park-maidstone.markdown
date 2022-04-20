@@ -8,7 +8,7 @@ permalink:
 excerpt: A little known gem very close to Maidstone Town Centre and Mote Park.  It has a host of sporting facilities 2 lovely children's play areas and some beautiful shady spaces for your picnic.
 
 images: 
- - url: https://justaddapicnic.com/kent/outdoors/south_park_maidstone/south1.jpg
+ - url: https://justaddapicnic.com/images/kent/outdoors/south_park_maidstone/south1.jpg
    alt: The childrens play area
    title: South Park, Maidstone
 ---
@@ -41,31 +41,31 @@ Maidstone town centre is approximately a mile away.
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/south_park_maidstone/south4.jpg" alt="Skate park, multi-use court and hockey pitch" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/south_park_maidstone/south4.jpg" alt="Skate park, multi-use court and hockey pitch" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/south_park_maidstone/south2.jpg" alt="Formal gardens and tennis courts" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/south_park_maidstone/south2.jpg" alt="Formal gardens and tennis courts" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/south_park_maidstone/south3.jpg" alt="Shady picnic spot by the bowling green" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/south_park_maidstone/south3.jpg" alt="Shady picnic spot by the bowling green" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/south_park_maidstone/south7.jpg" alt="Younger children's play area; climbing frame and in-floor trampolines" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/south_park_maidstone/south7.jpg" alt="Younger children's play area; climbing frame and in-floor trampolines" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/south_park_maidstone/south5.jpg" alt="Football Pitches" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/south_park_maidstone/south5.jpg" alt="Football Pitches" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/south_park_maidstone/south6.jpg" alt="second play area with climbing frame and swings." class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/south_park_maidstone/south6.jpg" alt="second play area with climbing frame and swings." class="img-fluid">
       </div>
     </div>
 

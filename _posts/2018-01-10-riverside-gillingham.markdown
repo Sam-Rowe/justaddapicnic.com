@@ -7,7 +7,7 @@ tags: Gillingham
 permalink: 
 excerpt: Take a walk along the River Medway to Horrid Hill or Motney Hill and enjoy some beautiful surroundings and wildlife.  Warm up at the Visitors Centre and enjoy the fantastic play equipment in the park.
 images:
- - url: https://justaddapicnic.com/kent/outdoors/riverside-gillingham/Riverside_4.jpg
+ - url: https://justaddapicnic.com/images/kent/outdoors/riverside-gillingham/Riverside_4.jpg
    alt: View across the Medway River towards Horrid Hill, in view you can see the marshland popular with local waterfowl.
    title: Riverside Country Park
 ---
@@ -36,31 +36,31 @@ Riverside Country Park is part of the [Saxon Shore Way](http://www.medway.gov.uk
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/riverside-gillingham/Riverside_11.jpg" alt="Path out towards Horrid Hill at Riverside Country Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/riverside-gillingham/Riverside_11.jpg" alt="Path out towards Horrid Hill at Riverside Country Park" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/riverside-gillingham/Riverside_5.jpg" alt="Riverside Country Parks Focus Cafe and Visitors Centre building" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/riverside-gillingham/Riverside_5.jpg" alt="Riverside Country Parks Focus Cafe and Visitors Centre building" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/riverside-gillingham/Riverside_12.jpg" alt="The children's play area at Riverside Country Park, slide and sunken pirate ship play equipment" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/riverside-gillingham/Riverside_12.jpg" alt="The children's play area at Riverside Country Park, slide and sunken pirate ship play equipment" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/riverside-gillingham/Riverside_6.jpg" alt="The large pond and marshland walkways at Riverside Country Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/riverside-gillingham/Riverside_6.jpg" alt="The large pond and marshland walkways at Riverside Country Park" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/riverside-gillingham/Riverside_13.jpg" alt="The lush green banks of the River Medway, at Riverside Country Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/riverside-gillingham/Riverside_13.jpg" alt="The lush green banks of the River Medway, at Riverside Country Park" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/riverside-gillingham/Riverside_9.jpg" alt="View of the children's Nursery Rhyme themed climbing frame and accessible swings at Riverside Country Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/riverside-gillingham/Riverside_9.jpg" alt="View of the children's Nursery Rhyme themed climbing frame and accessible swings at Riverside Country Park" class="img-fluid">
       </div>
     </div>
 

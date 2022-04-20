@@ -7,7 +7,7 @@ tag: Leybourne
 permalink: 
 excerpt: A wonderful place for a long walk around some fresh water lakes filled with life.  There is play equipment, toilets and a seasonal cafe. Close to the M20 it's an easy drive to this beautiful Country Park.
 images:
- - url: https://justaddapicnic.com/kent/outdoors/leybourne_lakes/leybourne3.jpg
+ - url: https://justaddapicnic.com/images/kent/outdoors/leybourne_lakes/leybourne3.jpg
    alt: A view of one of the lakes.
    title: Laybourne Lakes Country Park
 ---
@@ -39,31 +39,31 @@ New Hythe train station is a short walk from the Lakes.
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/leybourne_lakes/leybourne6.jpg" alt="A view of one of the creeks and lakes" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/leybourne_lakes/leybourne6.jpg" alt="A view of one of the creeks and lakes" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/leybourne_lakes/leybourne1.jpg" alt="Chlidrens play equipment by the lakes" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/leybourne_lakes/leybourne1.jpg" alt="Chlidrens play equipment by the lakes" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/leybourne_lakes/leybourne2.jpg" alt="Oak leaf picnic table by the lake" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/leybourne_lakes/leybourne2.jpg" alt="Oak leaf picnic table by the lake" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/leybourne_lakes/leybourne4.jpg" alt="childrens play equipment by the lakes" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/leybourne_lakes/leybourne4.jpg" alt="childrens play equipment by the lakes" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/leybourne_lakes/leybourne7.jpg" alt="View from a bridge over one of the creeks looking towards a lake" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/leybourne_lakes/leybourne7.jpg" alt="View from a bridge over one of the creeks looking towards a lake" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/leybourne_lakes/leybourne5.jpg" alt="A lucky find! Snowdrops!" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/leybourne_lakes/leybourne5.jpg" alt="A lucky find! Snowdrops!" class="img-fluid">
       </div>
     </div>
 

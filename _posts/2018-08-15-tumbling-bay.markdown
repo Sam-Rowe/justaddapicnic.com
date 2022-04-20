@@ -8,7 +8,7 @@ permalink:
 excerpt: On the edge of the Olympic Park this amazing play area has something for everyone; tree top adventures, sandpit, splash area and wide open green spaces.  With a lovely cafe and well equiped facilities it's the perfect place to just add a picnic.
 
 images: 
- - url: https://justaddapicnic.com/london/outdoors/tumbling-bay-playarea/bay8.jpeg
+ - url: https://justaddapicnic.com/images/london/outdoors/tumbling-bay-playarea/bay8.jpeg
    alt: The rope brideges in the tree fort at Tumbling Bay Play Area.
    title: Tumbling Bay Play Area
 ---
@@ -45,31 +45,31 @@ For more infomraion about the Tumbling Bay Play area visit the [Olympic Park Web
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/london/outdoors/tumbling-bay-playarea/bay2.jpeg" alt="Rope netting climbing adventure between the branches with swing hanging underneath at tumbling bay play area" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/london/outdoors/tumbling-bay-playarea/bay2.jpeg" alt="Rope netting climbing adventure between the branches with swing hanging underneath at tumbling bay play area" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/london/outdoors/tumbling-bay-playarea/bay4.jpeg" alt="grassy gardens surrounding the play area at tumbling bay perfect for picnics" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/london/outdoors/tumbling-bay-playarea/bay4.jpeg" alt="grassy gardens surrounding the play area at tumbling bay perfect for picnics" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://justaddapicnic.com/london/outdoors/tumbling-bay-playarea/bay6.jpeg" alt="large suspended bridge that stretches across the sand pit close tot he cafe at tumbling bay park" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/london/outdoors/tumbling-bay-playarea/bay6.jpeg" alt="large suspended bridge that stretches across the sand pit close tot he cafe at tumbling bay park" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/london/outdoors/tumbling-bay-playarea/bay7.jpeg" alt="tumbling bays sandpit with hoists and buckets for moving sand around" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/london/outdoors/tumbling-bay-playarea/bay7.jpeg" alt="tumbling bays sandpit with hoists and buckets for moving sand around" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/london/outdoors/tumbling-bay-playarea/bay3.jpeg" alt="Tumbling Bays Gaskell's Fort wooden and rope play area" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/london/outdoors/tumbling-bay-playarea/bay3.jpeg" alt="Tumbling Bays Gaskell's Fort wooden and rope play area" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/london/outdoors/tumbling-bay-playarea/bay1.jpeg" alt="the large water play area at tumbling bay " class="img-fluid">
+        <img src="https://justaddapicnic.com/images/london/outdoors/tumbling-bay-playarea/bay1.jpeg" alt="the large water play area at tumbling bay " class="img-fluid">
       </div>
     </div>
 

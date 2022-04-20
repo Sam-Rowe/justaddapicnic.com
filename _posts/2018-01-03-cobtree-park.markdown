@@ -7,7 +7,7 @@ tags: Maidstone
 permalink: 
 excerpt: A fantastic park on the site of the old Maidstone Zoo.  It has a great range of play equipment, a cafe with toilets and lovely walks through the gardens and woodland.
 images:
- - url: https://justaddapicnic.com/kent/outdoors/cobtree_park/cobtree5.jpg
+ - url: https://justaddapicnic.com/images/kent/outdoors/cobtree_park/cobtree5.jpg
    alt: Inside the fort at Cobtree Manor park, the fantastic slides and raised walkways
    title: Cobtree Manor Park
 ---
@@ -35,31 +35,31 @@ The [Museum of Kent Life](https://kentlife.org.uk/) is under a mile away from th
 
         <div class="col-md-4">
           <div class="card" id="landscape">
-            <img src="https://justaddapicnic.com/kent/outdoors/cobtree_park/cobtree1.jpg" alt="The zipwires at Cobtree Manor Park" class="img-fluid">
+            <img src="https://justaddapicnic.com/images/kent/outdoors/cobtree_park/cobtree1.jpg" alt="The zipwires at Cobtree Manor Park" class="img-fluid">
           </div>
 
           <div class="card" id="landscape">
-            <img src="https://justaddapicnic.com/kent/outdoors/cobtree_park/cobtree2.jpg" alt="Safari jeep and springy play equipment outside the fort at Cobtree Manor Park" class="img-fluid">
+            <img src="https://justaddapicnic.com/images/kent/outdoors/cobtree_park/cobtree2.jpg" alt="Safari jeep and springy play equipment outside the fort at Cobtree Manor Park" class="img-fluid">
           </div>
         </div>
 
         <div class="col-md-4">
           <div class="card" id="landscape">
-            <img src="https://justaddapicnic.com/kent/outdoors/cobtree_park/cobtree4.jpg" alt="The cafe and toilets that service Cobtree Manor Park" class="img-fluid">
+            <img src="https://justaddapicnic.com/images/kent/outdoors/cobtree_park/cobtree4.jpg" alt="The cafe and toilets that service Cobtree Manor Park" class="img-fluid">
           </div>
 
           <div class="card" id="landscape">
-            <img src="https://justaddapicnic.com/kent/outdoors/cobtree_park/cobtree3.jpg" alt="The play fort and wooden train at Cobtree Manor Park" class="img-fluid">
+            <img src="https://justaddapicnic.com/images/kent/outdoors/cobtree_park/cobtree3.jpg" alt="The play fort and wooden train at Cobtree Manor Park" class="img-fluid">
           </div>
        </div>
 
         <div class="col-md-4">
           <div class="card" id="landscape">
-            <img src="https://justaddapicnic.com/kent/outdoors/cobtree_park/cobtree5.jpg" alt="Inside the fort at Cobtree Manor park, the fantastic slides and raised walkways" class="img-fluid">
+            <img src="https://justaddapicnic.com/images/kent/outdoors/cobtree_park/cobtree5.jpg" alt="Inside the fort at Cobtree Manor park, the fantastic slides and raised walkways" class="img-fluid">
           </div>
 
           <div class="card" id="landscape">
-            <img src="https://justaddapicnic.com/kent/outdoors/cobtree_park/cobtree6.jpg" alt="The tree lined walkway found in Cobtree Manor Park as you walk away from the main play area." class="img-fluid">
+            <img src="https://justaddapicnic.com/images/kent/outdoors/cobtree_park/cobtree6.jpg" alt="The tree lined walkway found in Cobtree Manor Park as you walk away from the main play area." class="img-fluid">
           </div>
         </div>
         

@@ -8,7 +8,7 @@ permalink:
 excerpt: With its' wide promenade, amusement pier, shingle beach and parks Herne Bay is a lovely coastal town to spend the day in.
 
 images: 
- - url: https://justaddapicnic.com/kent/outdoors/herne-bay/herne2.jpg
+ - url: https://justaddapicnic.com/images/kent/outdoors/herne-bay/herne2.jpg
    alt: Herne Bay shingle beach and pier.
    title: Herne Bay
 ---
@@ -40,31 +40,31 @@ At the west end of Herne Bay you will find [Hampton Pier Recreation Ground](/out
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/herne-bay/herne3.jpg" alt="View along the shingle beach towards the central bandstand" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/herne-bay/herne3.jpg" alt="View along the shingle beach towards the central bandstand" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/herne-bay/herne1.jpg" alt="Formal gardens set back from the beach" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/herne-bay/herne1.jpg" alt="Formal gardens set back from the beach" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/herne-bay/herne6.jpg" alt="Vew across the shingle beach to the harbour arm and boats." class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/herne-bay/herne6.jpg" alt="Vew across the shingle beach to the harbour arm and boats." class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/herne-bay/herne4.jpg" alt="Chidlren's Play area, climbing frames and play houses." class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/herne-bay/herne4.jpg" alt="Chidlren's Play area, climbing frames and play houses." class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/herne-bay/herne5.jpg" alt="Formal gardens in the fore-ground with the central clock tower and children's play area behind." class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/herne-bay/herne5.jpg" alt="Formal gardens in the fore-ground with the central clock tower and children's play area behind." class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/herne-bay/herne7.jpg" alt="Gym and assault course style equipment on the beach." class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/herne-bay/herne7.jpg" alt="Gym and assault course style equipment on the beach." class="img-fluid">
       </div>
     </div>
 

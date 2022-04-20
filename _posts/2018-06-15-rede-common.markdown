@@ -8,7 +8,7 @@ permalink:
 excerpt: This is a beautiful green space in the heart of Strood, the perfect spot to get back to nature and forget you are in such a busy town.  Enjoy the beautiful views of the Medway River and surrounding towns as you dig into your picnic.
 
 images: 
- - url: https://justaddapicnic.com/kent/outdoors/redecommon/rede5.jpg
+ - url: https://justaddapicnic.com/images/kent/outdoors/redecommon/rede5.jpg
    alt: Rede common with views across the Medway towns
    title: Rede Common
 ---
@@ -37,21 +37,21 @@ Strood town centre is approximately 1.5 miles away.  Here you will find the trai
 
     <div class="col-md-6">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/redecommon/rede1.jpg" alt="LArge green space and tall trees in the background" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/redecommon/rede1.jpg" alt="LArge green space and tall trees in the background" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/redecommon/rede2.jpg" alt="Views across the common" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/redecommon/rede2.jpg" alt="Views across the common" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-6">
       <div class="card" id="lanscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/redecommon/rede3.jpg" alt="Views across the wide green common" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/redecommon/rede3.jpg" alt="Views across the wide green common" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/redecommon/rede4.jpg" alt="Wooded area found at Rede common" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/redecommon/rede4.jpg" alt="Wooded area found at Rede common" class="img-fluid">
       </div>
     </div>
   </div>      

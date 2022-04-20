@@ -8,7 +8,7 @@ permalink:
 excerpt: A great little park close to the Dockside Outlet centre and Chatham Historical Dockyard.  
 
 images: 
- - url: https://justaddapicnic.com/kent/outdoors/chatham_dockyard/dockyard1.jpg
+ - url: https://justaddapicnic.com/images/kent/outdoors/chatham_dockyard/dockyard1.jpg
    alt: climbing frame with slide
    title: Chatham Dockyard Park
 ---
@@ -38,19 +38,19 @@ Gillingham Town Centre is under 2 miles away.
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/chatham_dockyard/dockyard1.jpg" alt="climbing frame with slide" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/chatham_dockyard/dockyard1.jpg" alt="climbing frame with slide" class="img-fluid">
       </div> 
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/chatham_dockyard/dockyard2.jpg" alt="Crows nest and rigging climbing frame and rope swing" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/chatham_dockyard/dockyard2.jpg" alt="Crows nest and rigging climbing frame and rope swing" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/chatham_dockyard/dockyard3.jpg" alt="Water play area and rope seats." class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/chatham_dockyard/dockyard3.jpg" alt="Water play area and rope seats." class="img-fluid">
       </div>
     </div>
 

@@ -8,7 +8,7 @@ permalink:
 excerpt: This beach has grass banks leading down to the shingle beach, which reveals sandy flats at low tide.  There are public toilets here, free on-street parking and several cafes and pubs that enjoy the sea views.
 
 images: 
- - url: https://justaddapicnic.com/kent/outdoors/tankerton/tankerton2.jpg
+ - url: https://justaddapicnic.com/images/kent/outdoors/tankerton/tankerton2.jpg
    alt: View across Tankerton Slopes and Tankerton shingle beach
    title: Tankerton Slopes and Beach
 ---
@@ -40,21 +40,21 @@ The closest train station is Whitstable, approximately 1 mile away (20 minute wa
 
     <div class="col-md-6">
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/tankerton/tankerton2.jpg" alt="View across Tankerton Slopes and beach towards the west end of the beach" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/tankerton/tankerton2.jpg" alt="View across Tankerton Slopes and beach towards the west end of the beach" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/tankerton/tankerton6.jpg" alt="Victorian seaside buildings and hotels along Marine parade at Tankerton" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/tankerton/tankerton6.jpg" alt="Victorian seaside buildings and hotels along Marine parade at Tankerton" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-6">
       <div class="card" id="lanscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/tankerton/tankerton3.jpg" alt="Benches at the top of Tankerton slopes looking over the beach" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/tankerton/tankerton3.jpg" alt="Benches at the top of Tankerton slopes looking over the beach" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/tankerton/tankerton5.jpg" alt="Life gaurd hut on Tankerton beach with bouys marking out the swimming area" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/tankerton/tankerton5.jpg" alt="Life gaurd hut on Tankerton beach with bouys marking out the swimming area" class="img-fluid">
       </div>
     </div>
   </div>      

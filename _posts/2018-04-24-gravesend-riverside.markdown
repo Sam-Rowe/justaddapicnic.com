@@ -8,7 +8,7 @@ permalink:
 excerpt: Gravesends' Riverside leisure area has a lot to offer those willing to explore a little.  There is an old fort with many artillary batteries still in place, the oldest building in Gravesend, 2 play parks, a skate park, fishing pond, outdoors gym, cafe and toilets.
 
 images: 
- - url: https://justaddapicnic.com/kent/outdoors/gravesend-riverside/riverside2.jpg
+ - url: https://justaddapicnic.com/images/kent/outdoors/gravesend-riverside/riverside2.jpg
    alt: Military fort and gun batteries at Riverside leisure area
    title: Gravesend Riverside Leisure Area
 ---
@@ -38,31 +38,31 @@ Gravesend town centre is a short walk from the park.
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/gravesend-riverside/riverside3.jpg" alt="View of the lake and park from New Tavern Fort" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/gravesend-riverside/riverside3.jpg" alt="View of the lake and park from New Tavern Fort" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/gravesend-riverside/riverside2.jpg" alt="New Tavern Fort Emplacement" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/gravesend-riverside/riverside2.jpg" alt="New Tavern Fort Emplacement" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/gravesend-riverside/riverside4.jpg" alt="Gun Batteries overlooking the River Thames" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/gravesend-riverside/riverside4.jpg" alt="Gun Batteries overlooking the River Thames" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/gravesend-riverside/riverside5.jpg" alt="Seconadry pond and pretty bridge" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/gravesend-riverside/riverside5.jpg" alt="Seconadry pond and pretty bridge" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/gravesend-riverside/riverside6.jpg" alt="View of the park along the riverside promenade, showing the cafe and play park" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/gravesend-riverside/riverside6.jpg" alt="View of the park along the riverside promenade, showing the cafe and play park" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/gravesend-riverside/riverside1.jpg" alt="Cannon and anti-aircraft gun on the bank of the fort" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/gravesend-riverside/riverside1.jpg" alt="Cannon and anti-aircraft gun on the bank of the fort" class="img-fluid">
       </div>
     </div>
 

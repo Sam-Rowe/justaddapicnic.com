@@ -8,7 +8,7 @@ permalink:
 excerpt: An fantastic park set alongside the Great Stour between Canterbury East and Canterbury West train stations.  It offers a wide range of fabulous play equipment, space to play football, opportunities to dip your fishing nets in the water and large leafy trees to lounge under in the sunshine.
 
 images:
- - url: https://justaddapicnic.com/kent/outdoors/toddlers_cove/toddlers_cove1.JPG
+ - url: https://justaddapicnic.com/images/kent/outdoors/toddlers_cove/toddlers_cove1.JPG
    alt: view of the play equipment and wardens building with toilets
    title: Toddler's Cove
 ---
@@ -42,21 +42,21 @@ Dane John Gardens; a large manicured gardens with small childrens play area is n
 
     <div class="col-md-6">
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/toddlers_cove/toddlers_cove1.JPG" alt="view of the play equipment and wardens building with toilets" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/toddlers_cove/toddlers_cove1.JPG" alt="view of the play equipment and wardens building with toilets" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/toddlers_cove/toddlers_cove2.JPG" alt="Sunken ship climbing frame and slide" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/toddlers_cove/toddlers_cove2.JPG" alt="Sunken ship climbing frame and slide" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-6">
       <div class="card" id="lanscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/toddlers_cove/toddlers_cove3.JPG" alt="Front view of the large wooden fort" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/toddlers_cove/toddlers_cove3.JPG" alt="Front view of the large wooden fort" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/toddlers_cove/toddlers_cove4.JPG" alt="rear view of the large wooden fort" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/toddlers_cove/toddlers_cove4.JPG" alt="rear view of the large wooden fort" class="img-fluid">
       </div>
     </div>
 

@@ -8,7 +8,7 @@ permalink:
 excerpt: The remains of a 13th century manor house belonging to the Templar Knights sits on the banks of the Medway River, tucked away in an industrial estate.  Learn about the house's history and the people who once stayed there.
 
 images: 
- - url: https://justaddapicnic.com/kent/indoors/temple-manor/temple1.jpeg
+ - url: https://justaddapicnic.com/images/kent/indoors/temple-manor/temple1.jpeg
    alt: The front aspect of Temple Manor
    title: Temple Manor
 ---
@@ -47,21 +47,21 @@ Rochester City centre is 1 mile away, where you will find the train station, [Ro
 
     <div class="col-md-6">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/indoors/temple-manor/temple1.jpeg" alt="The outside of the beautiful Temple Manor" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/indoors/temple-manor/temple1.jpeg" alt="The outside of the beautiful Temple Manor" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/indoors/temple-manor/temple2.jpeg" alt="Inside one of the rooms on the newer part of Temple Manor" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/indoors/temple-manor/temple2.jpeg" alt="Inside one of the rooms on the newer part of Temple Manor" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-6">
       <div class="card" id="lanscape">
-        <img src="https://justaddapicnic.com/kent/indoors/temple-manor/temple3.jpeg" alt="Inside the 13th Century hall of Temple Manor, where you can see the carved window arches and old fire place" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/indoors/temple-manor/temple3.jpeg" alt="Inside the 13th Century hall of Temple Manor, where you can see the carved window arches and old fire place" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/indoors/temple-manor/temple4.jpeg" alt="The top of the chimney breast in the 13th century hall at Temple Manor." class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/indoors/temple-manor/temple4.jpeg" alt="The top of the chimney breast in the 13th century hall at Temple Manor." class="img-fluid">
       </div>
     </div>
   </div>      

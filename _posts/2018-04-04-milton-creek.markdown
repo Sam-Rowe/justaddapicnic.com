@@ -7,7 +7,7 @@ tag: Sittingbourne
 permalink: 
 excerpt: With a giant tunnel slide, climbing frame in a sand pit and lots of beautiful walks around the park.  Milton Creek is a great destintion for the whole family.
 images:
- - url: https://justaddapicnic.com/kent/outdoors/milton_creek/milton6.jpg
+ - url: https://justaddapicnic.com/images/kent/outdoors/milton_creek/milton6.jpg
    alt: Climbing frame and bouncy insects at Milton Creek Country Park
    title: Milton Creek Country Park
 ---
@@ -53,31 +53,31 @@ Bayford Meadows [Go Karting](https://www.bayfordmeadows.co.uk/) Track is under 2
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/milton_creek/milton5.jpg" alt="A long metal tunnel slide." class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/milton_creek/milton5.jpg" alt="A long metal tunnel slide." class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/milton_creek/milton3.jpg" alt=" View of the childrens play park" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/milton_creek/milton3.jpg" alt=" View of the childrens play park" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/milton_creek/milton6.jpg" alt="Rope climbing frame and bouncy characters to play on." class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/milton_creek/milton6.jpg" alt="Rope climbing frame and bouncy characters to play on." class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/milton_creek/milton1.jpg" alt="Sign posts and animal crayon rubbing plates." class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/milton_creek/milton1.jpg" alt="Sign posts and animal crayon rubbing plates." class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/milton_creek/milton7.jpg" alt="View of the sandpit from the wooden platform up on the hill." class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/milton_creek/milton7.jpg" alt="View of the sandpit from the wooden platform up on the hill." class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/milton_creek/milton4.jpg" alt="View towards the Church across the open grass space." class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/milton_creek/milton4.jpg" alt="View towards the Church across the open grass space." class="img-fluid">
       </div>
     </div>
 

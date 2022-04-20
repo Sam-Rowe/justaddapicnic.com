@@ -8,7 +8,7 @@ permalink:
 excerpt: This beach has grass banks leading down to the shingle beach, which reveals sandy flats at low tide.  There are public toilets here, free on-street parking and several cafe and pubs that enjoy the sea views.
 
 images: 
- - url: https://justaddapicnic.com/kent/outdoors/minster-beach/leas/leas1.jpg
+ - url: https://justaddapicnic.com/images/kent/outdoors/minster-beach/leas/leas1.jpg
    alt: Minster Leas beach and grassy bank
    title: Minster Leas Beach
 ---
@@ -35,19 +35,19 @@ Sheerness town centre is just under 2 miles away, where you will find the train 
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/minster-beach/leas/leas1.jpg" alt="View of the grass banks and shingle beach" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/minster-beach/leas/leas1.jpg" alt="View of the grass banks and shingle beach" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/minster-beach/leas/leas2.jpg" alt="View across the shingle beach out to the water" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/minster-beach/leas/leas2.jpg" alt="View across the shingle beach out to the water" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/minster-beach/leas/leas3.jpg" alt="View along the beach to the headland at East End." class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/minster-beach/leas/leas3.jpg" alt="View along the beach to the headland at East End." class="img-fluid">
       </div>
     </div>
 

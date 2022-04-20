@@ -8,7 +8,7 @@ permalink:
 excerpt:  Just outside Royal Tunbridge Wells the beautiful Dunorlan Park offers visitors a beautiful spot to enjoy a picnic and a stroll around the park.  You will find free parking, a cafe, toilets and children's play area, perfect if you want to stay all day. 
 
 images: 
- - url: https://justaddapicnic.com/kent/outdoors/dunorlan/dunorlan7.jpg
+ - url: https://justaddapicnic.com/images/kent/outdoors/dunorlan/dunorlan7.jpg
    alt: The sleeping dragon at Dunorlan Park
    title: Dunorlan Park
 ---
@@ -45,31 +45,31 @@ Tunbridge Wells town centre is approximately 1 mile away where you can find lots
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/dunorlan/dunorlan1.jpg" alt="The water gardens and cascade at Dunorlan Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/dunorlan/dunorlan1.jpg" alt="The water gardens and cascade at Dunorlan Park" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/dunorlan/dunorlan2.jpg" alt="View across the large boating lake at Dunorlan Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/dunorlan/dunorlan2.jpg" alt="View across the large boating lake at Dunorlan Park" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/dunorlan/dunorlan4.jpg" alt="Children's natural play equipment, a series of rope and wooden climbing structures." class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/dunorlan/dunorlan4.jpg" alt="Children's natural play equipment, a series of rope and wooden climbing structures." class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/dunorlan/dunorlan8.jpg" alt="A slide and large climbing logs inthe children's play area at Dunorlan park" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/dunorlan/dunorlan8.jpg" alt="A slide and large climbing logs inthe children's play area at Dunorlan park" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/dunorlan/dunorlan3.jpg" alt="View across the boating lake towards Dunorlan's cafe" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/dunorlan/dunorlan3.jpg" alt="View across the boating lake towards Dunorlan's cafe" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/dunorlan/dunorlan5.jpg" alt="Musical drums for the children to play with in the natural play area at Dunorlan Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/dunorlan/dunorlan5.jpg" alt="Musical drums for the children to play with in the natural play area at Dunorlan Park" class="img-fluid">
       </div>
     </div>
 

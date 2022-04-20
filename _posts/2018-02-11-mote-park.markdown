@@ -7,7 +7,7 @@ tag: Maidstone
 permalink: 
 excerpt: This is an extensive park with over 450 acres to explore set close to the centre of Madistone. It has a great children's play area, a 30 acre lake for pleasure use, a cafe and toilets. 
 images:
- - url: https://justaddapicnic.com/kent/outdoors/mote_park/Mote_Park1.jpg
+ - url: https://justaddapicnic.com/images/kent/outdoors/mote_park/Mote_Park1.jpg
    alt: A view of the lake at Mote Park.
    title: Mote Park
 ---
@@ -41,31 +41,31 @@ Maidstone town centre and all the wonderful shopping opportunities it offers is 
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/mote_park/mote-park2.jpg" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/mote_park/mote-park2.jpg" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/mote_park/mote-park1.jpg" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/mote_park/mote-park1.jpg" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/mote_park/mote-park4.jpg" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/mote_park/mote-park4.jpg" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/mote_park/mote-park7.jpg" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/mote_park/mote-park7.jpg" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/mote_park/mote-park3.jpg" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/mote_park/mote-park3.jpg" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/mote_park/mote-park8.jpg" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/mote_park/mote-park8.jpg" class="img-fluid">
       </div>
     </div>
 

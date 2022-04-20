@@ -8,7 +8,7 @@ permalink:
 excerpt: The lovely park just a stones throw from Whitstable train station is an ideal stop over for those using the trains to get to and from Herne Bay.  Or it offers a lovely spot for restless children who have had enough of window shopping.
 
 images: 
- - url: https://justaddapicnic.com/kent/outdoors/westmeads_whitstable/westmeads3.jpg
+ - url: https://justaddapicnic.com/images/kent/outdoors/westmeads_whitstable/westmeads3.jpg
    alt: Westmeads park, climbing frame and bouncy animal
    title: Westmeads Recreation Ground, Whitstable
 ---
@@ -42,31 +42,31 @@ Whitstable train station is only a 3 minute walk away, pretty much over the road
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/westmeads_whitstable/westmeads4.jpg" alt="Westmeads parks floor level trampoline and swings in the distance" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/westmeads_whitstable/westmeads4.jpg" alt="Westmeads parks floor level trampoline and swings in the distance" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/westmeads_whitstable/westmeads2.jpg" alt="Westmeads Park play equipment, rope swing and bouncy animall" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/westmeads_whitstable/westmeads2.jpg" alt="Westmeads Park play equipment, rope swing and bouncy animall" class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/westmeads_whitstable/westmeads6.jpg" alt="The caged basketball court and in-situ football goals at Westmeads Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/westmeads_whitstable/westmeads6.jpg" alt="The caged basketball court and in-situ football goals at Westmeads Park" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/westmeads_whitstable/westmeads5.jpg" alt="Large swing set at Westmeads Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/westmeads_whitstable/westmeads5.jpg" alt="Large swing set at Westmeads Park" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/westmeads_whitstable/westmeads1.jpg" alt="Baby swings at westmeads park" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/westmeads_whitstable/westmeads1.jpg" alt="Baby swings at westmeads park" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/westmeads_whitstable/westmeads3.jpg" alt="climbing frame and bouncy animal at Westmeads Park" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/westmeads_whitstable/westmeads3.jpg" alt="climbing frame and bouncy animal at Westmeads Park" class="img-fluid">
       </div>
     </div>
   </div>      

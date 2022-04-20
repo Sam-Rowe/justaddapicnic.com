@@ -8,7 +8,7 @@ permalink:
 excerpt: This is a little play area with a large playing field and woodland to enjoy.  Go on a bear hunt! Find the Gruffalo, or make your own Stick Man.  There's plenty to keep them entertained with a bit of imagination.
 
 images: 
- - url: https://justaddapicnic.com/kent/outdoors/lordswood-playarea/lordswood2.jpg
+ - url: https://justaddapicnic.com/images/kent/outdoors/lordswood-playarea/lordswood2.jpg
    alt: The smaller climbing frame and picnic benches at Lordswood play area.
    title: Lordswood Play Area
 ---
@@ -35,31 +35,31 @@ Parking here is on the road, or in the Lordswood Leisure Centre Car Park.  The c
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/lordswood-playarea/lordswood3.jpg" alt="View across the playing field at Lordswood Play area" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/lordswood-playarea/lordswood3.jpg" alt="View across the playing field at Lordswood Play area" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/lordswood-playarea/lordswood1.jpg" alt="The play equipment in Lordswood play area, swings, slides, climbing frames and see-saw." class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/lordswood-playarea/lordswood1.jpg" alt="The play equipment in Lordswood play area, swings, slides, climbing frames and see-saw." class="img-fluid">
       </div>  
     </div>
 
     <div class="col-md-4">
       <div class="card" id="lanscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/lordswood-playarea/lordswood5.jpg" alt="Wide view across the large playing field that sits behind Lordswood play area" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/lordswood-playarea/lordswood5.jpg" alt="Wide view across the large playing field that sits behind Lordswood play area" class="img-fluid">
       </div>
 
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/lordswood-playarea/lordswood4.jpg" alt="Inside the woods behind Lordswood Play area" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/lordswood-playarea/lordswood4.jpg" alt="Inside the woods behind Lordswood Play area" class="img-fluid">
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="card" id="portrait">
-        <img src="https://justaddapicnic.com/kent/outdoors/lordswood-playarea/lordswood6.jpg" alt="Looking up in to the tall trees in the woodland behind lordswood play area" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/lordswood-playarea/lordswood6.jpg" alt="Looking up in to the tall trees in the woodland behind lordswood play area" class="img-fluid">
       </div>
 
       <div class="card" id="landscape">
-        <img src="https://justaddapicnic.com/kent/outdoors/lordswood-playarea/lordswood2.jpg" alt="The smaller climbing frame and picnic benches at Lordswood play area" class="img-fluid">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/lordswood-playarea/lordswood2.jpg" alt="The smaller climbing frame and picnic benches at Lordswood play area" class="img-fluid">
       </div>
     </div>
 
