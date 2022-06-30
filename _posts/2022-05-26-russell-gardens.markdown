@@ -8,7 +8,7 @@ permalink:
 excerpt: 2 stunning parks split by a main road. There are lots of waterways here to explore, two fabulous play areas and plenty of space for picnics and ball games.
 
 images:
- - url: https://justaddapicnic.com/images/kent/outdoors/russell-gardens/russell-gardens4.jpg
+ - url: https://justaddapicnic.com/images/kent/outdoors/russell-gardens/russell-gardens4.jpeg
    alt: The large lake and water fowl at Kearnsey Abbey and Russell Gardens, Dover
    title: Kearnsey Abbey and Russell Gardens, Dover
 ---
@@ -32,42 +32,42 @@ Kearnsey train station is a 7 minute walk from the park along Alkham Road.
 St. Margaret's Beach
 Dover Beach
 Samphire Hoe
-White Cliffs of Dover National Trust you can view the parking charges and directions to this location [here] (https://www.nationaltrust.org.uk/the-white-cliffs-of-dover)
+White Cliffs of Dover National Trust you can view the parking charges and directions to this location [here](https://www.nationaltrust.org.uk/the-white-cliffs-of-dover/)
 
 ## Gallery
 
 <div class="container">
 <div class="row">
 
-<div class="col-md-4">
-  <div class="card" id="portrait">
-    <img src="https://justaddapicnic.com/images/kent/outdoors/russell-gardens/russell-gardens8.jpg" alt="Jumping on logs in the stream" class="img-fluid">
-  </div>
+    <div class="col-md-4">
+      <div class="card rotate90" id="portrait">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/russell-gardens/russell-gardens8.jpeg" alt="Jumping on logs in the stream" class="img-fluid">
+      </div>
 
-  <div class="card" id="landscape">
-    <img src="https://justaddapicnic.com/images/kent/outdoors/russell-gardens/russell-gardens3.jpg" alt="The sandpit in the play area at Kearnsey Abbey" class="img-fluid">
-  </div>
-</div>
+      <div class="card" id="landscape">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/russell-gardens/russell-gardens3.jpeg" alt="The sandpit in the play area at Kearnsey Abbey" class="img-fluid">
+      </div>
+    </div>
 
-<div class="col-md-4">
-  <div class="card" id="portrait">
-    <img src="https://justaddapicnic.com/images/kent/outdoors/russell-gardens/russell-gardens5.jpg" alt="The beautiful waterways and weirs at Kearnsey Abbey" class="img-fluid">
-  </div>
+    <div class="col-md-4">
+      <div class="card" id="landscape">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/russell-gardens/russell-gardens7.jpeg" alt="The play area at Russell gardens, the long fast slide and little house" class="img-fluid">
+      </div>
 
-  <div class="card" id="landscape">
-    <img src="https://justaddapicnic.com/images/kent/outdoors/russell-gardens/russell-gardens7.jpg" alt="The play area at Russell gardens, the long fast slide and little house" class="img-fluid">
-  </div>
-</div>
+      <div class="card rotate90" id="portrait">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/russell-gardens/russell-gardens5.jpeg" alt="The beautiful waterways and weirs at Kearnsey Abbey" class="img-fluid">
+      </div>
+    </div>
 
-<div class="col-md-4">
-  <div class="card" id="portrait">
-    <img src="https://justaddapicnic.com/images/kent/outdoors/russell-gardens/russell-gardens6.jpg" alt="waterways at Kearnsey Abbey make it cool and inviting in the summer" class="img-fluid">
-  </div>
+    <div class="col-md-4">
+      <div class="card rotate90" id="portrait">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/russell-gardens/russell-gardens6.jpeg" alt="waterways at Kearnsey Abbey make it cool and inviting in the summer" class="img-fluid">
+      </div>
 
-  <div class="card" id="landscape">
-    <img src="https://justaddapicnic.com/images/kent/outdoors/russell-gardens/russell-gardens2.jpg" alt="The view from the cafe across to the lake in Kearnsey Abbey, lots of mature trees enjoying the sunshine." class="img-fluid">
-  </div>
-</div>
+      <div class="card" id="landscape">
+        <img src="https://justaddapicnic.com/images/kent/outdoors/russell-gardens/russell-gardens2.jpeg" alt="The view from the cafe across to the lake in Kearnsey Abbey, lots of mature trees enjoying the sunshine." class="img-fluid">
+      </div>
+    </div>
 
 </div>      
 </div>
