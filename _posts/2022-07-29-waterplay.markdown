@@ -82,7 +82,7 @@ This reserve sits on the outskirts of Maidstone, near Tovil and Loose. You’ll 
 
   <div class="col-md-4">
     <div class="card" id="portrait">
-      <img src="/workspaces/justaddapicnic.com/images/kent/outdoors/russell-gardens/russell-gardens9.jpeg" alt="Paddling in the stream at Kearnsey Abbey, jumping from log to log" class="img-fluid">
+      <img src="https://justaddapicnic.com/images/kent/outdoors/russell-gardens/russell-gardens9.jpeg" alt="Paddling in the stream at Kearnsey Abbey, jumping from log to log" class="img-fluid">
       <p>Kearnsey Abbey and Russell Gardens</p>
     </div>
   </div>
