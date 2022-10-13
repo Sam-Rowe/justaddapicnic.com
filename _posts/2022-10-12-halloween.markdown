@@ -118,6 +118,10 @@ Click on the days to find out what's happening.
     <p>King George V Park Sittingbourne, ME10 1QX, <b>from 24th Oct - 31st Oct.</b> Local artist Gemma Jewiss has illustrated lots of beautiful scarecrows for you to find around the park.  Collect your trail sheet from King's Cafe for £2 per child.  Once completed you can claim you prize. In association with The Oak's Infant School PTA and King's Cafe.</p>
 </ul>
 
+<ul><h5>The Spookiest Riverside</h5>
+    <p>Parkside Quarter, Rochester, ME1 1PZ, <b>from 24th Oct - 30th Oct</b>.  Can you catch all the Ghosts in the Rochester Riverisde area? Call into the Rochester Riverside marketing suite to collect your free trail sheet.</p>
+</ul>
+
 <ul><h5>Halloween Scavenger Hunt</h5>
     <p>Whitstable Castle, CT5 2BW <b>from 24th Oct - 27th Oct (11 - 4pm)</b>. Collect a trail sheet from the cafe and find all the spooky characters hidden around the Castle grounds, or get stuck into some spooky crafts.  Trail sheets are £2 per child, carfts £1 per child.</p>
     <img src="https://www.justaddapicnic.com/images/event_posters/halloween2022/whitstableCasstle.jpg">
@@ -248,6 +252,10 @@ Click on the days to find out what's happening.
     <p>Rainham Library, ME8 7LR, <b>from 11:30 - 12:30</b>. Make your own African drum in this craft activitiy session. <a href="https://www.medway.gov.uk/events/event/737/african_drum_craft_at_rainham_library">Booking Here</a></p>
 </ul> 
 
+<ul><h5>Halloween Family Fun Day</h5>
+    <p>Westgate Towers, Canterbury, CT1 2BZ, <b>from 12 - 4pm</b>. Join the team for Halloween crafts and games in your best costumes. £4 per child.</p>
+</ul>
+
 <ul><h5>Owl Pellet Detectives</h5>
     <p>Coombe Hole and Fort Burgoyne, CT15 5LR <b>from 1 - 3pm</b>.  Can you work out what the owls had for dinner as we dissect real owl pellets! <a href="https://www.eventbrite.co.uk/e/green-gang-owl-pellet-detectives-tickets-429128564087?aff=ebdshpsearchautocomplete">Booking Here</a> with Event Brite in association with White Cliffs Countryside Partnership.</p>
 </ul> 
@@ -274,6 +282,10 @@ Click on the days to find out what's happening.
 
 <ul><h5>Family Friendly Safari</h5>
     <p>West Blean and Thornden Woods, CT6 7NZ, <b>from 2:30 - 4:30pm</b>.  Join rangers as you explore the woods and find out more about the animals living there, from the mighty bison to the tiny wood ant.  Identify tree from their leaves and seed, get involved with some bark rubbing too. Tickets are £15 per child, accompanying adults are free. <a href="https://www.kentwildlifetrust.org.uk/events/2022-10-29-wilder-kent-safari-autumn-wildlife-watch-blean?fbclid=IwAR1TIfjoObdirvJ9vxlMyq5bfEn8iFJNo5zT9hZcWa6VbQR5WLrMJvxJ_eo">Booking Here</a></p>
+</ul>
+
+<ul><h5>Halloween Family Fun Day</h5>
+    <p>Westgate Towers, Canterbury, CT1 2BZ, <b>from 12 - 4pm</b>. Join the team for Halloween crafts and games in your best costumes. £4 per child.</p>
 </ul>
 
 <ul><h5>Winter Magic Wands!</h5>
@@ -307,7 +319,8 @@ Click on the days to find out what's happening.
     <img src="https://justaddapicnic.com/images/event_posters/halloween2022/betteshangerMarket.jpg">
 </ul>
 
-<ul><h5></h5>
-<p><b></b></p>
+<ul><h5>Challenge the Road</h5>
+<p>Bewl Water, TN3 8JH<b> from 11 - 3pm</b>. Come and gaze at the stunning sports cars on display. Enjoy the park and take a walk alongthe edge of the reservoir. No charge for entry, parking charges still apply.</p>
 </ul>
+
 </details>
