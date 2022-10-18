@@ -114,6 +114,21 @@ Click on the days to find out what's happening.
     <p>Hall Place and Gardens, DA5 1PQ, <b>from 1st Oct - 31st Oct</b>. Collect a trail sheet from the cafe for £2.50, find all of the spooky characters around the garden and receive a small chocolate prize on completion. Available daily from 10am - 4pm.</p>
 </ul>
 
+<ul><h5>Monster Mash Half Term Fun</h5>
+    <p>The Mall, Maidstone, ME15 6AT, <b>from 24th - 30th Oct</b>.  The Monster Mash craft bar will be open for business for October half term, as little shoppers are welcome to visit and create all manor of spooktacular things….  All workshops will run 10.30am to 3.30pm</p>
+    <p>You might also see family friendly spooky characters around The Mall they are making appearances between 10am and 11am if you find them, they might give you a free spooky treat!  Before heading off into the town.</p>
+</ul>
+
+<ul><h5>Maidstone Scarecrow Festival</h5>
+    <p>Around Maidstone town centre, including The Mall, Lockmeadow, Fremlin Walk and Royal Star Arcade. <b>From 22nd Oct - 29th Oct</b>  You can also take part in the Maidstone Scarecrow Festival.  Maidstone will be welcoming a host of colourful scarecrows to the town centre.  Local schools and community groups have been busy creating scarecrows based on the themes of ‘Maidstone Faces’ or ‘Famous characters from literature’.  With prizes to the best school and the best community group but we need your help to decide the winners by voting for their favourites.  Which one do you think is best?</p>
+    <img src="https://www.justaddapicnic.com/images/event_posters/halloween2022/scarecrow_maidstone.jpeg">
+</ul>
+
+<ul><h5>Halloween Fun</h5>
+    <p>Whitefriars, Canterbury, CT1 2TF, <b>from 25th - 29th Oct</b>.  Come and join in the Halloween fun at Whitefriars. We have a Dragon meet & greet on the 25th & 26tb October and Halloween VR ride 25th – 29th October along with FREE arts and crafts during the week.  Activities will run from 11am – 4pm in Whitefriars Square. The VR ride is £2.50 per person and suitable for ages 3 and above (under 5s should sit on laps). All other activities are FREE and there is no need to book.</p>
+    <img scr="https://www.justaddapicnic.com/images/event_posters/halloween2022/whitefriars.jpeg">
+</ul>
+
 <ul><h5>Autumnal Art Workshops</h5>
     <p>Sun Pier House, Chatham, ME4 4HF, <b>various dates, 20th, 26th, 28th Oct and 3rd Nov</b> Several FREE drop in sessions at Sun Pier House for you to take part in.</p>
     <img src="https://www.justaddapicnic.com/images/event_posters/halloween2022/sunpierchatham.jpeg">
@@ -200,6 +215,10 @@ Click on the days to find out what's happening.
     <p>Barton Path, River Dour, CT16<b> from 10:30 - 12pm</b>. Come along to the River Dour to see what amazing creatures live just below the surface. Please make sure that you bring wellies or shoes you dont mind getting wet! A change of clothes may also be advisable, please dress for the weather.  <a href="https://www.eventbrite.com/e/green-gang-river-dipping-the-dour-tickets-429124431727?aff=ebdssbcitybrowse&keep_tld=1">Bookings made here</a> on Event Brite in association with White Cliff Countryside Partnership</p>
 </ul>
 
+<ul><h5>Dragon Meet and Greet</h5>
+    <p>Whitefriars Shopping Centre, Canterbury, CT1 2TF. Making appearances from our Halloween themed marquee in Whitefriars Square the Dragon breathes smoke and flaps his wings, making him the UK’s most realistic walking Dragon!  The Dragon, along with a keeper, will be making appearances throughout the day. We also have FREE arts & crafts</p>    
+</ul>
+
 <ul><h5>Signs of Autumn Photography Trail</h5>
     <p>Faversham Recreation Ground, ME13 8EU, with <a href="https://annaoutdoors.co.uk">Anna Outdoors</a><b> from 10:30 - 12pm or 12:30 - 2pm</b>.  Discover some signs of Autumn and help us record the wildlife of the Recreation Ground by capturing some images of plants and animals. <a href="https://www.facebook.com/events/777223230241728/777223233575061/?event_time_id=777223233575061&ref=newsfeed">Booking Here</a></p>
 </ul>
@@ -230,7 +249,11 @@ Click on the days to find out what's happening.
 
 <details><summary><b>Thursday 27th October</b></summary>
 <ul><h5>Trick or Treat Scare Fest</h5>
-    <p>Pentagon Shopping Centre, ME4 4HY<b> from 11 - 4pm</b>. Come and make a trick or treat goblet that you can then fill with goodies!</p>
+    <p>Pentagon Shopping Centre, ME4 4HY<b> from 11 - 4pm</b>. First job will be to pop to the scare zone by Wilko and create your very own Trick or Treat Goblet. Then it's time to follow the clues around the shops and fill your goblet with sweet treats and stamp your card. Once all the shops are stamped it's back to the Scare Zone for a professional photo and to take part in the Scare & Share competition Gallery.  <a href="https://www.eventbrite.co.uk/etrick-or-treat-scare-fest-at-the-pentagon-tickets-427191981717">Book your FREE place</a></p>
+</ul>
+
+<ul><h5>Dragon Meet and Greet</h5>
+    <p>Whitefriars Shopping Centre, Canterbury, CT1 2TF. Making appearances from our Halloween themed marquee in Whitefriars Square the Dragon breathes smoke and flaps his wings, making him the UK’s most realistic walking Dragon!  The Dragon, along with a keeper, will be making appearances throughout the day. We also have FREE arts & crafts</p>    
 </ul>
 
 <ul><h5>Build a Bug House</h5>
@@ -307,6 +330,10 @@ Click on the days to find out what's happening.
     <img src="https://justaddapicnic.com/images/event_posters/halloween2022/betteshangerMarket.jpg">
 </ul>
 
+<ul><h5>Spooky Pottery Painting</h5>
+    <p>Expression Arts, Canterbury, CT1 2TJ, <b>from 10am - 12pm</b>. Children are welcome to book a space to enjoy Halloween Pottery Painting at our Spooky Halloween Kids Club, suitable for children 5 - 12.  Children will select, design and, create a pottery piece from the selection available, pumpkins, bats, witch hats, skulls, and other spooky characters are available. Drinks and Snacks are available as part of the cost.  Children might like to come in fancy dress to carry on their Halloween weekend activites.  Tickets are £20 per child, parents can stay for an additional £5 each. <a href="https://www.espression.co.uk/events-1/spooky-halloween-art-club">Booking Here</a></p>
+</ul>
+
 <ul><h5>Queenborough Harbour Market</h5>
     <p>Queenborough Harbour, ME11 5AF<b> from 10 - 3pm</b>. Come and explore the town in your best Halloween fancy dress, then walk though the harbour market for games, a treasure hunt, face painting and more.  Prizes for the best fancy dress!</p>
     <img src="https://www.justaddapicnic.com/images/event_posters/halloween2022/queenboroughMarket.jpg">
@@ -329,6 +356,11 @@ Click on the days to find out what's happening.
 
 <ul><h5>Halloween Masks and Baskets</h5>
     <p>Folkestone Museum, CT20 1DY, <b>from 11 - 3:30pm</b>.   Come and make a mask to scare your family and a basket to keep all your halloween treats in!  Activities are FREE and run in the learning space at the museum (11 - 12:45pm and 1:30 - 3:30pm).  <a href="https://folkestonemuseum.co.uk/whats-on/">More information</a></p>
+</ul>
+
+<ul><h5>Trick or Treat Scarefest</h5>
+<p>Priory Shopping Centre, Dartford, <b>from 11 - 4pm</b>. Join us in the Market Place at the Priory on the 29th Sept for our FREE Halloween Party. First job will be to pop to the scare zone bin The Market Place and create your very own Trick or Treat Goblet. Then It's time to follow the clues around the shops and fill your goblet with sweet treats and stamp you card. Once all the shops are stamped it's back to the Scare Zone for a professional photo and to take part in the Scare & Share competition Gallery. <a href="https://www.eventbrite.co.uk/e/trick-or-treat-scare-fest-at-the-priory-tickets-427160337067">Book your spaces here</a></p>
+<img src="https://www.justaddapicnic.com/images/event_posters/halloween2022/priory.webp">
 </ul>
 
 <ul><h5>Halloween Party</h5>
