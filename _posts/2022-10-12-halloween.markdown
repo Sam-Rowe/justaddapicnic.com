@@ -54,6 +54,7 @@ Click on the days to find out what's happening.
 
 <ul><h5>Haunted House</h5>
     <p>Riverside Country Park, ME7 2XH, <b>from 24th Oct - 28th Oct</b>. Search for special keys throughout the haunted house.  Suggested age 7+, £3 per child.</p>
+    <img src="https://www.justaddapicnic.com/images/event_posters/halloween2022/riversidehouse.jpeg">
 </ul>
 
 <ul><h5>Pumpkin Town</h5>
@@ -92,6 +93,11 @@ Click on the days to find out what's happening.
     <p>Shorne Woods Country Park, DA12 3HX, <b>from 22nd Oct - 6th Nov</b>. Collect a trail sheet from the Visitors Centre and embark on an adventure around the park.  Charge apply.</p>
 </ul>
 
+<ul><h5>Fungi, Fir Cones and Freaky Creatures</h5>
+    <p>Sandwich Bay Bird Observatory Trust, CT13 9PF, <b>from 22nd Oct - 28th Oct</b>.  £5 for a family trail aroud the centre looking at the flora and fauna.  There will be craft activities and refreshments available. Trails open from 10am - 3pm.  <a href="https://sbbot.org.uk/book-events/">Booking Here.</a></p>
+    <img src="https://www.justaddapicnic.com/images/event_posters/halloween2022/sandwichbay.jpeg">
+</ul>
+
 <ul><h5>Craft Workshop: Future Superheroes</h5>
     <p>Horniman Museum, London, SE23 3PQ, <b>from 24th Oct - 27th Oct</b>, various sessions running from 10:30am to 3:30 pm.  Create a superhero of the future this Black History Month, cutting and collaging with recycled materials.  This workshop, led by artist Habiba Nabisubi, takes inspiration from traditional African artefacts in the Horniman’s collections, black comic book characters from Habiba’s personal archive, and afrofuturistic artworks from the 1960s onwards. Who will your fantastical Future Superhero be?  Tickets are £5 per child, adults are free. <a href="https://www.horniman.ac.uk/event/craft-workshop-future-superheroes/">Book tickets here</a></p>
 </ul>
@@ -106,6 +112,11 @@ Click on the days to find out what's happening.
 
 <ul><h5>Halloween Trail</h5>
     <p>Hall Place and Gardens, DA5 1PQ, <b>from 1st Oct - 31st Oct</b>. Collect a trail sheet from the cafe for £2.50, find all of the spooky characters around the garden and receive a small chocolate prize on completion. Available daily from 10am - 4pm.</p>
+</ul>
+
+<ul><h5>Autumnal Art Workshops</h5>
+    <p>Sun Pier House, Chatham, ME4 4HF, <b>various dates, 20th, 26th, 28th Oct and 3rd Nov</b> Several FREE drop in sessions at Sun Pier House for you to take part in.</p>
+    <img src="https://www.justaddapicnic.com/images/event_posters/halloween2022/sunpierchatham.jpeg">
 </ul>
 
 <ul><h5>An Amelia Halloween Experience</h5>
@@ -139,6 +150,10 @@ Click on the days to find out what's happening.
 <details><summary><b>Saturday 22nd October</b></summary>
 <ul><h5>African Drumming Workshop</h5>
     <p>Chatham Library and Community Hub, ME4 4TX,<b> from 3 - 4pm</b>. <a href="https://www.medway.gov.uk/events/event/735/african_drum_craft_at_chatham_community_hub">Booking Required</a> or phone 01634 337799.</p>
+</ul>
+
+<ul><h5>Diwali lamps and Garlands</h5>
+    <p>Folkestone Museum, CT20 1DY<b> from 11 - 3:30pm</b>. Come and make some Diwali themed crafts at the Museum.  Activities run downstairs in our learning space (11am-12.45pm and 1.30pm-3.30pm), are FREE and are suitable for ages 4-11, but if you’re older or younger you’ll still be more than welcome! <a href="https://folkestonemuseum.co.uk/whats-on/">More information</a></p>
 </ul>
 </details>
 
@@ -194,6 +209,10 @@ Click on the days to find out what's happening.
     </p>
 </ul>
 
+<ul><h5>Diwali lamps and Garlands</h5>
+    <p>Folkestone Museum, CT20 1DY<b> from 11 - 3:30pm</b>. Come and make some Diwali themed crafts at the Museum.  Activities run downstairs in our learning space (11am-12.45pm and 1.30pm-3.30pm), are FREE and are suitable for ages 4-11, but if you’re older or younger you’ll still be more than welcome! <a href="https://folkestonemuseum.co.uk/whats-on/">More information</a></p>
+</ul>
+
 <ul><h5>Fire Biulding and Camp Fire Cooking</h5>
     <p>Capstone Farm Country Park, ME7 3JE, <b>from 10 - 12pm or 1 - 3pm</b>. Activity is priced at £5 per person.  Booking for this event can be made using the following number 01634 338191 (between 9am - 3:30pm). Suggested age 5+ years</p>
 </ul>
@@ -214,6 +233,11 @@ Click on the days to find out what's happening.
     <p>Pentagon Shopping Centre, ME4 4HY<b> from 11 - 4pm</b>. Come and make a trick or treat goblet that you can then fill with goodies!</p>
 </ul>
 
+<ul><h5>Build a Bug House</h5>
+    <p>Broomhill Park, Strood, ME2 3NB, <b>from 10:30 - 12pm</b>.  Come along and help Friends of Broomhill Park build bug houses to hide in the park.  This is a lovely spot with views out over the Medway River, so bring your lunch and play in the park afterwards.</p>
+    <img src="https://www.justaddapicnic.com/images/event_posters/halloween2022/broomhill.jpeg">
+</ul>
+
 <ul><h5>Half Term Family Fun</h5>
     <p>Tyland Barn, ME14 3BD<b> from 10:30 - 12:30pm or 1:30 - 3:30pm</b>. Your ticket includes a campfire session with Kent Wildlife Trust's education team and Halloween inspired craft activities, including making an autumn leaf wreath and a pinecone spider or owl to take home with you. Colouring sheets and pencils will also be available, and you can explore the grounds at Tyland Barn as you please.  £10 tickets are for one child and one adult. To help with capacity, any additional adults will require their own ticket for £2.  <a href="https://www.kentwildlifetrust.org.uk/events/2022-10-27-half-term-family-fun-tyland-barn?fbclid=IwAR2tXBUA8e1LNlaKR6jMrmWMfNZyTWNsXLqZhi61j3Z9LYlepLOO96xn_6g">Booking Here</a></p>
 </ul>
@@ -224,6 +248,10 @@ Click on the days to find out what's happening.
 
 <ul><h5>Pumpkin Carving</h5>
     <p>Capstone Farm Country Park, ME7 3JE, <b>from 10 - 12pm or 1 - 3pm</b>. Activity is priced at £6 per person.  Booking for this event can be made using the following number 01634 338191 (between 9am - 3:30pm). Suggested age 5+ years</p>
+</ul>
+
+<ul><h5>Monster with We Are Family</h5>
+    <p>Folkestone Museum, CT20 1DY, <b>from 11 - 3:30pm</b>. Come and create ghoulish monsters with We Are Family at Folkestone Museum.  Activities will be in the learning space (11 - 12:45 pm and 1:30 - 3:30pm).  Activities are FREE and suitable for 4-11, younger visitors will need parental assistance.  <a href = "https://folkestonemuseum.co.uk/whats-on/">More Information</a></p>
 </ul>
 
 <ul><h5>Autumn Ramble</h5>
@@ -243,9 +271,8 @@ Click on the days to find out what's happening.
     <p>Romney Marsh Visitors Centre, TN28 8AY <b>from 1 - 3pm</b>. Learn more about the marvellous world of British Bats and take part in 3D modelling and decorating bats to take home using a variety of mediums, including sticks, recycled materials, glues, paints, decorative papers and fabrics! Tickets are £14 for a family with up to 3 children, or £6 per child. <a href="https://www.kentwildlifetrust.org.uk/events/2022-10-28-family-workshop-brilliant-bats?fbclid=IwAR3DMNh5h53EaizPpsrpEZKXL7xoCbc_OQhvoAOSEY6UmKvthO5qQjvCIBQ">Booking Here</a> </p>
 </ul> 
 
-<ul><h5>Pizza Making</h5>
-    <p>Macknade Ashford, TN23 1AE <b>from 2 - 4:30pm</b>. Come to Macknade's to design and make your own Halloween pizza. There will also be prizes for best costumes, Halloween activity sheets and an in-store treasure hunt.  Pizza making is £5 each, suggested age 4-12 years. <a href="https://macknade.com/products/copy-of-halloween-half-term-pizza-fun">More Info Here</a>
-    </p>
+<ul><h5>Halloween Masks and Baskets</h5>
+    <p>Folkestone Museum, CT20 1DY, <b>from 11 - 3:30pm</b>.   Come and make a mask to scare your family and a basket to keep all your halloween treats in!  Activities are FREE and run in the learning space at the museum (11 - 12:45pm and 1:30 - 3:30pm).  <a href="https://folkestonemuseum.co.uk/whats-on/">More information</a></p>
 </ul>
 
 <ul><h5>Children's African Drumming</h5>
@@ -267,6 +294,11 @@ Click on the days to find out what's happening.
 <ul><h5>Wild Classroom Outdoor Cooking</h5>
     <p>HatHats Coffee, Reculver Country Park, CT6 6SS<b> from 10:30am</b>. Join Wild Classroom this autumn half term at Reculver where we will be cooking a spiced squash and charred pepper soup. This warming treat will be the perfect warmer for the shorter days ahead. As ever this is a hands-on educational workshop where the children will do all the cooking over fire!  We always aim for our food to be healthy and in most cases vegetarian, and are happy to cater for any dietary requirements by emailing scott@wildclassroom.co.uk.  Suggested age 4+ years, £12.50 per child.  <a href="https://hathats.co.uk/products/wild-classroom-outdoor-cooking-1?pr_prod_strat=collection_fallback&pr_rec_id=5f1dc21a3&pr_rec_pid=7135883460748&pr_ref_pid=7135877660812&pr_seq=uniform&variant=40958614569100">Booking Here</a></p>
 </ul>
+
+<ul><h5>Sharks Teeth and Fossil Hunting</h5>
+    <p>HatHats Coffee, Reculver Country Park, CT6 6SS, <b>from 9:30am - 11:30am</b>.  Join Anna Outdoors on a natural treasure hunt with a difference! Explore Reculver’s rocky shore looking for 50 million plus year-old sharks’ fossilised teeth! All equipment provided, including sharks’ teeth to take home!  £12.50 per participant. (up to 2 x accompanying adults free). suitable for 6+ years, please wear weather appropriate clothing and footwear. <a href="https://hathats.co.uk/collections/events/products/28th-october-spooktacular-shark-teeth-fearsome-fossil-hunting-with-anna-outdoors?variant=41037215924364">Booking Here.</a></p>
+</ul>
+
 </details>
 
 <details><summary><b>Saturday 29th October</b></summary>
@@ -294,10 +326,16 @@ Click on the days to find out what's happening.
 <ul><h5>Wild Fang Animal Handling</h5>
     <p>Horniman Museum, London, SE23 3PQ, <b>from 10 - 3:30pm</b> (several sessions available). <em>"Will you be brave enough to handle some creepy critters? Take a ssselfie with a Snake? Get up close and personal with a monster frog or glow in the dark scorpion?"</em>.  Tickets are £5 per child, £2.50 per adult.<a href="https://www.horniman.ac.uk/event/wild-fangs-creepy-creatures-cave/"> Book Tickets here</a></p>
 </ul>
+
+<ul><h5>Halloween Masks and Baskets</h5>
+    <p>Folkestone Museum, CT20 1DY, <b>from 11 - 3:30pm</b>.   Come and make a mask to scare your family and a basket to keep all your halloween treats in!  Activities are FREE and run in the learning space at the museum (11 - 12:45pm and 1:30 - 3:30pm).  <a href="https://folkestonemuseum.co.uk/whats-on/">More information</a></p>
+</ul>
+
 <ul><h5>Halloween Party</h5>
     <p>Park Farm, Lynsted, ME9 0JH <b>from 4 - 6pm</b>. Lots of live music, fun, games and a BBQ in the community cherry orchard, Parking is £4 per car, no dogs.</p>
     <img src="https://www.justaddapicnic.com/images/event_posters/halloween2022/parkFarm.jpg">
 </ul>
+
 <ul><h5>Spooky Garden</h5>
     <p>Community kitchen at Memorial Park, Herne Bay, CT6 5QL <b>from 4 - 8pm</b> (if you dare to stay 'til after dark!).  Come in your fancy dress for some trick or treating, toasting marshmellows and sausage sizzling!</p>
     <img src="https://www.justaddapicnic.com/images/event_posters/halloween2022/herneBayGarden.jpeg">
