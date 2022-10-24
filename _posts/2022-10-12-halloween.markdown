@@ -16,7 +16,7 @@ images:
 ## October Half Term 2022
 We have tried to find all the activities and events taking place across Kent in our fantastic country parks, museums and community spaces.
 Where there is a charge for the activity, or it needs booking we have tried to ensure this information has been included.
-If you know of any other activities that you think we should be sharing, please contact us through our Facebook, Instagram or e-mail - sugessitons@justaddapicnic.com.
+If you know of any other activities that you think we should be sharing, please contact us through our Facebook, Instagram or e-mail - suggestions@justaddapicnic.com.
 
 Click on the days to find out what's happening.
 
@@ -48,9 +48,22 @@ Click on the days to find out what's happening.
     <img scr="https://www.justaddapicnic.com/images/event_posters/halloween2022/whitefriars.jpeg">
 </ul>
 
+<ul><h5>The Great Coastal Bird Watch</h5>
+    <p>guided walks with the team from Bird Wise<b> from 23rd - 30th Oct</b>, at various locations, see the poster below.  These places are FREE, please make sure you wear weather appropriate footwear and outer clothing.</p><a href="https://northkent.birdwise.org.uk/bird-wise-events/">  Make your booking here.</a>
+    <img src="https://www.justaddapicnic.com/images/event_posters/halloween2022/birdwise.jpeg">
+</ul>
+
 <ul><h5>Autumnal Art Workshops</h5>
     <p>Sun Pier House, Chatham, ME4 4HF, <b>various dates, 20th, 26th, 28th Oct and 3rd Nov</b> Several FREE drop in sessions at Sun Pier House for you to take part in.</p>
     <img src="https://www.justaddapicnic.com/images/event_posters/halloween2022/sunpierchatham.jpeg">
+</ul>
+
+<ul><h5>Eagle Eyes trail sheet</h5>
+    <p>Rochester Cathedral, ME1 1SX,<b> from 24th - 28th Oct</b>, from 10 - 4pm.  Explore the Cathedral with our Eagle Eyes trail sheet and see what you can spot.</p>
+</ul>
+
+<ul><h5>Message of Peace</h5>
+    <p>Rochester Cathedral, ME1 1SX,<b> from 24th - 28th Oct</b>, from 10 - 4pm. Leave a message of peace and hope on a paper dove which will become part of a special art installation next Spring.</p>
 </ul>
 
 <ul><h5>Medway Library activities</h5>
@@ -75,6 +88,11 @@ Click on the days to find out what's happening.
 <ul><h5>Spooktacular Day</h5>
     <p>The Barnyard, Swnaley Park BR8 7PW.  <b>From 26th Oct - 28th Oct</b>.  Create a hand puppet, make a scary mask and get 2 hours of soft play for £11 per child.  <a href="https://www.swanleypark.co.uk/event/spook-tacular-day-at-the-barnyard/">Booking required</a></p>
     <img src="https://www.justaddapicnic.com/images/event_posters/halloween2022/swanleyBarnyard.jpg">
+</ul>
+
+<ul><h5>Half Term Family Fun</h5>
+    <p>Woodlands Farm, Shooters Hill, Welling, DA16 3RP, <b>on 25th, 26th and 28th Oct</b>.  Several family friendly paid for activities taking place at the farm this half term.  The farm is FREE to enter, but the activities all carry a charge to help with the cost of he materials and the running of the farm.  See the poster for fruther details.</p>
+    <img src="https://www.justaddapicnic.com/images/event_posters/halloween2022/woodland_farm.jpeg">
 </ul>
 
 <ul><h5>Ghostly Trail</h5>
@@ -113,6 +131,10 @@ Click on the days to find out what's happening.
     Do you dare enter?</em>
     N.B. The Woodland has been designed for children and early teens and contains elements that some may find scary!" Tickets are £10 per child (includes 2 accompanying adults) <a href="https://bookwhen.com/halloween99#focus=ev-sq6g-20221015143000">Tickets can be booked here</a></p>
     <img src="https://www.justaddapicnic.com/images/event_posters/halloween2022/betteshanger2.jpg">
+</ul>
+
+<ul><h5>Creepy Crafting</h5>
+    <p>Kent Mining Museum, Betteshanger Park, Deal, CT14 0BF, <b>24th - 28th Oct</b>.  Our crafternoons have gone spooky! Make lamps to help you see in the dark, craft your own bug fossils, make a hanging swarm of hornets!  Suitable for participants between 4 - 11 years, activity costs £5.98 (inc. eventbirte ticket fee)</p><a href="https://www.eventbrite.co.uk/e/creepy-crafting-tickets-430888197197?aff=ebdssbdestsearch">Book you places here</a>
 </ul>
 
 <ul><h5>Spooktacular Scary Tales </h5>
@@ -230,12 +252,20 @@ Click on the days to find out what's happening.
     </p>
 </ul>
 
+<ul><h5>Glorious Green Men (and Women)</h5>
+    <p>Rochester Cathedral, ME1 1SX, <b>from 10:30 - 12:30pm or 1 - 3pm</b>.  Find the many green men (and women) that are hidden in the decorations around the Cathedral, then create your own paper Green person picture taking inspiration from those you have found.  Learn about the Christian faiths association with the Green Man.  £1 per person for this craft activity.</p>
+</ul>
+
 <ul><h5>Autumn Wreath Making</h5>
     <p>Capstone Farm Country Park, ME7 3JE, <b>from 10 - 12pm or 1 - 3pm</b>. Activity is priced at £5 per person.  Booking for this event can be made using the following number 01634 338191 (between 9am - 3:30pm).</p>
 </ul>
 
 <ul><h5>Kite Making</h5>
     <p>Riverside Country Park, Rainham, ME7 2XH, <b>from 10 - 12pm or 1 - 3pm</b>.  Come and make a kite with the park rangers. Priced at £5 per child, suitable for 5-12 year olds.  Bookings can be made by contacting 01634 337432, or by speaking to staff in the visitors centre.</p>
+</ul>
+
+<ul><h5>Creepy Crafting</h5>
+    <p>Kent Mining Museum, Betteshanger Park, Deal, <b></b></p>
 </ul>
 
 <ul><h5>Halloween Craft Sessions</h5>
@@ -263,10 +293,24 @@ Click on the days to find out what's happening.
     <p>Folkestone Museum, CT20 1DY<b> from 11 - 3:30pm</b>. Come and make some Diwali themed crafts at the Museum.  Activities run downstairs in our learning space (11am-12.45pm and 1.30pm-3.30pm), are FREE and are suitable for ages 4-11, but if you’re older or younger you’ll still be more than welcome! <a href="https://folkestonemuseum.co.uk/whats-on/">More information</a></p>
 </ul>
 
+<ul><h5>Veteran Tree Open Day</h5>
+    <p>Lullingstone Country Park, DA4 0JF, <b>from 12 - 6:30pm</b>.  Follow the new veteran tree trail around the park and find activity stations where you could do moth catching, bug hunting, seed planting and more.</p>
+    <img src="https://www.justaddapicnic.com/images/event_posters/halloween2022/lullingstone_trees.jpeg">
+</ul>
+
 <h3>PAID FOR activities / events</h3>
 <ul><h5>Pizza Making</h5>
     <p>Macknade Faversham, ME13 8XF, <b>from 11 - 2:30pm</b>. Come to Macknade's to design and make your own Halloween pizza. There will also be prizes for best costumes, Halloween activity sheets and an in-store treasure hunt.  Pizza making is £5 each, suggested age 4-12 years. <a href="https://macknade.com/products/halloween-half-term-fun">More Info Here</a>
     </p>
+</ul>
+
+<ul><h5>Family Fun Day</h5>
+    <p>Canterbury Garden Centre, CT6 7LJ, <b>10:30 - 4pm</b>.  Put on your favourite Halloween outfit and join in the fun at the gardens Centre. Entry to the garden centre is FREE, but you'll need some money for the activities; pumpkin carving, face painting, stupendous science fun, a halloween trail and much more.  No booking necessary.</p>
+    <img src="https://www.justaddapicnic.com/images/event_posters/halloween2022/canterbury_garden.jpeg">
+</ul>
+
+<ul><h5>Spooky Storytime</h5>
+    <p>Kent Mining Museum, Betteshanger Park, Deal, CT14 0BF, <b>2 - 3pm</b>. Join us below ground in our basement for stories relating to mining, bugs and beyond. Our Ross the mouse will even star in his own coal mining adventure. £3 per child (accompanying adult goes free). Suitable for 0 - 4 year olds.<a href="https://www.eventbrite.co.uk/e/spooky-storytime-tickets-433468194037?aff=ebdssbdestsearch">  Booking here.</a></p>
 </ul>
 
 <ul><h5>Fire Biulding and Camp Fire Cooking</h5>
@@ -288,7 +332,7 @@ Click on the days to find out what's happening.
 
 <h3>FREE activites / events</h3>
 <ul><h5>Trick or Treat Scare Fest</h5>
-    <p>Pentagon Shopping Centre, ME4 4HY<b> from 11 - 4pm</b>. First job will be to pop to the scare zone by Wilko and create your very own Trick or Treat Goblet. Then it's time to follow the clues around the shops and fill your goblet with sweet treats and stamp your card. Once all the shops are stamped it's back to the Scare Zone for a professional photo and to take part in the Scare & Share competition Gallery.  <a href="https://www.eventbrite.co.uk/etrick-or-treat-scare-fest-at-the-pentagon-tickets-427191981717">Book your FREE place</a></p>
+    <p>Pentagon Shopping Centre, Chatham, ME4 4HY<b> from 11 - 4pm</b>. First job will be to pop to the scare zone by Wilko and create your very own Trick or Treat Goblet. Then it's time to follow the clues around the shops and fill your goblet with sweet treats and stamp your card. Once all the shops are stamped it's back to the Scare Zone for a professional photo and to take part in the Scare & Share competition Gallery.  <a href="https://www.eventbrite.co.uk/etrick-or-treat-scare-fest-at-the-pentagon-tickets-427191981717">Book your FREE place</a></p>
 </ul>
 
 <ul><h5>Dragon Meet and Greet</h5>
@@ -314,6 +358,10 @@ Click on the days to find out what's happening.
 
 <h3>PAID FOR activities / events</h3>
 
+<ul><h5>Brass Rubbings</h5>
+    <p>Rochester Cathedral, ME1 1SX, <b>from 10:30 - 12:30pm</b>.  Have a go at brass rubbings around the Cathedral, £1 per participant, bring your own crayons if you have a favourite colour!</p>
+</ul>
+
 <ul><h5>Half Term Family Fun</h5>
     <p>Tyland Barn, ME14 3BD<b> from 10:30 - 12:30pm or 1:30 - 3:30pm</b>. Your ticket includes a campfire session with Kent Wildlife Trust's education team and Halloween inspired craft activities, including making an autumn leaf wreath and a pinecone spider or owl to take home with you. Colouring sheets and pencils will also be available, and you can explore the grounds at Tyland Barn as you please.  £10 tickets are for one child and one adult. To help with capacity, any additional adults will require their own ticket for £2.  <a href="https://www.kentwildlifetrust.org.uk/events/2022-10-27-half-term-family-fun-tyland-barn?fbclid=IwAR2tXBUA8e1LNlaKR6jMrmWMfNZyTWNsXLqZhi61j3Z9LYlepLOO96xn_6g">Booking Here</a></p>
 </ul>
@@ -324,6 +372,10 @@ Click on the days to find out what's happening.
 
 <ul><h5>Autumn Ramble</h5>
     <p>Riverside Country Park, Rainham, ME7 2XH, <b>from 10 - 12pm or 1 - 3pm</b>.  Come and join the rangers on an autumn ramble to find materials to create a collage.  Please dress for the weather and wear suitable footwear. Priced at £2 per child, suggested age 5-12 year olds.  Bookings can be made by contacting 01634 337432, or by speaking to staff in the visitors centre.</p>
+</ul>
+
+<ul><h5>Escape the Pit</h5>
+    <p>at Kent Mining Museum, Betteshanger Park, Deal, <b>from 4 - 6pm</b>.  Work as a team of 2 -6.  You’re below ground and there's been a roof fall, you and your whole team have run out of batteries in your cap lamps. You’ve got a pro miner up top guiding you back along the underground roadways but you need to work as a team to navigate the treacherous terrain in the pitch black.  You’ll be provided with workwear and helmets and guided through the process. After you’ve made it safely to pit top you can sit back with a hot chocolate and marshmallows and recount your daring escape.  Please note that all participating adults must have a paid for ticket. Children over 12 can participate without a participating adult but there still needs to be a parent or guardian present. Suitable for ages 8+, £12 per participant (£13.52 through eventbrites website)  .<a href="https://www.eventbrite.co.uk/e/escape-the-pit-tickets-431625933787?aff=ebdssbdestsearch">Eventbrite booking page. </a></p>
 </ul>
 </details>
 
@@ -349,10 +401,18 @@ Click on the days to find out what's happening.
     <p>Rainham Library, ME8 7LR, <b>from 11:30 - 12:30</b>. Make your own African drum in this craft activitiy session. <a href="https://www.medway.gov.uk/events/event/737/african_drum_craft_at_rainham_library">Booking Here</a></p>
 </ul> 
 
+<ul><h5>King's Mile Trick or Treat</h5>
+    <p>Palace Street, Northgate, Orange Street and more in Canterbury city centre, <b>2 - 4pm</b>.  All Primary aged chidlren (or younger) are invited to put on their scariest costumes and search for shops in the King's Mile displaying trick or treat bags.</p>
+</ul>
+
 <h3>PAID FOR activities / events</h3>
 <ul><h5>Brilliant Bats</h5>
     <p>Romney Marsh Visitors Centre, TN28 8AY <b>from 1 - 3pm</b>. Learn more about the marvellous world of British Bats and take part in 3D modelling and decorating bats to take home using a variety of mediums, including sticks, recycled materials, glues, paints, decorative papers and fabrics! Tickets are £14 for a family with up to 3 children, or £6 per child. <a href="https://www.kentwildlifetrust.org.uk/events/2022-10-28-family-workshop-brilliant-bats?fbclid=IwAR3DMNh5h53EaizPpsrpEZKXL7xoCbc_OQhvoAOSEY6UmKvthO5qQjvCIBQ">Booking Here</a> </p>
 </ul> 
+
+<ul><h5>Brass Rubbings</h5>
+    <p>Rochester Cathedral, ME1 1SX, <b>from 10:30 - 12:30pm or 1 - 3pm</b>.  Have a go at Brass rubbings around the Cathedral, £1 per participant, bring your own crayons if you have a favourite colour!</p>
+</ul>
 
 <ul><h5>Halloween Family Fun Day</h5>
     <p>Westgate Towers, Canterbury, CT1 2BZ, <b>from 12 - 4pm</b>. Join the team for Halloween crafts and games in your best costumes. £4 per child.</p>
@@ -394,9 +454,21 @@ Click on the days to find out what's happening.
     <p>Folkestone Museum, CT20 1DY, <b>from 11 - 3:30pm</b>.   Come and make a mask to scare your family and a basket to keep all your halloween treats in!  Activities are FREE and run in the learning space at the museum (11 - 12:45pm and 1:30 - 3:30pm).  <a href="https://folkestonemuseum.co.uk/whats-on/">More information</a></p>
 </ul>
 
+<ul><h5>Face Painting and Trick or Treating</h5>
+    <p>Cathedral Quarter (Burgate and Buttermarket), Canterbury<b> from 10 - 4pm</b>.  Head to Burgate for soem free facepainting, then visit the spoooooky stores along the Cathedral Quarter and see if you can get some treats.</p>
+</ul>
+
+<ul><h5>Coven Street</h5>
+    <p>The Maarlowe Arcade, Canterbury, <b>from 11 - 4pm</b>. A new coven of witches has moved into Canterbury and taken over the Marlowe Arcade! Pay them a visit and help them cast a spell or two!</p>
+</ul>
+
+<ul><h5>Zombie Zone</h5>
+    <p>Iron Bar Lane, Canterbury, <b>from 11 - 4pm</b>.  Pop by and see the zombies as they get rounded up by the Umbrella Corporation.</p>
+</ul>
+
 <ul><h5>Trick or Treat Scarefest</h5>
-<p>Priory Shopping Centre, Dartford, <b>from 11 - 4pm</b>. Join us in the Market Place at the Priory on the 29th Sept for our FREE Halloween Party. First job will be to pop to the scare zone bin The Market Place and create your very own Trick or Treat Goblet. Then It's time to follow the clues around the shops and fill your goblet with sweet treats and stamp you card. Once all the shops are stamped it's back to the Scare Zone for a professional photo and to take part in the Scare & Share competition Gallery. <a href="https://www.eventbrite.co.uk/e/trick-or-treat-scare-fest-at-the-priory-tickets-427160337067">Book your spaces here</a></p>
-<img src="https://www.justaddapicnic.com/images/event_posters/halloween2022/priory.webp">
+    <p>Priory Shopping Centre, Dartford, <b>from 11 - 4pm</b>. Join us in the Market Place at the Priory on the 29th Sept for our FREE Halloween Party. First job will be to pop to the scare zone bin The Market Place and create your very own Trick or Treat Goblet. Then It's time to follow the clues around the shops and fill your goblet with sweet treats and stamp you card. Once all the shops are stamped it's back to the Scare Zone for a professional photo and to take part in the Scare & Share competition Gallery. <a href="https://www.eventbrite.co.uk/e/trick-or-treat-scare-fest-at-the-priory-tickets-427160337067">Book your spaces here</a></p>
+    <img src="https://www.justaddapicnic.com/images/event_posters/halloween2022/priory.webp">
 </ul>
 
 <ul><h5>Spooky Garden</h5>
@@ -424,6 +496,10 @@ Click on the days to find out what's happening.
 
 <ul><h5>Halloween Family Fun Day</h5>
     <p>Westgate Towers, Canterbury, CT1 2BZ, <b>from 12 - 4pm</b>. Join the team for Halloween crafts and games in your best costumes. £4 per child.</p>
+</ul>
+
+<ul><h5>Escape the Pit</h5>
+    <p>at Kent Mining Museum, Betteshanger Park, Deal, <b>from 4 - 6pm</b>.  Work as a team of 2 -6.  You’re below ground and there's been a roof fall, you and your whole team have run out of batteries in your cap lamps. You’ve got a pro miner up top guiding you back along the underground roadways but you need to work as a team to navigate the treacherous terrain in the pitch black.  You’ll be provided with workwear and helmets and guided through the process. After you’ve made it safely to pit top you can sit back with a hot chocolate and marshmallows and recount your daring escape.  Please note that all participating adults must have a paid for ticket. Children over 12 can participate without a participating adult but there still needs to be a parent or guardian present. Suitable for ages 8+, £12 per participant (£13.52 through eventbrites website)  .<a href="https://www.eventbrite.co.uk/e/escape-the-pit-tickets-431625933787?aff=ebdssbdestsearch">Eventbrite booking page. </a></p>
 </ul>
 
 <ul><h5>Wild Fang Animal Handling</h5>
