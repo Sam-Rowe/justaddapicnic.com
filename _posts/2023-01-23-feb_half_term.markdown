@@ -23,9 +23,23 @@ Click on the days to find out what's happening.
 <details><summary><b>On over multiple days</b></summary>
 
 <h3>FREE events / activities</h3>
-<ul><h5></h5>
-    <p></p>
-    <img src="">
+    <ul><h5>Ranger Bear's Winter Quest</h5>
+        <p>Bewl Water, TN3 8JH,<b> throughout February</b>. Help Ranger Bear find all his friends hidden around the trails of Bewl Water. Trail sheets are availble to collect from the Waterfront Cafe for free.</p>
+        <p>More information about the trail can be found <a href="https://www.bewlwater.co.uk/whats-on/2022/12/ranger-bears-winter-quest-trail/?fbclid=IwAR2mW6FBJOZuG7chahNZGG9HWYNtIrBpfJf0vSHLyBZE9aIqjUMOw8Urx9w">HERE.</a></p>
+        <img src="https://www.justaddapicnic.com/images/event_posters/February2023/bewlwaterbear.jpeg">
+    </ul>
+    <ul><h5>Sun Pier House Half Term Activities</h5>
+        <p>Various activites taking place over half term with Sun Pier House in Chatham, ME4 4HF. Please note that these activites take place on the 1st and 2nd floors and there is no step free access. Booking required for half term events, please call 01634 401549.</p>
+        <img src="https://www.justaddapicnic.com/images/event_posters/February2023/sunpierhouse.jpeg">
+    </ul>
+<ul><h5>Enchanted Forest Half-term Activities</h5>
+    <p>The Amelia Scott, TN1 1LS <b>11th - 17th February from 10am - 3pm (not on 14th and 16th)</b>. Set your imagination alight…
+    <ul>DISCOVER historic objects 100's, sometimes millions of years old</ul>
+    <ul>EXPLORE an immersive digital forest</ul>
+    <ul>IMAGINE objects that can be used for your own story telling, what myths and folklore will you tell at home?</ul>
+    Get creative with natural history objects collected durign the Victorian period, imagine their stories, create art and explore the objects.</p>
+    <p>More information <a href="https://theamelia.co.uk/whats-on/enchanted-forest-half-term-activities.html">HERE.</a></p>
+    <img src="https://www.justaddapicnic.com/images/event_posters/February2023/ameliascott.jpeg">
 </ul>
 
 <h3>PAID FOR activites / events</h3>
@@ -67,6 +81,11 @@ Click on the days to find out what's happening.
         <p>Rochester Cathedral, Rochester, ME1 1SX<b> Opens 11th February</b> Witness the Peace Doves by Peter Walker in the Nave of Rochester Cathedral this February. Be a part of the art by creating your own Peace Dove on 13th, 14th and 17th February (£1 each) adding your message of peace to the others adorning the ceiling.</p>
         <p>More information about the art installation and activity <a href="https://www.rochestercathedral.org/peacedoves?fbclid=IwAR08b1lsidlXfdAP3X6dga0ktk3h8ddpOEiODzolxh0x62kWr7FbjB-yCQo">HERE.</a></p>
     </ul>
+    <ul><h5>Fairy Trail</h5>
+        <p>Whitstable Castle, CT5 2BW <b>13th - 18th February, 11am - 3pm</b>. Collect your £2 trail sheet from the Studio and see if you can find all the fairies hidden in the Castle gardens. Visit the Fairy Craft Workshop once you've found them all.</p>
+        <img src="https://www.justaddapicnic.com/images/event_posters/February2023/whitstablecastle.jpeg">
+    </ul>
+
 </details>
 
 
@@ -76,6 +95,16 @@ Click on the days to find out what's happening.
     <ul><h5>Medway Light Nights</h5>
         <p>Chatham, various locations <b>from 6pm - 9pm. </b>Go on a light adventure through Chatham to celebrate the history and culture of the Medway towns. You'll see light installations, a lantern parade (6pm Friday 10th Feb) and live music from local artists.</p>
         <p>More infomration including maps, programme of events and parking information can be found using this <a href="https://www.visitmedway.org/events/medway-light-nights-2023-93891/?fbclid=IwAR0h5m4N0YXgfJT2kFyaNf6ibDZuDoE2_tVg5pU5XszPAeziUa6G_zvxROQ">LINK.</a></p>
+        <img src="">
+    </ul>
+    <ul><h5>Knights and Dragons, Family Crafts</h5>
+        <p>Folkestone Museum, CT20 1DY<b> 11am - 12:45pm, 1:30pm - 3:30pm</b>. It's February Half-Term and we’re heading back to the days of yore and exploring medieval life. Today its all about knights and dragons; make a knight helmet or a flying dragon! The activities are free, but donations towards materials are welcomed (suggestion of £1 per child).</p>
+        <p>More information <a href="https://folkestonemuseum.co.uk/whats-on/half-term-saturday/?wcs_timestamp=1676113200">HERE.</a></p>
+        <img src="">
+    </ul>
+    <ul><h5></h5>
+        <p><b></b></p>
+        <p> <a href=""></a></p>
         <img src="">
     </ul>
 <h3>PAID FOR activites / events</h3>
@@ -157,11 +186,10 @@ Click on the days to find out what's happening.
     <ul><h5>Winter Ramble</h5>
         <p>Riverside Country Park, Rainham, ME7 2XH <b>1pm - 3pm</b>. Join the rangers of a walk around the site to be introduced to the overwintering wildlife that make the country park its home. SUitable for children 5 - 12 years. £4 per child, booking is essential call into the visitors centre or call 01634 337432.</p>
     </ul>
-    <ul><h5></h5>
-        <p><b></b></p>
-        <p> <a href=""></a></p>
-        <img src="">
+   <ul><h5>Birds and the Bees</h5>
+        <p>Capstone Farm Country Park, Chatham, ME7 3JE, <b>10am - 12noon OR 1pm - 3pm</b> Help the birds and bees this Valentines Day by making bird feeders and bee houses using reclaimed materials. Suitable for children ages 5 -12 year, £4 per child. Booking essential, please call 01634 338191, or pop into the Visitors Centre.</p>
     </ul>
+
 </details>
 
 <details><summary><b>Wednesdayday 15th February</b></summary>
@@ -169,6 +197,11 @@ Click on the days to find out what's happening.
     <ul><h5>Family Trail and Crafts with Anna Outdoors</h5>
         <p>Teers Meadow, Harrietsham, ME17 1AX, <b>10am - 12noon</b>. Join Anna Outdoors to find out about the wildlife of Teers Meadow by taking part in our self-led trail. Receive a Teers Meadow medal (decorated wooden disc), and make some creative crafts inspired by nature to take home.Look out for the Anna Outdoors flag flying in the field behind the Church. </p>
         <p>Booking through eventbrite <a href="https://www.eventbrite.co.uk/e/teers-meadow-wildlife-trail-and-nature-crafts-tickets-533583632007?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb&fbclid=IwAR1CQvTiHKKPVJE0ABXCUr8kw4Rkt4f8xwTFwt7kZhgjTDr9ktfxQ4Jyj54">HERE.</a></p>
+    </ul>
+    <ul><h5>Lords and Ladies Family Crafts</h5>
+        <p>Folkestone Museum, CT20 1CY <b>11am - 12:45 OR 1:30pm - 3:30pm</b>. It's February Half-Term and we’re heading back to the days of yore and exploring medieval life. Today its all about dressing up, if you don’t know what a hennin is, this is where you’ll learn about them and make one, its a kind of hat! This activity is free, but donations towards material of £1 per child are welcomed.</p>
+        <p>More information <a href="https://folkestonemuseum.co.uk/whats-on/half-term-wednesday/?wcs_timestamp=1676458800">HERE.</a></p>
+        <img src="">
     </ul>
 <h3>PAID FOR activites / events</h3>
     <ul><h5>Family Workshop: Garden Birds in Winter</h5>
@@ -183,14 +216,16 @@ Click on the days to find out what's happening.
     <ul><h5>Natural Bird Feeders</h5>
         <p>Riverside Country Park, Rainham, ME7 2XH <b>10am - 12noon OR 1pm - 3pm</b>. Join the rangers to make natural bird feeders. £4 per child, booking is essential call into the visitors centre or call 01634 337432.</p>
     </ul>
+   <ul><h5>Mystical Gardens</h5>
+        <p>Capstone Farm Country Park, Chatham, ME7 3JE, <b>10am - 12noon OR 1pm - 3pm</b> Discover the magic that exists in nature bny creating a Mystical Garden. The fairiees and elves need a place to stay. Suitable for all ages, £4 per child. Booking essential, please call 01634 338191, or pop into the Visitors Centre.</p>
+    </ul>
 </details>
 
 <details><summary><b>Thursday 16th February</b></summary>
 <h3>FREE events / activities</h3>
-    <ul><h5></h5>
-        <p><b></b></p>
-        <p> <a href=""></a></p>
-        <img src="">
+    <ul><h5>Jesters Family Crafts</h5>
+        <p>Folkestone Museum , CT20 1DY, <b>11am - 12:45pm OR 1:30pm - 3:30pm</b> It's February Half-Term and we’re heading back to the days of yore and exploring medieval life. Today its all about having a laugh – find out about court jesters and make a jesters hat and wand. This activity is free, donations towards materials are welcomed.</p>
+        <p>More information <a href="https://folkestonemuseum.co.uk/whats-on/half-term-thursday/?wcs_timestamp=1676545200">HERE.</a></p>
     </ul>
 <h3>PAID FOR activites / events</h3>
     <ul><h5></h5>
@@ -206,6 +241,9 @@ Click on the days to find out what's happening.
         <p><a href="https://museum.maidstone.gov.uk/whats-on/events/february-half-term-make-it-craft/"> Click here</a> for more information and booking.</p>
         <img src="">
     </ul>
+   <ul><h5>Clay Creations</h5>
+        <p>Capstone Farm Country Park, Chatham, ME7 3JE, <b>10am - 12noon OR 1pm - 3pm</b> Get creative using air drying clay to make one of the many creatures found around the park. Suitable for 5 - 12 years, £4 per child. Booking essential, please call 01634 338191, or pop into the Visitors Centre.</p>
+    </ul>
 </details>
 
 <details><summary><b>Friday 17th February</b></summary>
@@ -218,6 +256,10 @@ Click on the days to find out what's happening.
     <ul><h5>Bird spotting BINGO! with Green Gang</h5>
         <p>Fort Burgoyne, Dover, CT15 5FN, <b>from 10am. </b>Join the rangers at Fort Burgoyne to get a full house of birds as you walk around the site, find common birds and some of the winter visitors too.</p>
         <p>More information and booking <a href="https://www.eventbrite.co.uk/e/green-gang-fort-burgoyne-bird-bingo-tickets-516552611767?fbclid=IwAR1OkoLDxr_smLIxRWLmumi2ls9rPW3ssuau0jIPA0hrQC4DL4MXf8PGxD0">HERE.</a></p>
+    </ul>
+    <ul><h5>Castle Life Family Crafts</h5>
+        <p>Folkestone Museum , CT20 1DY, <b>11am - 12:45pm OR 1:30pm - 3:30pm</b> It's February Half-Term and we’re heading back to the days of yore and exploring medieval life. Today its all about building and living in a castle; everyone gets to build their own (miniature) castle too! This activity is free, donations towards materials are welcomed.</p>
+        <p>More information <a href="https://folkestonemuseum.co.uk/whats-on/half-term-friday/?wcs_timestamp=1676631600">HERE.</a></p>
     </ul>
 
 <h3>PAID FOR activites / events</h3>
@@ -235,6 +277,10 @@ Click on the days to find out what's happening.
 
 <details><summary><b>Saturday 18th February</b></summary>
 <h3>FREE events / activities</h3>
+    <ul><h5>Castle Life Family Crafts</h5>
+        <p>Folkestone Museum , CT20 1DY, <b>11am - 12:45pm OR 1:30pm - 3:30pm</b> It's February Half-Term and we’re heading back to the days of yore and exploring medieval life. Today its all about living in a castle but we’ll be exploring with our friends Hands On History. This activity is free, donations towards materials are welcomed.</p>
+        <p>More information <a href="https://folkestonemuseum.co.uk/whats-on/half-term-friday-second-saturday/?wcs_timestamp=1676718000">HERE.</a></p>
+    </ul>
     <ul><h5></h5>
         <p><b></b></p>
         <p> <a href=""></a></p>
