@@ -44,12 +44,12 @@ Click on the days to find out what's happening.
 
 <h3>PAID FOR activites / events</h3>
     <ul><h5>Peter Rabbit Story time Adventure</h5>
-        <p>The Beaney, Canterbury, CT1 2RA. <b>18th feb - 16th April</b>.</p>
+        <p>The Beaney, Canterbury, CT1 2RA. <b>18th Feb - 16th April</b>.</p>
         <p><em> "Hop into this walkthrough experience, where visitors will be able to immerse themselves in The Tale of Peter Rabbit. Little bunnies will be able to crawl under the garden gate, hide in a watering can, and see their reflection in a mirror pool, just like Peter Rabbit! With photo opportunities and activities to take part in along the way, there are plenty of opportunities for families to enjoy this well-loved tale."</em></p>
-        <p> Suggested donation £3<a href="https://canterburymuseums.co.uk/events/the-world-of-peter-rabbit-storytime-trail/">More info here.</a>  Please note the museum is closed on Mondays.</p>
+        <p> Suggested donation £3<a href="https://canterburymuseums.co.uk/events/the-world-of-peter-rabbit-storytime-trail/">. More info here.</a>  Please note the museum is closed on Mondays.</p>
     </ul>
     <ul><h5>Super Hero Garden Trail</h5>
-        <p>Hall Place and Gardens, Bexley, DA1PQ. <b>From 1 - 28th February. </b>Come along to the Gardens and see if you can find all the Super Heros hiding in the hedgerows and borders. Small prize at the end, £2.50 per trail. Suitable for children 3 - 10 year, younger children will require more teamwork. Binrg apencil, or buy one from the shop for 50p.</p>
+        <p>Hall Place and Gardens, Bexley, DA1PQ. <b>From 1st - 28th February. </b>Come along to the Gardens and see if you can find all the Super Heroes hiding in the hedgerows and borders. Small prize at the end, £2.50 per trail. Suitable for children 3 - 10 year, younger children will require more teamwork. Bring a pencil, or buy one from the shop for 50p.</p>
         <p> <a href="https://www.hallplace.org.uk/event/superhero-february-garden-trail/">More info here.</a></p>
     </ul>
     <ul><h5>February half Term Trail</h5>
@@ -80,6 +80,7 @@ Click on the days to find out what's happening.
     <ul><h5>Peace Doves</h5>
         <p>Rochester Cathedral, Rochester, ME1 1SX<b> Opens 11th February</b> Witness the Peace Doves by Peter Walker in the Nave of Rochester Cathedral this February. Be a part of the art by creating your own Peace Dove on 13th, 14th and 17th February (£1 each) adding your message of peace to the others adorning the ceiling.</p>
         <p>More information about the art installation and activity <a href="https://www.rochestercathedral.org/peacedoves?fbclid=IwAR08b1lsidlXfdAP3X6dga0ktk3h8ddpOEiODzolxh0x62kWr7FbjB-yCQo">HERE.</a></p>
+        <img scr="https://www.justaddapicnic.com/images/event_posters/February2023/rochestercathedral.jpeg">
     </ul>
     <ul><h5>Fairy Trail</h5>
         <p>Whitstable Castle, CT5 2BW <b>13th - 18th February, 11am - 3pm</b>. Collect your £2 trail sheet from the Studio and see if you can find all the fairies hidden in the Castle gardens. Visit the Fairy Craft Workshop once you've found them all.</p>
@@ -164,7 +165,7 @@ Click on the days to find out what's happening.
         <img src="https://www.justaddapicnic.com/images/event_posters/February2023/macknadeBiscuit.webp">
     </ul>
     <ul><h5>Guided Winter Walk and Talk</h5>
-        <p>Pegwell Bay Country Park, CT12 5JB <b>2pm - 3pm. </b>Learn more about how you can help to protect our vulnerable migrant birds and seal communities, grab a free spotter sheet or come and get arty with some natural crafts. Discover the wonderful bird and marine life that relies on these protected areas through the Winter. Adults and children will enjoy looking out for important winter waders, birds of prey and even our local seals and their newly born pups.Stop by between 10.30am-2.30pm to chat to the wardens about our coastal reserves or try a free spotter sheet and some craft activities to enjoy on your own walk.</p>
+        <p>Pegwell Bay Country Park, CT12 5JB <b>2pm - 3pm. </b>Learn more about how you can help to protect our vulnerable migrant birds and seal communities, grab a free spotter sheet or come and get arty with some natural crafts. Discover the wonderful bird and marine life that relies on these protected areas through the Winter. Adults and children will enjoy looking out for important winter waders, birds of prey and even our local seals and their newly born pups. Stop by between 10.30am-2.30pm to chat to the wardens about our coastal reserves or try a free spotter sheet and some craft activities to enjoy on your own walk.</p>
         <p>Please book to take part in this activity using this<a href="https://www.kentwildlifetrust.org.uk/events/2023-02-14-free-guided-winter-wildlife-walk-and-talk"> LINK.</a></p>
     </ul>
     <ul><h5></h5>
@@ -175,7 +176,7 @@ Click on the days to find out what's happening.
 
 <h3>PAID FOR activites / events</h3>
     <ul><h5>Make It! Crafts</h5>
-        <p>Maidstone Museum, ME14 1LH. <b>3 sessionss a day; 10:30, 12, 1:30 pm</b>.   Make a Green Man from Clay in Tuesday's session. £3 per child, sessions should take between 30 - 5 minutes to complete. An adult must remain with the young people whilst doing the activity. Ideal for ages 4 - 11 years.</p>
+        <p>Maidstone Museum, ME14 1LH. <b>3 sessions a day; 10:30, 12, 1:30 pm</b>.   Make a Green Man from Clay in Tuesday's session. £3 per child, sessions should take between 30 - 50 minutes to complete. An adult must remain with the young people whilst doing the activity. Ideal for ages 4 - 11 years.</p>
         <p><a href="https://museum.maidstone.gov.uk/whats-on/events/february-half-term-make-it-craft/"> Click here</a> for more information and booking.</p>
         <img src="">
     </ul>
@@ -195,7 +196,7 @@ Click on the days to find out what's happening.
 <details><summary><b>Wednesdayday 15th February</b></summary>
 <h3>FREE events / activities</h3>
     <ul><h5>Family Trail and Crafts with Anna Outdoors</h5>
-        <p>Teers Meadow, Harrietsham, ME17 1AX, <b>10am - 12noon</b>. Join Anna Outdoors to find out about the wildlife of Teers Meadow by taking part in our self-led trail. Receive a Teers Meadow medal (decorated wooden disc), and make some creative crafts inspired by nature to take home.Look out for the Anna Outdoors flag flying in the field behind the Church. </p>
+        <p>Teers Meadow, Harrietsham, ME17 1AX, <b>10am - 12noon</b>. Join Anna Outdoors to find out about the wildlife of Teers Meadow by taking part in the self-led trail. Receive a Teers Meadow medal (decorated wooden disc), and make some creative crafts inspired by nature to take home.Look out for the Anna Outdoors flag flying in the field behind the Church. </p>
         <p>Booking through eventbrite <a href="https://www.eventbrite.co.uk/e/teers-meadow-wildlife-trail-and-nature-crafts-tickets-533583632007?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb&fbclid=IwAR1CQvTiHKKPVJE0ABXCUr8kw4Rkt4f8xwTFwt7kZhgjTDr9ktfxQ4Jyj54">HERE.</a></p>
     </ul>
     <ul><h5>Lords and Ladies Family Crafts</h5>
@@ -209,7 +210,7 @@ Click on the days to find out what's happening.
         <p>Booking is essential, use the following <a href="https://www.kentwildlifetrust.org.uk/events/2023-02-15-family-workshop-garden-birds-winter">LINK.</a></p>
     </ul>
     <ul><h5>Make It! Crafts</h5>
-        <p>Maidstone Museum, ME14 1LH. <b>3 sessionss a day; 10:30, 12, 1:30 pm</b>.   Make a musical drum in Wednesday's session. £3 per child, sessions should take between 30 - 5 minutes to complete. An adult must remain with the young people whilst doing the activity. Ideal for ages 4 - 11 years.</p>
+        <p>Maidstone Museum, ME14 1LH. <b>3 sessions a day; 10:30, 12, 1:30 pm</b>.   Make a musical drum in Wednesday's session. £3 per child, sessions should take between 30 - 50 minutes to complete. An adult must remain with the young people whilst doing the activity. Ideal for ages 4 - 11 years.</p>
         <p><a href="https://museum.maidstone.gov.uk/whats-on/events/february-half-term-make-it-craft/"> Click here</a> for more information and booking.</p>
         <img src="">
     </ul>
@@ -237,7 +238,7 @@ Click on the days to find out what's happening.
         <p>Riverside Country Park, Rainham, ME7 2XH <b>10am - 12noon OR 1pm - 3pm</b>. Create with clay at Riverside Country Park. £4 per child, booking is essential call into the visitors centre or call 01634 337432.</p>
     </ul>
     <ul><h5>Make It! Crafts</h5>
-        <p>Maidstone Museum, ME14 1LH. <b>3 sessionss a day; 10:30, 12, 1:30 pm</b>.   Make a horse head dress / mask in Thursday's session. £3 per child, sessions should take between 30 - 5 minutes to complete. An adult must remain with the young people whilst doing the activity. Ideal for ages 4 - 11 years.</p>
+        <p>Maidstone Museum, ME14 1LH. <b>3 sessions a day; 10:30, 12, 1:30 pm</b>.   Make a horse head dress / mask in Thursday's session. £3 per child, sessions should take between 30 - 50 minutes to complete. An adult must remain with the young people whilst doing the activity. Ideal for ages 4 - 11 years.</p>
         <p><a href="https://museum.maidstone.gov.uk/whats-on/events/february-half-term-make-it-craft/"> Click here</a> for more information and booking.</p>
         <img src="">
     </ul>
